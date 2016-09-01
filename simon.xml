@@ -63,7 +63,7 @@
             proficuitatem et utilitatem, et sub illis dictis omnibus suppositum
             est animam esse scibilem sive intelligibilem.
           </p>
-          <p>
+          <p xml:id="31-l1prol-pq3w94">
             Dubitaret aliquis forte praecipue de anima intellectiva, de
             qua minus videtur, utrum sit scibilis et intelligibilis, et
             videretur alicui quod non hac ratione, et suppono quod
@@ -89,7 +89,7 @@
             secundum actum facto?</note> propter quod bene supponere
             possumus intelligere nostrum sumere exordium a sensu.
           </p>
-          <p>
+          <p xml:id="31-l1prol-b5s0zd">
             Ex illo arguitur sic: Illud non est intelligibile nec
             scibile per
             <app>
@@ -143,7 +143,7 @@
             intellectiva. <note>reading is corrupt/difficult. Might
             need solution</note>
           </p>
-          <p>
+          <p xml:id="31-l1prol-4yjys9">
             Secundo idem ostenditur sic, et presuppono quod inter
             sciens et scitum et intelligens et intellectum debet esse
             realis diversitas quia secundum Philosophum quinto
@@ -156,7 +156,7 @@
             realis diversitas, sed consequens est falsum per
             suppositionem, ergo et antecedens. 
           </p>
-          <p>
+          <p xml:id="31-l1prol-tunyql">
             Probatio consequentie:
             <app>
               <lem>quia</lem>
@@ -178,7 +178,7 @@
             oppositum erit verum, scilicet quod intellectiva anima non
             sit scibilis.
           </p>
-          <p>
+          <p xml:id="31-l1prol-sryuit">
             Oppositum autem huius declaratum fuit heri, et patet ex
             <app>
               <lem>auctoritate</lem>
@@ -188,7 +188,7 @@
             Philosophi qui potissime et principaliter tradidit hanc
             scientiam et cognitionem de anima intellectiva.
           </p>
-          <p>
+          <p xml:id="31-l1prol-n71fei">
             Ad cuius evidentiam duo sunt preintelligenda. Primo quod ipsa est
             scibilis et intelligibilis, secundo intelligendum est per quem modum
             ipsa sit scibilis et intelligibilis. Ad evidentiam autem primi est
@@ -196,7 +196,7 @@
             scibilis triplici modo sciendi tradito in loyca, scilicet
             diffinitione, divisione, demonstratione.</seg>
           </p>
-          <p>
+          <p xml:id="simon-qxctbd">
             Ratio autem primi est ista, scilicet quod sit scibilis
             diffinitione. Illud enim per diffinitionem est scibile
             quod habet quiditatem ab intellectu
@@ -220,7 +220,7 @@
             declarabatur in tertio notabili, quare anima intellectiva
             erit diffinitione scibilis.
           </p>
-          <p>
+          <p xml:id="simon-fjjqsi">
             Secunda ratio est: illud enim est scibile divisione quod
             habet partes potentiales et subiectivas, in quas est
             divisibile, sed anima intellectiva habet
@@ -233,7 +233,7 @@
             <supplied>pro</supplied> partibus vero subiectivis
             intellectum Sortis, Platonis et aliorum, quare et cetera.
           </p>
-          <p>
+          <p xml:id="simon-tp788e">
             Tertii ratio est, illud est scibile demonstratione quod habet
             proprietates et partiones de ipsa per <seg
             xml:id="31sententia-wqdoxu" type="target">diffinitionem mediam</seg>
@@ -255,7 +255,7 @@
             intellectum possibilem et abstrahamus quoad intellectum
             agentem, quare et cetera.
           </p>
-          <p>
+          <p xml:id="31-l1prol-1478dm">
             Et si anima intellectiva istis tribus modis sciendi est
             <app>
               <lem />
@@ -311,7 +311,7 @@
             </app>
             proprietates.
           </p>
-          <p>
+          <p xml:id="31-l1prol-ya42l8">
             <seg type="target" xml:id="31sententia-9rz9i5">Secundo notandum
             circa modum ipsam intelligendi</seg>, ad quod intelligendum secundum
             Proclum qui probat quod omne incorporeum cognoscitum est reflexivum
@@ -352,7 +352,7 @@
             attingeret ipsam animam sive intellectum primo secundum
             unam partem magnitudinis animae.
           </p>
-          <p>
+          <p xml:id="31-l1prol-q6ku03">
             Demonstratio
             <app>
               <lem>secundum</lem>
@@ -422,7 +422,7 @@
             intellectiva se ipsam reflexive poterit intelligere et
             scire.
           </p>
-          <p>
+          <p xml:id="31-l1prol-mrp9df">
             Secundo ad idem est notandum dictum Philosophi in tertio
             huius, scilicet quod intellectus intelligit se sicut
             <app>
@@ -477,7 +477,7 @@
             infinitum quod quidem procedere sic omnes artifices
             abhorrent.
           </p>
-          <p>
+          <p xml:id="31-l1prol-acwa46">
             Intelligit igitur <name ref="#Aristotle">Philosophus</name> quod intellectus intelligit se
             per species aliorum. Est enim intellectus, secundum
             Philosophum tertio <title>De anima</title>, in pura potentia
@@ -487,7 +487,7 @@
             per species intelligibiles quas in se gerit postquam
             intellexit.
           </p>
-          <p>
+          <p xml:id="31-l1prol-ctfr02">
             Est igitur in actum reductus, tunc quando est informatus
             speciebus et cum ita sit in actu existens, scilicet
             intelligendo res et habendo rerum species, tunc revertendo
@@ -522,7 +522,7 @@
             deveniamus in cognitionem substantiae. Post modum dicemus
             super litteram loco suo.
           </p>
-          <p>
+          <p xml:id="31-l1prol-ocs1yi">
             Patet igitur quod anima intellectiva habet essentiam ad
             intelligendum <note>H2 also modified this, but the change
             is difficult to figure out.</note> apprehensibilem
@@ -547,7 +547,7 @@
             directe, vel actu intelligendi sive sciendi secundario et
             per quandam reflexionem et conversionem.
           </p>
-          <p>
+          <p xml:id="31-l1prol-uh818a">
             Ad rationem primam dicendum quod verum est de actu
             intelligendi primario <unclear>quin<graphic
             url="img/ul0w5d.png"/></unclear> tamen
@@ -555,7 +555,7 @@
             ideo optime concludis quod intellectus nullo modo scibilis
             est actu sciendi sive intelligendi primario. 
           </p>
-          <p>
+          <p xml:id="31-l1prol-cc8uk6">
             Similiter ad secundam est dicendum quod verum est de actu
             sciendi primario inter sciens et scitum, tunc debet esse
             realis diversitas. Si autem convenit intelligere per
@@ -574,7 +574,7 @@
             intelligere se secundum ipsius substantiam ex quo receptum
             oportet esse denudatum a natura recepti.</supplied>
           </head>
-          <p>
+          <p xml:id="31-l1prol-rwz0li">
             <pb n="70v"/><cb n="b"/>
             Et est advertendum quod Iohannes Grammaticus movet hoc
             dubium, quomodo intellectus possibilis possit intelligere
@@ -606,7 +606,7 @@
           </p>
         </div>
         <div>
-          <p>
+          <p xml:id="31-l1prol-vari6o">
             <pb n="71r"/><cb n="b"/>
             <quote source="429b5">Quoniam <note>Gauthiers Moerbeke
             translation has cum</note> autem sit
@@ -639,7 +639,7 @@
             quod sic est inhabituatus vel informatus, supple
             singulorum entium speciebus.
           </p>
-          <p>
+          <p xml:id="31-l1prol-s1m7ne">
             Et est advertendum secundum <name
             ref="#Aquinas">Expositorem</name> quod sicut pupilla est
             quodam modo omnis color eo quod est receptiva omnium
@@ -694,7 +694,7 @@
             actualiter".</note> <unclear>ipsum <note>lectio
             incerta</note></unclear> habitum unde et quo consideretur.
           </p>
-          <p>
+          <p xml:id="31-l1prol-jstngj">
             Deinde cum dicit <quote source="429b7">Et quidem igitur et
             cetera</quote>, dicit quomodo intellectus secundum habitum
             sit in potentia et in actu, et cum hoc ponens quandam
@@ -712,7 +712,7 @@
             scientie per doctrinam, <quote source="429b9">aut
             invenire</quote>, designans scientiam per inventionem.
           </p>
-          <p>
+          <p xml:id="31-l1prol-guov4n">
             Advertendum est
             <app>
               <lem>ulterius secundum Philosophum</lem>
@@ -761,7 +761,7 @@
             reflexiva sui ipsius super se ipsum propter
             transmutationem partium in organo.
           </p>
-          <p>
+          <p xml:id="31-l1prol-5pca3y">
             Intellectus autem propter causam oppositam bene potest
             intelligere suum actum et per consequens se
             ipsum. Littera: ita dictum fuit quod quando intellectus
@@ -780,7 +780,7 @@
         </div>
         <div>
           <head><supplied>Lectio</supplied></head>
-          <p>
+          <p xml:id="31-l1prol-hu3189">
             <pb n="72r"/><cb n="a"/>
             <quote source="429b22">Dubitabit autem aliquis</quote>.
             Superius <name ref="#Aristotle">Philosophus</name> determinavit de obiecto intellectus
@@ -788,11 +788,11 @@
             dividitur in duas.
           </p>
           <div type="divisio">
-            <p>
+            <p xml:id="31-l1prol-4j92v1">
               Primo enim ipsas movet, secundo dissolvit ibi <quote
               source="429b29">aut pati</quote>.
             </p>
-            <p>
+            <p xml:id="31-l1prol-mzxi1z">
               Prima ad huc in duas secundum quod due sunt dubitationes
               quas movet, secunda ibi <quote source="429b26">Amplius
               si intelligibilis</quote>, ex quo <name ref="#Aristotle">Philosophus</name> ostendit
@@ -808,7 +808,7 @@
               possibile sit intellectum intelligere, et supponatur
               quod intelligere sit quodam pati.
             </p>
-            <p>
+            <p xml:id="31-l1prol-wj6qrs">
               Ex hoc sic activa et passiva communicant in materia. Et
               sunt unum in genere naturali. Sed nunc ita est quod
               intellectus, cum sit inmixtus et inmaterialis ad hoc
@@ -816,7 +816,7 @@
               habet commune, quare non potest pati, et si non potest
               pati, quare necque intelligere.
             </p>
-            <p>
+            <p xml:id="31-l1prol-fl14mn">
               Littera ita determinatum est de obiecto intellectus. Sed
               utique aliquis dubitabit si intellectus videtur esse
               simplex et inpassibilis et nihil enim nullam habet
@@ -829,13 +829,13 @@
               `quidem' here.</note>, id est agens videtur agere et
               paciens videtur pati.
             </p>
-            <p>
+            <p xml:id="31-l1prol-o5jaft">
               Deinde cum dicit <quote source="429b26">Amplius
               autem</quote>, movet secundam dubitationem, quesito
               quomodo sit possibile quod intellectus intelligat. 
             </p>
             <div type="quaestio">
-              <p>
+              <p xml:id="31-l1prol-892kz8">
                 Consequenter quero querit<note>Either one of these
                 should be deleted or replaced completely with
                 queritur. Depending on whether it's a paraphrase or
@@ -851,7 +851,7 @@
                 </app>
                 sit intelligibilis.
               </p>
-              <p>
+              <p xml:id="31-l1prol-hize1f">
                 Et probatur primo quod non, quia si esset
                 intelligibilis aut per se
                 <app>
@@ -921,7 +921,7 @@
                 </app>
                 possibile.
               </p>
-              <p>
+              <p xml:id="31-l1prol-xiq0sa">
                 <quote>Autem</quote> pro quia intelligibile est unius
                 speciei, vel uniforme vel secundum unum modum, quia
                 inquam hoc [= habet? maybe better] ita
@@ -932,7 +932,7 @@
                 contingit si intellectus <supplied>non</supplied> sit
                 intelligibilis per aliud sibi additum, sed per se.
               </p>
-              <p>
+              <p xml:id="31-l1prol-y2vuhl">
                 Et est advertendum quod esse illud quod per se
                 intellectum est abstractum est a materia, sed in
                 abstractis a materia est idem intelligens et
@@ -962,7 +962,7 @@
                 intelligibilis, sit eiusdem speciei cum aliis
                 intelligibilibus.
               </p>
-              <p>
+              <p xml:id="31-l1prol-7sg9yo">
                 Advertendum quod substantie separate, cum sint entia inmaterialia et pure forme, alio modo sunt
                 <lb ed="#L"/>intelligibiles quam materialia. Materialia enim non sunt intelligibilia nisi per speciem abstractam ab ipsiis virtu
                 <lb ed="#L"/>te intellectus agentis abstrahentis. Intellectum possibilem repositam lapidis essentia species
@@ -995,7 +995,7 @@
                 <lb ed="#L"/>sunt eiusdem speciei, alia materialia intelligerent. Si secundo modo cum intelligibilia sint eiusdem speciei, sequitur
                 <lb ed="#L"/>sicut materialia non intelligunt quod intellectus non intelligat.
               </p>
-              <p>
+              <p xml:id="31-l1prol-bidqbe">
                 Deinde cum dicit <quote source="429b29">Aut pati quidem
                 <lb ed="#L"/>quid</quote> ad dubitationes motas solvit, et primo ad primam, secundo ad secundam ibi <quote source="430a2">et ipse autem</quote>. Prima dubitatio
                 <lb ed="#L"/>fuit ista quomodo sit possibile quod intellectus intelligat, cum tamen sit
@@ -1050,7 +1050,7 @@
                 <lb ed="#L"/>dicentium animam esse compositam ab omnibus ut omnia cognosceret.
                 <note>On the whole discussion of shadowing and weighing down the body, compare with Albert in DA, lib. 2, tr. 1, cap. 8, pp. 76-77.</note>
               </p>
-              <p>
+              <p xml:id="31-l1prol-6i478l">
                 Deinde cum dicit <quote source="430a2">Et ipse autem
                 intelligibilis</quote>, solvit secundam dubitationem
                 que duas tenuit difficultates. Una fuit ad quam
@@ -1066,7 +1066,7 @@
                 sunt intelligibilia quod tamen non intelligant ibi <quote
                 source="430a5">Non autem semper</quote>
               </p>
-              <p>
+              <p xml:id="31-l1prol-j5sgxu">
                 Advertendum quod triplex est intellectus: divinus,
                 humanus, medio modo se habens sicut intellectus
                 intelligentiarum. Humanus quidem intellectus omnino
@@ -1103,7 +1103,7 @@
                 cognoscit eterne materialia immaterialiter multa
                 une et contingentia neccesario totum simpliciter.
               </p>
-              <p>
+              <p xml:id="31-l1prol-o8zcxt">
                 Contrarium autem est de intellectu nostro humano, qui
                 non habet aliquam [/aliam?] naturam nisi quia est possibilis
                 vocatus, et in hoc iam oppoinitur intellectu divino
@@ -1170,7 +1170,7 @@
                 quod in materialibus idem sit intellectus et quod
                 intelligitur.
               </p>
-              <p>
+              <p xml:id="31-l1prol-n84v7c">
                 Advertendum quod illa species quam virtus intellectiva
                 intelligit, est una duo et duo [strange] sunt que
                 intelligunt unum intelligibile. illorum est materiale
@@ -1206,7 +1206,7 @@
                 unum <supplied>lumen</supplied>
                 multiplicans se in medio peruio.
               </p>
-              <p>
+              <p xml:id="31-l1prol-4o1am3">
                 Et nota quod hic <name ref="#Aquinas">Expositor</name>
                 variat suam sententiam aequivoco [strange? aequivocando?],
                 intellectum etenim sicut lumen est actus et perfectio?
@@ -1232,7 +1232,7 @@
                 obiectum materiale ab h<del rend="punct">i</del>oc
                 species separata non est idem tali obiecto.
               </p>
-              <p>
+              <p xml:id="31-l1prol-qp92nl">
                 Advertendum est modo propter solutionem prime
                 distinctionis quomodo dictum Philosophi applicetur ad
                 propositum. Sicut enim nulli competit actus
@@ -1264,7 +1264,7 @@
                 intelligantur, non intelligunt et sic patet secunda
                 difficultas determinata.
               </p>
-              <p>
+              <p xml:id="31-l1prol-el5y2u">
                 Littera: Ita fuit secunda dubitatio quomodo
                 intellectus esset intelligibilis vel sicut substantiae
                 separatae, id est per sui ipsius substantiam, vel
@@ -1310,7 +1310,7 @@
                 </app>
                 scientia.
               </p>
-              <p>
+              <p xml:id="31-l1prol-do2ip7">
                 Littera: <quote source="430a4-5">scientia speculativa
                 et scibile</quote>, id est speculativum, sicut et
                 noster intellectus, sunt idem, sed ista causa est
