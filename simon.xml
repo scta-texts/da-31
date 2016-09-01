@@ -68,10 +68,16 @@
             qua minus videtur, utrum sit scibilis et intelligibilis, et
             videretur alicui quod non hac ratione, et suppono quod
             omnis nostra cognitio sumat exordium a sensu, quia dicit
-            <name ref="#Aristotle">Philosophus</name> <title
-            ref="#Arist.APo">Primo posteriorum</title> <quote
-            source="APo I.1 71a1">omnis doctrina et omnis disciplina
-            et cetera</quote>. Videtur et idem per dictum Philosophi
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosophus</name>
+                <title ref="#Arist.APo">Primo posteriorum</title>
+              </ref>
+              <quote>omnis doctrina et omnis disciplina et cetera</quote>
+              <bibl>Arist. <title>APo</title> I.1 71a1--2</bibl>
+            </cit>
+             <quote
+            source="APo I.1 71a1"></quote>. Videtur et idem per dictum Philosophi
             in tertio huius ubi dicit quod intelligentem quemque
             neccesse est fanthasmata speculari, ad quod idem <name
             ref="#Aristotle">Philosophus</name> loquens in prohemio
