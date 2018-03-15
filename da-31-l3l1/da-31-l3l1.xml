@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sententia super librum De anima</title>
+        <author>Simon of Faversham</author>
+        <respStmt>
+          <persName xml:id="MSC">Michael Stenskjær Christensen</persName>
+          <resp>Encoding and transcription</resp>
+          <persName xml:id="SE">Sten Ebbesen</persName>
+          <resp>Editorial suggestions</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Michael Stenskjær Christensen</publisher>
+      </publicationStmt>
+      <editionStmt>
+        <edition n="0.1">
+          <date when="2016-01-13">January 13, 2016</date>
+        </edition>
+      </editionStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L">Leipzig UB 1359, ff. 44r-77v</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding location="internal" method="parallel-segmentation"/>
+      <editorialDecl>
+        <p>
+          This particular scribe has a bad habit of using the same
+          abbreviation for huius and huiusmodi (h9). When I read
+          huiusmodi for huius, it will be apparent in a critical note.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft" />
+    <profileDesc>
+      <handNotes>
+        <handNote xml:id="h1" scope="major" medium="brown"></handNote>
+        <handNote xml:id="h2" scope="minor" medium="black"></handNote>
+        <handNote xml:id="h3" scope="minor" medium="light brown"></handNote>
+      </handNotes>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb n="70-v" ed="#L"/><cb ed="#L" n="b"/>
+      </div>
+    </front>
+    <body>
+      <head>
+        <supplied ana="#meta-text">
+          Dubitatio: quomodo intellectus possibilis possit intelligere se
+          secundum ipsius substantiam ex quo receptum oportet esse denudatum a
+          natura recepti.
+        </supplied>
+      </head>
+      <p xml:id="31-l3l1-rwz0li">
+        Et est advertendum quod Iohannes Grammaticus movet hoc
+        dubium, quomodo intellectus possibilis possit intelligere
+        <app>
+          <lem>se</lem>
+          <rdg wit="#L"><add place="above">se</add></rdg>
+        </app>
+        secundum ipsius substantiam ex quo receptivum oportet esse denudatum a
+        natura recepti. Ipse respondet et dicit quod si ita esset quod
+        intellectus esset in potentia ad rerum substantias quas deberet
+        intelligere ita quod rerum intelligibilium substantias reciperet, tunc
+        illa dubitatio locum haberet. Sed modo non est ita. Sed pro tanto
+        intellectus dicitur recipere res, quia recipit species rerum
+        noscibiliter et ex hoc trahitur distinctio quod intellectum recipere
+        intelligibilia dupliciter intelligitur. Uno modo quod sit in potentia
+        receptiva, <quote>ad intelligibilia</quote>, id est ad substantias
+        intelligibilium, et talis intellectus est falsus. Alio autem modo
+        intellectus potest intelligi <quote>in potentia ad
+        intelligibilia</quote>, id est ad species et rationes rerum
+        intelligibilium quas noscibiliter recipit et sic bene habet veritatum.
+        Unde <name ref="#Aristotle">Philosophus</name> huic concordat postea
+        dicens <quote source="III.8"> lapis non est in anima, sed species
+        eius,</quote> et hoc modo est intelligendum quod intellectus possibilis
+        est in potentia receptiva sui ipsius, scilicet specie et ratione, eo
+        modo quo patebit.
+      </p>
+    </body>
+  </text>
+</TEI>
