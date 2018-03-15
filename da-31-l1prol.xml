@@ -2,14 +2,14 @@
   <teiHeader>    
     <fileDesc>
       <titleStmt>
-	<title>Dicta super librum De anima</title>
-	<author>Simon Magister</author>
-	<respStmt>
-	  <persName xml:id="MSC">Michael Stenskjær Christensen</persName>
-	  <resp>Encoding and transcription</resp>
-    <persName xml:id="SE">Sten Ebbesen</persName>
-    <resp>Editorial suggestions</resp>
-	</respStmt>
+	      <title>Prooemium</title>
+	      <author>Simon Magister</author>
+	      <respStmt>
+	        <persName xml:id="MSC">Michael Stenskjær Christensen</persName>
+	        <resp>Encoding and transcription</resp>
+          <persName xml:id="SE">Sten Ebbesen</persName>
+          <resp>Editorial suggestions</resp>
+	      </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Michael Stenskjær Christensen</publisher>
@@ -20,9 +20,9 @@
         </edition>
       </editionStmt>
       <sourceDesc>
-	<listWit>
-	  <witness xml:id="L">Leipzig UB 1359, ff. 44r-</witness>
-	</listWit>
+	      <listWit>
+	        <witness xml:id="L">Leipzig UB 1359, ff. 44r-</witness>
+	      </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -55,7 +55,7 @@
     <body>
       <div type="book" n="I">
         <div type="part">
-          <head><supplied>Prooemium</supplied></head>
+          <head><supplied ana="#meta-text">Prooemium</supplied></head>
           <p xml:id="da-31-l1prol-1">
             <pb n="44r"/><cb n="b" />
             Ita
@@ -83,8 +83,8 @@
               <quote>omnis doctrina et omnis disciplina et cetera</quote>
               <bibl>Arist. <title ref="#Arist.APo">APo</title> I.1 71a1--2</bibl>
             </cit>
-             <quote
-            source="APo I.1 71a1"></quote>. Videtur et idem per dictum Philosophi
+            <quote
+                source="APo I.1 71a1"></quote>. Videtur et idem per dictum Philosophi
             in tertio huius ubi dicit quod intelligentem quemque
             neccesse est fanthasmata speculari, ad quod idem <name
             ref="#Aristotle">Philosophus</name> loquens in prohemio
@@ -120,34 +120,34 @@
                 intelligible (provided that only what is sensible is
                 intelligible).
               </note>
-            </app>, quod non est sensibile, nec per se nec adminus per accidens,
-            sed anima intellectiva non est sensibilis, nec per se nec per
-            accidens, ut declarabo, quare et cetera. Maior patet ex
-            suppositione. Minor declaratur in utroque membro. Planum autem est
-            quod anima intellectiva per se non est sensibilis eo quod est
-            incorporea, sed secundum Philosophum in libro <title
-            ref="#Arist.Sens">De sensu et sensato</title> solum corporeum et
-            sensibile erit, ergo anima intellectiva non est per se sensibilis,
-            nec est etiam per accidens sensibilis, scilicet ut per effectus eius
-            <app>
-              <lem>qui</lem>
-              <rdg wit="#L">que</rdg>
-            </app>
-            sunt operationes eius, sicut enim secundum Philosophum in
-            tertio huius essentia <secl>huius</secl> animae est
-            inmaterialis et sempiterna et abstracta, sic et eius
-            operatio, eo quod illa non transit in materiam exteriorem
-            sed manet intus secundum Philosophum secundo <pb n="44v"
-            /><cb n="a" /> <title ref="#Arist.Metaph">Metaphysice</title>. Manifestum enim
-            est ex istis quod intelligere et speculari et alia
-            <app>
-              <lem>huiusmodi</lem>
-              <rdg wit="#L">huius</rdg>
-            </app>
-            opera anime intellective non sunt sensibilia, quare nullo
-            est scibilis et intelligibilis erit anima
-            intellectiva. <note>reading is corrupt/difficult. Might
-            need solution</note>
+              </app>, quod non est sensibile, nec per se nec adminus per accidens,
+              sed anima intellectiva non est sensibilis, nec per se nec per
+              accidens, ut declarabo, quare et cetera. Maior patet ex
+              suppositione. Minor declaratur in utroque membro. Planum autem est
+              quod anima intellectiva per se non est sensibilis eo quod est
+              incorporea, sed secundum Philosophum in libro <title
+              ref="#Arist.Sens">De sensu et sensato</title> solum corporeum et
+              sensibile erit, ergo anima intellectiva non est per se sensibilis,
+              nec est etiam per accidens sensibilis, scilicet ut per effectus eius
+              <app>
+                <lem>qui</lem>
+                <rdg wit="#L">que</rdg>
+              </app>
+              sunt operationes eius, sicut enim secundum Philosophum in
+              tertio huius essentia <secl>huius</secl> animae est
+              inmaterialis et sempiterna et abstracta, sic et eius
+              operatio, eo quod illa non transit in materiam exteriorem
+              sed manet intus secundum Philosophum secundo <pb n="44v"
+              /><cb n="a" /> <title ref="#Arist.Metaph">Metaphysice</title>. Manifestum enim
+              est ex istis quod intelligere et speculari et alia
+              <app>
+                <lem>huiusmodi</lem>
+                <rdg wit="#L">huius</rdg>
+              </app>
+              opera anime intellective non sunt sensibilia, quare nullo
+              est scibilis et intelligibilis erit anima
+              intellectiva. <note>reading is corrupt/difficult. Might
+              need solution</note>
           </p>
           <p xml:id="da-31-l1prol-4yjys9">
             Secundo idem ostenditur sic, et presuppono quod inter
@@ -244,20 +244,20 @@
             <app>
               <lem>demonstrabiles</lem>
               <rdg wit="#L">demonstrabilem</rdg>
-            </app>,
-            quia secundum Philosophum secundo
-            <title ref="#Arist.APo">Posteriorum</title> diffinitio est medium in
-            demonstrando propriam passionem de suo proprio subiecto,
-            sed anima intellectiva habet huius
-            <app>
-              <lem>huiusmodi</lem>
-              <rdg wit="#L">huius</rdg>
-            </app>
-            proprietates, scilicet quod sit motrix corporis humani, et
-            quod ea vivamus et intelligimus<note>Note the
-            modus. Maybe vivamus is wrong.</note> quantum ad
-            intellectum possibilem et abstrahamus quoad intellectum
-            agentem, quare et cetera.
+              </app>,
+              quia secundum Philosophum secundo
+              <title ref="#Arist.APo">Posteriorum</title> diffinitio est medium in
+              demonstrando propriam passionem de suo proprio subiecto,
+              sed anima intellectiva habet huius
+              <app>
+                <lem>huiusmodi</lem>
+                <rdg wit="#L">huius</rdg>
+              </app>
+              proprietates, scilicet quod sit motrix corporis humani, et
+              quod ea vivamus et intelligimus<note>Note the
+              modus. Maybe vivamus is wrong.</note> quantum ad
+              intellectum possibilem et abstrahamus quoad intellectum
+              agentem, quare et cetera.
           </p>
           <p xml:id="da-31-l1prol-1478dm">
             Et si anima intellectiva istis tribus modis sciendi est
@@ -277,26 +277,26 @@
             <app>
               <lem>huiusmodi</lem>
               <rdg wit="#L">huius</rdg>
-            </app>.
-            Anime proprietates autem vegetative sunt nutrire,
-            augere, generare. Sensitive vero audire, videre et
-            huiusmodi. Est igitur omnis
-            <app>
-              <rdg wit="#L"><del rend="punct"><unclear>sû</unclear></del></rdg>
-            </app>
-            anima
-            <app>
-              <rdg wit="#L"><del rend="punct"><unclear>sû</unclear></del></rdg>
-            </app>
-            scibilis, illo triplici modo tradito in loyca quod
-            declarare et ostendere intendebamus. Et si modus
-            Philosophi
-            <app>
-              <lem>procedendi</lem>
-              <rdg wit="#L">consequenter</rdg>
-            </app>
-            intuetur ratione, ipse istis modis tradet scientiam de anima,
-            scilicet diffinitione, divisione et demonstratione.
+              </app>.
+              Anime proprietates autem vegetative sunt nutrire,
+              augere, generare. Sensitive vero audire, videre et
+              huiusmodi. Est igitur omnis
+              <app>
+                <rdg wit="#L"><del rend="punct"><unclear>sû</unclear></del></rdg>
+              </app>
+              anima
+              <app>
+                <rdg wit="#L"><del rend="punct"><unclear>sû</unclear></del></rdg>
+              </app>
+              scibilis, illo triplici modo tradito in loyca quod
+              declarare et ostendere intendebamus. Et si modus
+              Philosophi
+              <app>
+                <lem>procedendi</lem>
+                <rdg wit="#L">consequenter</rdg>
+              </app>
+              intuetur ratione, ipse istis modis tradet scientiam de anima,
+              scilicet diffinitione, divisione et demonstratione.
           </p>
           <p xml:id="da-31-l1prol-6s2wam">
             Deffinit igitur animam in secundo huius et dividit eam per
@@ -377,7 +377,7 @@
               <rdg wit="#L">
                 <del hand="#h2"><unclear>cum</unclear></del>
               </rdg>
-           </app>
+            </app>
             probat
             <name ref="#Aristotle">Philosophus</name> in tertio huius, sequeretur etiam
             <app>
@@ -544,7 +544,7 @@
                 <del hand="#h1" rend="punct"><del hand="#h2" rend="strike">post</del></del>
               </rdg>
             </app>
-             se primo modo et alia ex
+            se primo modo et alia ex
             consequenti, ut relucent in se ipso tamquam in speculo et
             exemplari. Patet etiam ex dictis quod dupliciter est
             aliquid scibile, vel actu intelligendi primario et
