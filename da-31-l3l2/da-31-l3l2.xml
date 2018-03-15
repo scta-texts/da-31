@@ -27,6 +27,9 @@
     </fileDesc>
     <encodingDesc>
       <variantEncoding location="internal" method="parallel-segmentation"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
       <editorialDecl>
         <p>
           This particular scribe has a bad habit of using the same
