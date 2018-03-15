@@ -52,11 +52,15 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb n="44r" ed="#L"/><cb n="b" ed="#L" />
+      </div>
+    </front>
     <body>
       <div xml:id="da-31-l1prol">
         <head><supplied ana="#meta-text">Prooemium</supplied></head>
         <p xml:id="da-31-l1prol-1">
-          <pb n="44r"/><cb n="b" />
           Ita
           <app>
             <lem>ex</lem>
@@ -82,18 +86,15 @@
             <quote>omnis doctrina et omnis disciplina et cetera</quote>
             <bibl>Arist. <title ref="#Arist.APo">APo</title> I.1 71a1--2</bibl>
           </cit>
-          <quote
-              source="APo I.1 71a1"></quote>. Videtur et idem per dictum Philosophi
-          in tertio huius ubi dicit quod intelligentem quemque
-          neccesse est fanthasmata speculari, ad quod idem <name
-          ref="#Aristotle">Philosophus</name> loquens in prohemio
-          huius quod intellectus, scilicet illa virtus qua scimus et
-          intelligimus et cognoscimus, vel est fantasia vel non est
-          sine fanthasia.  Et secundum Philosophum secundo huius
-          fanthasia est motus factus post sensum, <note>Is he
-          thinking of 429a1-2: fantasia utique erit motus a sensu
-          secundum actum facto?</note> propter quod bene supponere
-          possumus intelligere nostrum sumere exordium a sensu.
+          . Videtur et idem per dictum Philosophi in tertio huius ubi dicit quod
+          intelligentem quemque neccesse est fanthasmata speculari, ad quod idem
+          <name ref="#Aristotle">Philosophus</name> loquens in prohemio huius
+          quod intellectus, scilicet illa virtus qua scimus et intelligimus et
+          cognoscimus, vel est fantasia vel non est sine fanthasia. Et secundum
+          Philosophum secundo huius fanthasia est motus factus post sensum,
+          <note>Is he thinking of 429a1-2: fantasia utique erit motus a sensu
+          secundum actum facto?</note> propter quod bene supponere possumus
+          intelligere nostrum sumere exordium a sensu.
         </p>
         <p xml:id="da-31-l1prol-b5s0zd">
           Ex illo arguitur sic: Illud non est intelligibile nec

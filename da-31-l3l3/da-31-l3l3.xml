@@ -45,11 +45,15 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb n="72r" ed="#L"/><cb n="a" ed="#L"/>
+      </div>
+    </front>
     <body>
       <div xml:id="da-31-l3l3">
         <!-- GAP! -->
         <p xml:id="da-31-l3l3-58xeo3">
-          <pb n="72r"/><cb n="a"/>
           <quote source="429b22">Dubitabit autem aliquis</quote>.
           Superius <name ref="#Aristotle">Philosophus</name> determinavit de obiecto intellectus
           posibilis. Hic circa dicta movet dubitationes, et
