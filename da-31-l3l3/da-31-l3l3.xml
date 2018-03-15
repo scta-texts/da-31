@@ -46,531 +46,533 @@
   </teiHeader>
   <text>
     <body>
-      <!-- GAP! -->
-      <p xml:id="da-31-l3l3-58xeo3">
-        <pb n="72r"/><cb n="a"/>
-        <quote source="429b22">Dubitabit autem aliquis</quote>.
-        Superius <name ref="#Aristotle">Philosophus</name> determinavit de obiecto intellectus
-        posibilis. Hic circa dicta movet dubitationes, et
-        dividitur in duas.
-      </p>
-      <p xml:id="da-31-l3l3-vsbz93">
-        Primo enim ipsas movet, secundo dissolvit ibi <quote
-        source="429b29">aut pati</quote>.
-      </p>
-      <p xml:id="da-31-l3l3-mphpuv">
-        Prima ad huc in duas secundum quod due sunt dubitationes
-        quas movet, secunda ibi <quote source="429b26">Amplius
-        si intelligibilis</quote>, ex quo <name ref="#Aristotle">Philosophus</name> ostendit
-        <app>
-          <lem>quomodo</lem>
-          <rdg wit="#L"><add place="above">quomodo</add></rdg>
-        </app>
-        intellectus fertur in cognitionem quod quid est, et hoc
-        recta linea, et ideo illud est obiectum eius directe, ex
-        quo autem fertur in singulare indirecte et per accidens,
-        ideo tale est obiectum ipsius per accidens. Hic
-        subiungit duas dubitationes quarum prima est utrum
-        possibile sit intellectum intelligere, et supponatur
-        quod intelligere sit quodam pati.
-      </p>
-      <p xml:id="da-31-l3l3-jqdqg9">
-        Ex hoc sic activa et passiva communicant in materia. Et
-        sunt unum in genere naturali. Sed nunc ita est quod
-        intellectus, cum sit inmixtus et inmaterialis ad hoc
-        quod omnia cognoscat inmaterialiter, nulli quidquam
-        habet commune, quare non potest pati, et si non potest
-        pati, quare necque intelligere.
-      </p>
-      <p xml:id="da-31-l3l3-gusqn3">
-        Littera ita determinatum est de obiecto intellectus. Sed
-        utique aliquis dubitabit si intellectus videtur esse
-        simplex et inpassibilis et nihil enim nullam habet
-        materiam communem ulli, sicut dixit Anaxagoras
-        interrogative quomodo tunc intelligeret intellectus. Sed
-        si, supple, intelligere est pati, quia in quantum
-        utique, id est agenti et patienti, est aliqua materia
-        communis, tunc hoc <unclear>quod (l)</unclear><note>The
-        l above makes little sense. The paraphrased text has
-        `quidem' here.</note>, id est agens videtur agere et
-        paciens videtur pati.
-      </p>
-      <p xml:id="da-31-l3l3-vlaord">
-        Deinde cum dicit <quote source="429b26">Amplius
-        autem</quote>, movet secundam dubitationem, quesito
-        quomodo sit possibile quod intellectus intelligat.
-      </p>
-      <p xml:id="da-31-l3l3-q9jfh9">
-        Consequenter quero querit<note>Either one of these
-        should be deleted or replaced completely with
-        queritur. Depending on whether it's a paraphrase or
-        original question by comm.</note> quomodo
-        <app>
-          <lem>intellectus</lem>
-          <rdg wit="#L">
-            <subst>
-              <del>intelligit</del>
-              <add>intellectus</add>
-            </subst>
-          </rdg>
-        </app>
-        sit intelligibilis.
-      </p>
-      <p xml:id="da-31-l3l3-vft4ah">
-        Et probatur primo quod non, quia si esset
-        intelligibilis aut per se
-        <app>
-          <lem>et</lem>
-          <rdg wit="#L" type="correction-substitution">
-            <subst>
-              <del rend="rasura">aut</del>
-              <add place="above-line">et</add>
-            </subst>
-          </rdg>
-        </app>
-        per suam essentiam est intelligibilis, aut per aliud
-        <app>
-          <lem>aliquid</lem>
-          <rdg wit="#L"><add place="above">aliquid</add></rdg>
-        </app>
-        essentie additum, modo quodcumque illorum dederis,
-        sequetur inpossibile ut declaro quare non est
-        intelligibilis intellectus et fundatur haec ratio
-        super illam maximam Philosophi <title ref="#Arist.APr">Primo
-        posteriorum</title>: <quote>Illud est impossibile quod
-        consequitur impossibile.</quote> Probatio minoris:
-        Quoad utrumque eius membrum sic: Unumquodque est
-        intelligibile eiusdem speciei cum alio
-        intelligibili. Omnia enim intelligibilia in eo quod
-        sunt intelligibilia sunt eiusdem speciei. Et in omni
-        materia, si
-        <app>
-          <lem>igitur</lem>
-          <rdg wit="#L"><add place="above">igitur</add></rdg>
-        </app>
-        intellectus sit
-        <note>added 'et'/'erit' above w. addition mark, which is then erased [UV only visible]. I think it is supposed to be after 'intelligibilis'</note>
-        intelligibilis, erit eiusdem speciei
-        cum aliis in<cb n="b"/>telligibilibus, si sic sequetur
-        quod alia intelligibilia intelligant sicut
-        intellectus, supple <note>Abb. spp w. second p added
-        in other ink</note>, isto supposito quod
-        intelligibilia sint eiusdem speciei vel sequetur quod
-        intellectus non intelligat sicut alia intelligibilia
-        non intelligunt et stat ista virtus illationis in hoc
-        quod omnia intelligiblia in eo quod sunt
-        <app>
-          <rdg wit="#L">
-            <subst hand="#h3">
-              <del>intellectus</del>
-              <add>intelligibilia</add>
-            </subst>
-          </rdg>
-        </app>
-        habent eundem <note>eundem corrected by errasure of
-        one or two letters. In the margin it also says "habent
-        eundem modum" in later hand.</note> modum quod
-        <name ref="#Aristotle">Philosophus</name> supponit. Ita patet quod intellectus
-        saltem de se non est intelligibilis, et patebit
-        ulterius. littera: ita aliquis dubitabit quomodo
-        intellectus
-        <app>
-          <lem />
-          <rdg wit="#L"><unclear reason="rasura" extent="10" unit="chars" /></rdg>
-        </app>
-        cum sit inmaterialis possit intelligere, sed amplius
-        supple dubitabit aliquis si (pro utrum) et ipse intellectus
-        noster est intelligibilis. Hoc enim non videtur
-        <app>
-          <lem />
-          <rdg wit="#L"><unclear reason="rasura" extent="2" unit="chars" /></rdg>
-        </app>
-        possibile.
-      </p>
-      <p xml:id="da-31-l3l3-pfen5t">
-        <quote>Autem</quote> pro quia intelligibile est unius
-        speciei, vel uniforme vel secundum unum modum, quia
-        inquam hoc [= habet? maybe better] ita
-        <quote>etenim</quote> (pro tunc),
-        <unclear>universali</unclear> pro ergo aut aliis,
-        supple, inerit intellectus et
-        intelligunt quod est inpossibile, et hoc potissime
-        contingit si intellectus <supplied>non</supplied> sit
-        intelligibilis per aliud sibi additum, sed per se.
-      </p>
-      <p xml:id="da-31-l3l3-ct2emc">
-        Et est advertendum quod esse illud quod per se
-        intellectum est abstractum est a materia, sed in
-        abstractis a materia est idem intelligens et
-        intellectum, quare cum intellectus sit eiusdem speciei
-        cum aliis intelligibilibus et cum ipse sit quid
-        abstractum a materia, sicut ipse cum intelligat
-        <app>
-          <lem />
-          <rdg wit="#L"><unclear reason="rasura" extent="2" unit="chars" /></rdg>
-        </app>
-        intelligitur, sic et alia intelligunt cum
-        intelliguntur, ex quo autem illud sequitur
-        <supplied>quod</supplied>
-        <app>
-          <lem>suppositum</lem>
-          <rdg wit="#L">sumptum</rdg>
-          <note>Check this correction.</note>
-        </app>
-        est, et tunc deducit ad membrum minoris essentie
-        rationis duas, sed si intellectus inmixtum
-        <quote>addi</quote>, id est aliquod habet annexum et
-        additum sue essentie per quod intelligatur, tunc
-        habebit quod facit ipsum intelligibile sicut alia
-        materialia non intelligunt, sed, supple, alia
-        materialia non intelligunt, sic intellectus noster non
-        intelliget ex quo ita est quod intellectus cum sit
-        intelligibilis, sit eiusdem speciei cum aliis
-        intelligibilibus.
-      </p>
-      <p xml:id="da-31-l3l3-2gnmo1">
-        Advertendum quod substantie separate, cum sint entia inmaterialia et pure forme, alio modo sunt
-        <lb ed="#L"/>intelligibiles quam materialia. Materialia enim non sunt intelligibilia nisi per speciem abstractam ab ipsiis virtu
-        <lb ed="#L"/>te intellectus agentis abstrahentis. Intellectum possibilem repositam lapidis essentia species
-        <lb ed="#L"/>novi inprimitur speculo, sed species eius modi si speculum esset cognoscitiva per talem speciem
-        <lb ed="#L"/>utique intelligeret tamquam per similitudinem, sed nunc ita est quod materialia non sunt intellectum [makes not much sense. Intelligibilia/in intellectu in stead?] essentiis, simul enim
-        <lb ed="#L"/>per intentiones quibus intellectui sunt proportionalia, substantie autem separate que sunt pure forme cum sint
-        <lb ed="#L"/>actu abstracte a
-        <app>
-          <lem>conditionibus</lem>
-          <rdg wit="#L"><note><q>con</q> et prima <q>i</q> add. sup. lin.</note></rdg>
-        </app>
-        materialibus non oportet quod a<secl>liu</secl>d intelligendum eas fiat abstractio, sed in
-        <lb ed="#L"/>telligantur per se ipsas. Patet igitur quod ipse essentialiter sunt intellecte et cum hoc intelligentes, sed ipsa materialia
-        <lb ed="#L"/>se habent ex opposito modo. Talia quidem sunt intelligibilia seu intellecta, non tamen
-        <app>
-          <lem>intelligunt</lem>
-          <rdg wit="#L">intelligant</rdg>
-        </app>
-        , sed ipse
-        <lb ed="#L"/>intellectus <span type="crux">nititur</span> huius entia <span>secundum [/scilicet?] substantias <del rend="rasura" cert="mid">non</del> separatas et materialia tene<del rend="punct">s</del>nt medium <del rend="punct">modum</del> gradum propter quod
-        <lb ed="#L"/>in libro <title ref="#Anon.DeCaus">De causis</title> dicitur quod <quote source="Lib. de causis II.22">anima est in orizonte eternitatis</quote> et temporis ita quod teneat infimum
-        <lb ed="#L"/>gradum intelligentiarum eternarum et supremum gradum inter materialia.<note type="content">Confer the language here with a selection of Lib. de caus. commentaries. I feel a connection to Aquinas (who adds the `temporis'), but it might be wrong.</note></span>. Rationabiliter igitur dubitatur quomodo anima intellectiva
-        <lb ed="#L"/>sit intelligibilis vel intelligit; sicut substantie separate que
-        <app>
-          <lem>intellectae</lem>
-          <rdg wit="#L"><add hand="#h3" place="above">intellectae</add> intelligentiae</rdg>
-        </app>
-        intelligunt, vel sicut encia materialia
-        <lb ed="#L"/>que intellecta non intelligunt. Quodcumque illorum detur, habetur impossibile si autem primo modo dicatur cum intelligibilia
-        <lb ed="#L"/>sunt eiusdem speciei, alia materialia intelligerent. Si secundo modo cum intelligibilia sint eiusdem speciei, sequitur
-        <lb ed="#L"/>sicut materialia non intelligunt quod intellectus non intelligat.
-      </p>
-      <p xml:id="da-31-l3l3-zf0fmi">
-        Deinde cum dicit <quote source="429b29">Aut pati quidem
-        <lb ed="#L"/>quid</quote> ad dubitationes motas solvit, et primo ad primam, secundo ad secundam ibi <quote source="430a2">et ipse autem</quote>. Prima dubitatio
-        <lb ed="#L"/>fuit ista quomodo sit possibile quod intellectus intelligat, cum tamen sit
-        <app>
-          <lem>impassibilis</lem>
-          <rdg wit="#L">impossibilis</rdg>
-        </app>
-        et intellectus fiat cum
-        <lb ed="#L"/>passione <name ref="#Aristotle">Philosophus</name> respondet et dicit quod duplex est passio. Uno modo secundum opposita et contraria et talis est propria passio, alia
-        <lb ed="#L"/>est sicut salus et perfectio, et illa est in proportione dicta. modo dicendum quod sufficit quod intellectus existens impassibilis
-        <lb ed="#L"/>ipse intelligit passionem inproprie. Ad formam argumenti dicendum concedatur suppositio. Ad maiorem dicendum
-        <lb ed="#L"/>quod non oportet in activis et passivis mathematicis. Ad minorem quod verum est, et ideo concludit quod intellectus
-        <lb ed="#L"/>non patitur propria passione, non autem concludit quod non patiatur improprie, et hoc sufficit ad intelligere
-        <lb ed="#L"/>Littera <span rend="underline">aut nota solutionis est pati proprie</span>. Dictum secundum communem materiam est prius <note>Something is wrong here</note>, scilicet in libro <title ref="#Arist.GC">De
-        <lb ed="#L"/>generatione</title> distinctum contra pati inproprie acceptum, sed, supple, intelligere non est pati, quod declarat,
-        <lb ed="#L"/>dimitatur "quoniam" [should we skip a quoniam in the text?], intellectus est quodammodo in potentia intelligibilium, sed nihil est ante
-        <app>
-          <lem>intelligibilia</lem>
-          <rdg wit="#L">intelligibilium</rdg>
-        </app>
-        , antequam
-        <lb ed="#L"/>ipse intelligat, quoniam ita est <quote>autem</quote> (pro ergo) illud quod accidit in intellectu debet se similiter habere sicut
-        <lb ed="#L"/><metamark function="transposition" /><seg xml:id="tr01">supple</seg> <metamark function="transposition" /><seg xml:id="tr02">in</seg> tabula rasa vel nuda in qua nihil
-        <app>
-          <lem />
-          <rdg wit="#L"><del rend="punct">est</del></rdg>
-        </app>
-        , supple est scriptum, sed
-        <app>
-          <lem>quando</lem>
-          <rdg wit="#L">quoniam</rdg>
-        </app>
-        in illa aliquid scribitur
-        <listTranspose>
-          <transpose>
-            <ptr target="#tr02"/>
-            <ptr target="#tr01"/>
-          </transpose>
-        </listTranspose>
-        <lb ed="#L"/>ab ipsa nihil abiicitur, sed magis perficitur. Ergo simili modo quando species intelligibiles depinguntur in intellectu
-        <lb ed="#L"/>nihil ab intellectu tunc abiicitur, sed ipse magis perficitur, ideo patitur non proprie. <name ref="#Aquinas">Expositor</name> autem primam
-        <lb ed="#L"/>litteram sic aliter legit aut dicit ipse: pati, supple dictum et acceptum secundum commune aliquid, id est communiter est
-        <app>
-          <lem>dictum</lem>
-          <rdg wit="#L">divi<lb ed="#L"/>sum</rdg>
-        </app>
-        prius, scilicet in se, huius [huiusmodi?] in pati proprie dictum vel in pati inproprie dictum, et supple intellectus non patitur proprie,
-        <lb ed="#L"/>et cetera. Ex littera huius partis deprehenditur Plato qui voluit ante coniunctionem intellectus cum corpore
-        <lb ed="#L"/>creatus sub duabus stellis comparibus sibi [syntactic problems], concreate species omnium intelligibilium, sed ex imperio sui crea-
-        <lb ed="#L"/>toris iungitur mole corporis quo obumbratur a sui ipsius conscientia proprii, quod dicit animam intelligere
-        <lb ed="#L"/>in corpore quasi reminisci, sed <name ref="#Aristotle">Philosophus</name> dicit quod ipse intellectus quasi rasa ex hoc enim deprehenditur error
-        <lb ed="#L"/>dicentium animam esse compositam ab omnibus ut omnia cognosceret.
-        <note>On the whole discussion of shadowing and weighing down the body, compare with Albert in DA, lib. 2, tr. 1, cap. 8, pp. 76-77.</note>
-      </p>
-      <p xml:id="da-31-l3l3-76z12i">
-        Deinde cum dicit <quote source="430a2">Et ipse autem
-        intelligibilis</quote>, solvit secundam dubitationem
-        que duas tenuit difficultates. Una fuit ad quam
-        deduxit, scilicet si intellectus est intelligibilis cum
-        intelligibilia unius speciei sint, sicut intellectus
-        intelligibilis intelligit sic alia quecumque
-        intelligibilia intelligunt. Alia difficultas est eodem
-        modo, cum intelligibilia sint eiusdem speciei sicut
-        alia intelligibilia non intelligunt, sic neque
-        intellectus. Ideo circa illud dua facit. Primo
-        ostendit quod intellectus sit quodammodo intelligibile
-        quod tamen intelligat, secundo ostendit quomodo alia
-        sunt intelligibilia quod tamen non intelligant ibi <quote
-        source="430a5">Non autem semper</quote>
-      </p>
-      <p xml:id="da-31-l3l3-gfqp2g">
-        Advertendum quod triplex est intellectus: divinus,
-        humanus, medio modo se habens sicut intellectus
-        intelligentiarum. Humanus quidem intellectus omnino
-        contrario modo se habet ad intellectum divinum et e
-        converso intelligentiarum vero. Intellectus medio modo
-        se habet. Divinus namque intellectus est purus actus
-        nihil habens de potentialitate admixtum secundum
-        Philosophum duodecimo <title
-        ref="#Arist.Metaph">Metaphysice</title>, simili modo
-        huiusmodi intellectus versatur circa universale totius
-        entis, sicut causa omnium que sunt in universo et inde,
-        primo et principaliter intelligit sui ipsius essentiam
-        et per illam in
-        <app>
-          <lem>qua</lem>
-          <rdg wit="#L">quam</rdg>
-        </app>
-        re lucent omnia tamquam in
-        speculo eternitatis intelligit omnia alia verbi
-        gratia. Si enim esset aliquod speculum in quo omnes
-        species apparerent et illud cum
-        <app>
-          <lem>hoc esset</lem>
-          <rdg wit="#L">esset hoc</rdg>
-        </app>
-        causa omnium per se ipsum intelligeret omnia. Unde
-        intellectus divinus quia et substantia est neccesaria
-        unica pura et
-        <app>
-          <lem>simplex</lem>
-          <rdg wit="#L">simpliciter</rdg>
-        </app>
-        et eterna, ideo eterna
-        cognoscit eterne materialia immaterialiter multa
-        une et contingentia neccesario totum simpliciter.
-      </p>
-      <p xml:id="da-31-l3l3-jju74b">
-        Contrarium autem est de intellectu nostro humano, qui
-        non habet aliquam [/aliam?] naturam nisi quia est possibilis
-        vocatus, et in hoc iam opponitur intellectu divino
-        qui est purus actus. Similiter cum ipse
-        <app>
-          <lem>intellectus</lem>
-          <rdg wit="#L">intelligit</rdg>
-        </app>
-        humanus sit cr<del
-        rend="punct">a</del>eatus et causatus, non versatur
-        circa universale totius entis, simili modo etiam ipse
-        primo et per se intelligit aliorum species quibus in
-        actu ductus potens est per huius [=huiusmodi] species se ipsum
-        intelligere, sic enim quod intellectus noster est
-        potentia pura in genere intelligibilium, sed talis non
-        <app>
-          <rdg wit="#L">itur</rdg>
-          <note>Either "graditur" or similar verb that can have monovalency in passive or "it", i.e. active.</note>
-        </app>
-        ad actum nisi ab aliquo actuetur, modo ad actum
-        reducitur per species aliorum, quasi per species aliorum
-        vadit ad actum se ipsum intelligendi. Et hoc etiam
-        vult Commentator duodecimo <title ref="#Arist.Metaph">Metaphysice</title>,
-        dicens intellectus est aliorum per se, sui autem
-        ipsius per accidens. Unde tali modo est ymaginandum
-        quod virtus intellectiva postquam recipit species
-        obiectorum est in actu, est amplius non in potentia
-        passiva, sed activa, et quia virtus est incorporea,
-        ideo potest reflectere super suum actum et ita potest
-        se intelligere quoniam intelligit. Sed intelligere
-        sive quod intellectus intelligat est propria operatio
-        intellectus. Propria autem operatio manuducit in
-        cognitionem essentialem, ideo ex speciebus aliorum a primo
-        ad ultimum potest intelligere se ipsum et hoc est quod
-        <name ref="#Aristotle">Philosophus</name> dicit et
-        ipse est <pb n="72v"/><cb n="a"/> est intelligibilis
-        sicut intelligibilia, id est per species aliorum
-        intelligibilium, et ita declaratum est de intellectu
-        humano, et ex incidenti de
-        intellectu divino. restat determinare de intellectu
-        medio modo se habente sicut est intellectus
-        intelligentiarum. Intelligentia quidem omnis
-        intelligit se ipsam per essentiam suam,
-        <app>
-          <lem>ut</lem>
-          <rdg wit="#L">et</rdg>
-        </app>
-        dicit <name ref="#Albert">Albertus</name> <title
-        ref="#Alb.DeCaus">Libro de causis</title>. Dicit enim
-        quod intelligentie redeunt super se ipsas reditione
-        completiva, sed intelligentia
-        <unclear>intelligit</unclear> alia a se per species
-        concreatas sibi. Dicit enim <name
-        ref="#Anonymous">auctor</name> <title
-        ref="#Anon.DeCaus">De causis</title> <quote>quod
-        intelligentia est plena formis</quote>, id est
-        speciebus concreatis.
-        <app>
-          <lem>Iam</lem>
-          <rdg wit="#L">im</rdg>
-        </app>
-        <name ref="#Aristotle">Philosophus</name> dicit in littera quod in
-        <supplied>im</supplied>materialibus idem sit intellectus et quod
-        intelligitur.
-      </p>
-      <p xml:id="da-31-l3l3-t0oaol">
-        Advertendum quod illa species quam virtus intellectiva
-        intelligit, est una duo et duo [strange] sunt que
-        intelligunt unum intelligibile. illorum est materiale
-        obiectum quod intelligit ut parum prius dictum est,
-        qui speciebus aliorum intelligitur a se ipso modo hoc
-        tamen est aliter <supplied>et aliter</supplied>, et
-        arguitur: materiale enim obiectum intelligitur modo
-        abstractionis, sed intellectus se intelligit per istam
-        speciem materialis obiecti modo informationis, et ita
-        illa una species qua
-        <app>
-          <lem>intellectus</lem>
-          <rdg wit="#L">intelligit</rdg>
-        </app>
-        intelligitur, et qua materiale obiectum
-        intelligitur, est quid abstractum ab obiecto
-        materiali. Sed illa species eadem materiali immo in
-        tantum quod
-        <app>
-          <lem />
-          <rdg wit="#L">e</rdg>
-        </app>
-        secundum Commentatorem, ex ipso magis fit unum quam ex
-        subiecto et accidente, et materia et
-        forma, immo ex hiis, scilicet specie intelligibili et
-        intellectu, sicut ex lumine et peruio, luce et
-        perspicuo. Unde dicit Commentator quod incorporalibus
-        nihil similius invenire possumus intelligibili
-        <app>
-          <lem>quam</lem>
-          <rdg wit="#L">quod</rdg>
-        </app>
-        unum <supplied>lumen</supplied>
-        multiplicans se in medio peruio.
-      </p>
-      <p xml:id="da-31-l3l3-d7t2ro">
-        Et nota quod hic <name ref="#Aquinas">Expositor</name>
-        variat suam sententiam aequivoco [strange? aequivocando?],
-        intellectum etenim sicut lumen est actus et perfectio?
-        diaphani, sic species intelligibilis est perfectio
-        intellectus. Modo ad propositum,
-        <app>
-          <lem>supposito</lem>
-          <rdg wit="#L">suppositam</rdg>
-        </app>
-        quod intellectus aliquando sumatur per specie intelligibili, sive pro
-        intellectu formali secundum Albert<supplied>um</supplied>. Unde secundum
-        hoc dicit quod in seperatis a materia est idem intellectus et
-        intelligibile. Ista littera non est retorquenda ad intelligentias, quia
-        de illis non loquitur <name ref="#Aristotle">Philosophus</name> in
-        proposito, sed sumamus quod intellectus, qui a nobis intelligitur, est
-        separatus a materia. Materia in talibus separatis idem est intellectus,
-        id est species intelligibilis, est, inquam, ille idem cum eo quod
-        intellectus in separatis a materia, id est in nostro intellectu qui est
-        materialis, sed in coniunctis materie sicut est obiectum materiale ab
-        h<del rend="punct">i</del>oc species separata non est idem tali obiecto.
-      </p>
-      <p xml:id="da-31-l3l3-fi6v3f">
-        Advertendum est modo propter solutionem prime distinctionis quomodo
-        dictum Philosophi applicetur ad propositum. Sicut enim nulli competit
-        actus calefaciendi, nisi habeat formaliter calorem in actu, et in istis
-        inferioribus <unclear reason="rasura">sed</unclear> sic etiam nihil
-        intelligitur, nisi habeat intellectum in actu, sed nunc intellectus
-        <unclear reason="rasura">intellectu</unclear> possibilis habens species
-        intelligibiles habet intellectum in actu, quare ille, cum intelligitur,
-        intelligit <note>Two meta marks that might indicate the insertion of
-        some material, but there is no material to insert (in margins or other
-        places).</note> quare si sic est quod talis intellectus in actu est
-        abstractus a talibus materialibus, ideo materialia
-        <app>
-          <lem>intellectu</lem>
-          <rdg wit="#L">intellectum</rdg>
-        </app>
-        carentia sic sunt intelligibilia ita quod <add place="above">non</add>
-        intelligant, et ponatur exemplum ut si aliquid infrigidetur
-        infrigiditate quae non est in seipso, sed in alio, planum est quod aliud
-        non infrigidat, sed oportet quod frigus formaliter habeat, sed nunc ita
-        est quod obiecta materialia intelliguntur per id quod est in alio, et
-        non in ipsis formaliter, quare ipsa, cum intelligantur, non intelligunt
-        et sic patet secunda difficultas determinata.
-      </p>
-      <p xml:id="da-31-l3l3-3fvd13">
-        Littera: Ita fuit secunda dubitatio quomodo intellectus esset
-        intelligibilis vel sicut substantiae separatae, id est per sui ipsius
-        substantiam, vel sicut materialia, id est per speciem. <name
-        ref="#Aristotle">Philosophus</name> respondet et, supple intellectus,
-        intelligibilis non per se et secundum suam essentiam, sed et [=est?]
-        intelligibilis <quote>sicut intelligibilia</quote>, id est per species
-        intelligibilium, et cum intellectus intelligit, licet, supple alia, non
-        intelligant, et bene est hoc quia intellectus, id est species
-        intelligibilis, et quia intelligitur, supple per talem speciem, in hiis
-        que sunt sine materia,
-        <app>
-          <lem>cuiusmodi</lem>
-          <rdg wit="#L">cuius materia</rdg>
-        </app>
-        est, noster intellectus est idem in coniunctis autem et cetera. Et
-        subdit quia ita est quod intellectus et quod intelligitur sunt idem,
-        ipse subdit quod scientia speculativa et suum scibile, id est
-        speculativum <del rend="punct">et</del> idem valet/sed[?] grammatica est
-        scientia, et est aliud quod scitur, et naturalis scientia est scientia,
-        et est aliud quod scitur et sicut
-        <app>
-          <lem>supple</lem>
-          <rdg wit="#L">semper</rdg>
-        </app>
-        scibile est suae scientiae, vel idem vel aliter est, scientia est unio
-        specierum scibilium in anima, quia secundum <name
-        ref="#Averroes">Commentatorem</name> duodecimo <title
-        ref="#Aver.Metaph">Metaphysice</title> nostra scientia causata est a
-        rebus eo quod nihil intelligitur nisi per abstractionem specierum a
-        rebus, ergo idem iudicium est de speciebus intelligibilibus et est etiam
-        de scientia. Sed auditum est quod sunt species in intellectu, ergo etiam
-        <app>
-          <lem>est/ delete!</lem>
-          <rdg wit="#L">etiam</rdg>
-        </app>
-        scientia.
-      </p>
-      <p xml:id="da-31-l3l3-lii8aq">
-        Littera: <quote source="430a4-5">scientia speculativa et
-        scibile</quote>, id est speculativum, sicut et noster intellectus, sunt
-        idem, sed ista causa est consideranda cum non semper intelligit, id est
-        quare obiecta materialia, cum sint intelligibilia, non etiam intelligunt
-        autem, pro quia, in habentibus materiam, id est in obiectis materialibus
-        unumquodque est de numero intelligibilium in potentia eo quod secundum
-        se non sunt abstracta a materia, ideo subdit <quote source="430a7">quare
-        quidem illis</quote>, id est obiectis materialibus, non erit potentia
-        intellectiva nec species intelligibilis que vero intelligit in actu,
-        quia intellectus potentia de numero, supple talium que sunt sine
-        materia, et ideo intellectus erit in actu quid immateriale, et quia
-        obiecta materialia non sunt separata a materia quare, supple et ex hoc
-        <add place="above">licet</add> non intelligat ipsum materiale autem, pro
-        tamen, ipsum est intelligibile.
-      </p>
+      <div xml:id="da-31-l3l3">
+        <!-- GAP! -->
+        <p xml:id="da-31-l3l3-58xeo3">
+          <pb n="72r"/><cb n="a"/>
+          <quote source="429b22">Dubitabit autem aliquis</quote>.
+          Superius <name ref="#Aristotle">Philosophus</name> determinavit de obiecto intellectus
+          posibilis. Hic circa dicta movet dubitationes, et
+          dividitur in duas.
+        </p>
+        <p xml:id="da-31-l3l3-vsbz93">
+          Primo enim ipsas movet, secundo dissolvit ibi <quote
+          source="429b29">aut pati</quote>.
+        </p>
+        <p xml:id="da-31-l3l3-mphpuv">
+          Prima ad huc in duas secundum quod due sunt dubitationes
+          quas movet, secunda ibi <quote source="429b26">Amplius
+          si intelligibilis</quote>, ex quo <name ref="#Aristotle">Philosophus</name> ostendit
+          <app>
+            <lem>quomodo</lem>
+            <rdg wit="#L"><add place="above">quomodo</add></rdg>
+          </app>
+          intellectus fertur in cognitionem quod quid est, et hoc
+          recta linea, et ideo illud est obiectum eius directe, ex
+          quo autem fertur in singulare indirecte et per accidens,
+          ideo tale est obiectum ipsius per accidens. Hic
+          subiungit duas dubitationes quarum prima est utrum
+          possibile sit intellectum intelligere, et supponatur
+          quod intelligere sit quodam pati.
+        </p>
+        <p xml:id="da-31-l3l3-jqdqg9">
+          Ex hoc sic activa et passiva communicant in materia. Et
+          sunt unum in genere naturali. Sed nunc ita est quod
+          intellectus, cum sit inmixtus et inmaterialis ad hoc
+          quod omnia cognoscat inmaterialiter, nulli quidquam
+          habet commune, quare non potest pati, et si non potest
+          pati, quare necque intelligere.
+        </p>
+        <p xml:id="da-31-l3l3-gusqn3">
+          Littera ita determinatum est de obiecto intellectus. Sed
+          utique aliquis dubitabit si intellectus videtur esse
+          simplex et inpassibilis et nihil enim nullam habet
+          materiam communem ulli, sicut dixit Anaxagoras
+          interrogative quomodo tunc intelligeret intellectus. Sed
+          si, supple, intelligere est pati, quia in quantum
+          utique, id est agenti et patienti, est aliqua materia
+          communis, tunc hoc <unclear>quod (l)</unclear><note>The
+          l above makes little sense. The paraphrased text has
+          `quidem' here.</note>, id est agens videtur agere et
+          paciens videtur pati.
+        </p>
+        <p xml:id="da-31-l3l3-vlaord">
+          Deinde cum dicit <quote source="429b26">Amplius
+          autem</quote>, movet secundam dubitationem, quesito
+          quomodo sit possibile quod intellectus intelligat.
+        </p>
+        <p xml:id="da-31-l3l3-q9jfh9">
+          Consequenter quero querit<note>Either one of these
+          should be deleted or replaced completely with
+          queritur. Depending on whether it's a paraphrase or
+          original question by comm.</note> quomodo
+          <app>
+            <lem>intellectus</lem>
+            <rdg wit="#L">
+              <subst>
+                <del>intelligit</del>
+                <add>intellectus</add>
+              </subst>
+            </rdg>
+          </app>
+          sit intelligibilis.
+        </p>
+        <p xml:id="da-31-l3l3-vft4ah">
+          Et probatur primo quod non, quia si esset
+          intelligibilis aut per se
+          <app>
+            <lem>et</lem>
+            <rdg wit="#L" type="correction-substitution">
+              <subst>
+                <del rend="rasura">aut</del>
+                <add place="above-line">et</add>
+              </subst>
+            </rdg>
+          </app>
+          per suam essentiam est intelligibilis, aut per aliud
+          <app>
+            <lem>aliquid</lem>
+            <rdg wit="#L"><add place="above">aliquid</add></rdg>
+          </app>
+          essentie additum, modo quodcumque illorum dederis,
+          sequetur inpossibile ut declaro quare non est
+          intelligibilis intellectus et fundatur haec ratio
+          super illam maximam Philosophi <title ref="#Arist.APr">Primo
+          posteriorum</title>: <quote>Illud est impossibile quod
+          consequitur impossibile.</quote> Probatio minoris:
+          Quoad utrumque eius membrum sic: Unumquodque est
+          intelligibile eiusdem speciei cum alio
+          intelligibili. Omnia enim intelligibilia in eo quod
+          sunt intelligibilia sunt eiusdem speciei. Et in omni
+          materia, si
+          <app>
+            <lem>igitur</lem>
+            <rdg wit="#L"><add place="above">igitur</add></rdg>
+          </app>
+          intellectus sit
+          <note>added 'et'/'erit' above w. addition mark, which is then erased [UV only visible]. I think it is supposed to be after 'intelligibilis'</note>
+          intelligibilis, erit eiusdem speciei
+          cum aliis in<cb n="b"/>telligibilibus, si sic sequetur
+          quod alia intelligibilia intelligant sicut
+          intellectus, supple <note>Abb. spp w. second p added
+          in other ink</note>, isto supposito quod
+          intelligibilia sint eiusdem speciei vel sequetur quod
+          intellectus non intelligat sicut alia intelligibilia
+          non intelligunt et stat ista virtus illationis in hoc
+          quod omnia intelligiblia in eo quod sunt
+          <app>
+            <rdg wit="#L">
+              <subst hand="#h3">
+                <del>intellectus</del>
+                <add>intelligibilia</add>
+              </subst>
+            </rdg>
+          </app>
+          habent eundem <note>eundem corrected by errasure of
+          one or two letters. In the margin it also says "habent
+          eundem modum" in later hand.</note> modum quod
+          <name ref="#Aristotle">Philosophus</name> supponit. Ita patet quod intellectus
+          saltem de se non est intelligibilis, et patebit
+          ulterius. littera: ita aliquis dubitabit quomodo
+          intellectus
+          <app>
+            <lem />
+            <rdg wit="#L"><unclear reason="rasura" extent="10" unit="chars" /></rdg>
+          </app>
+          cum sit inmaterialis possit intelligere, sed amplius
+          supple dubitabit aliquis si (pro utrum) et ipse intellectus
+          noster est intelligibilis. Hoc enim non videtur
+          <app>
+            <lem />
+            <rdg wit="#L"><unclear reason="rasura" extent="2" unit="chars" /></rdg>
+          </app>
+          possibile.
+        </p>
+        <p xml:id="da-31-l3l3-pfen5t">
+          <quote>Autem</quote> pro quia intelligibile est unius
+          speciei, vel uniforme vel secundum unum modum, quia
+          inquam hoc [= habet? maybe better] ita
+          <quote>etenim</quote> (pro tunc),
+          <unclear>universali</unclear> pro ergo aut aliis,
+          supple, inerit intellectus et
+          intelligunt quod est inpossibile, et hoc potissime
+          contingit si intellectus <supplied>non</supplied> sit
+          intelligibilis per aliud sibi additum, sed per se.
+        </p>
+        <p xml:id="da-31-l3l3-ct2emc">
+          Et est advertendum quod esse illud quod per se
+          intellectum est abstractum est a materia, sed in
+          abstractis a materia est idem intelligens et
+          intellectum, quare cum intellectus sit eiusdem speciei
+          cum aliis intelligibilibus et cum ipse sit quid
+          abstractum a materia, sicut ipse cum intelligat
+          <app>
+            <lem />
+            <rdg wit="#L"><unclear reason="rasura" extent="2" unit="chars" /></rdg>
+          </app>
+          intelligitur, sic et alia intelligunt cum
+          intelliguntur, ex quo autem illud sequitur
+          <supplied>quod</supplied>
+          <app>
+            <lem>suppositum</lem>
+            <rdg wit="#L">sumptum</rdg>
+            <note>Check this correction.</note>
+          </app>
+          est, et tunc deducit ad membrum minoris essentie
+          rationis duas, sed si intellectus inmixtum
+          <quote>addi</quote>, id est aliquod habet annexum et
+          additum sue essentie per quod intelligatur, tunc
+          habebit quod facit ipsum intelligibile sicut alia
+          materialia non intelligunt, sed, supple, alia
+          materialia non intelligunt, sic intellectus noster non
+          intelliget ex quo ita est quod intellectus cum sit
+          intelligibilis, sit eiusdem speciei cum aliis
+          intelligibilibus.
+        </p>
+        <p xml:id="da-31-l3l3-2gnmo1">
+          Advertendum quod substantie separate, cum sint entia inmaterialia et pure forme, alio modo sunt
+          <lb ed="#L"/>intelligibiles quam materialia. Materialia enim non sunt intelligibilia nisi per speciem abstractam ab ipsiis virtu
+          <lb ed="#L"/>te intellectus agentis abstrahentis. Intellectum possibilem repositam lapidis essentia species
+          <lb ed="#L"/>novi inprimitur speculo, sed species eius modi si speculum esset cognoscitiva per talem speciem
+          <lb ed="#L"/>utique intelligeret tamquam per similitudinem, sed nunc ita est quod materialia non sunt intellectum [makes not much sense. Intelligibilia/in intellectu in stead?] essentiis, simul enim
+          <lb ed="#L"/>per intentiones quibus intellectui sunt proportionalia, substantie autem separate que sunt pure forme cum sint
+          <lb ed="#L"/>actu abstracte a
+          <app>
+            <lem>conditionibus</lem>
+            <rdg wit="#L"><note><q>con</q> et prima <q>i</q> add. sup. lin.</note></rdg>
+          </app>
+          materialibus non oportet quod a<secl>liu</secl>d intelligendum eas fiat abstractio, sed in
+          <lb ed="#L"/>telligantur per se ipsas. Patet igitur quod ipse essentialiter sunt intellecte et cum hoc intelligentes, sed ipsa materialia
+          <lb ed="#L"/>se habent ex opposito modo. Talia quidem sunt intelligibilia seu intellecta, non tamen
+          <app>
+            <lem>intelligunt</lem>
+            <rdg wit="#L">intelligant</rdg>
+          </app>
+          , sed ipse
+          <lb ed="#L"/>intellectus <span type="crux">nititur</span> huius entia <span>secundum [/scilicet?] substantias <del rend="rasura" cert="mid">non</del> separatas et materialia tene<del rend="punct">s</del>nt medium <del rend="punct">modum</del> gradum propter quod
+          <lb ed="#L"/>in libro <title ref="#Anon.DeCaus">De causis</title> dicitur quod <quote source="Lib. de causis II.22">anima est in orizonte eternitatis</quote> et temporis ita quod teneat infimum
+          <lb ed="#L"/>gradum intelligentiarum eternarum et supremum gradum inter materialia.<note type="content">Confer the language here with a selection of Lib. de caus. commentaries. I feel a connection to Aquinas (who adds the `temporis'), but it might be wrong.</note></span>. Rationabiliter igitur dubitatur quomodo anima intellectiva
+          <lb ed="#L"/>sit intelligibilis vel intelligit; sicut substantie separate que
+          <app>
+            <lem>intellectae</lem>
+            <rdg wit="#L"><add hand="#h3" place="above">intellectae</add> intelligentiae</rdg>
+          </app>
+          intelligunt, vel sicut encia materialia
+          <lb ed="#L"/>que intellecta non intelligunt. Quodcumque illorum detur, habetur impossibile si autem primo modo dicatur cum intelligibilia
+          <lb ed="#L"/>sunt eiusdem speciei, alia materialia intelligerent. Si secundo modo cum intelligibilia sint eiusdem speciei, sequitur
+          <lb ed="#L"/>sicut materialia non intelligunt quod intellectus non intelligat.
+        </p>
+        <p xml:id="da-31-l3l3-zf0fmi">
+          Deinde cum dicit <quote source="429b29">Aut pati quidem
+          <lb ed="#L"/>quid</quote> ad dubitationes motas solvit, et primo ad primam, secundo ad secundam ibi <quote source="430a2">et ipse autem</quote>. Prima dubitatio
+          <lb ed="#L"/>fuit ista quomodo sit possibile quod intellectus intelligat, cum tamen sit
+          <app>
+            <lem>impassibilis</lem>
+            <rdg wit="#L">impossibilis</rdg>
+          </app>
+          et intellectus fiat cum
+          <lb ed="#L"/>passione <name ref="#Aristotle">Philosophus</name> respondet et dicit quod duplex est passio. Uno modo secundum opposita et contraria et talis est propria passio, alia
+          <lb ed="#L"/>est sicut salus et perfectio, et illa est in proportione dicta. modo dicendum quod sufficit quod intellectus existens impassibilis
+          <lb ed="#L"/>ipse intelligit passionem inproprie. Ad formam argumenti dicendum concedatur suppositio. Ad maiorem dicendum
+          <lb ed="#L"/>quod non oportet in activis et passivis mathematicis. Ad minorem quod verum est, et ideo concludit quod intellectus
+          <lb ed="#L"/>non patitur propria passione, non autem concludit quod non patiatur improprie, et hoc sufficit ad intelligere
+          <lb ed="#L"/>Littera <span rend="underline">aut nota solutionis est pati proprie</span>. Dictum secundum communem materiam est prius <note>Something is wrong here</note>, scilicet in libro <title ref="#Arist.GC">De
+          <lb ed="#L"/>generatione</title> distinctum contra pati inproprie acceptum, sed, supple, intelligere non est pati, quod declarat,
+          <lb ed="#L"/>dimitatur "quoniam" [should we skip a quoniam in the text?], intellectus est quodammodo in potentia intelligibilium, sed nihil est ante
+          <app>
+            <lem>intelligibilia</lem>
+            <rdg wit="#L">intelligibilium</rdg>
+          </app>
+          , antequam
+          <lb ed="#L"/>ipse intelligat, quoniam ita est <quote>autem</quote> (pro ergo) illud quod accidit in intellectu debet se similiter habere sicut
+          <lb ed="#L"/><metamark function="transposition" /><seg xml:id="tr01">supple</seg> <metamark function="transposition" /><seg xml:id="tr02">in</seg> tabula rasa vel nuda in qua nihil
+          <app>
+            <lem />
+            <rdg wit="#L"><del rend="punct">est</del></rdg>
+          </app>
+          , supple est scriptum, sed
+          <app>
+            <lem>quando</lem>
+            <rdg wit="#L">quoniam</rdg>
+          </app>
+          in illa aliquid scribitur
+          <listTranspose>
+            <transpose>
+              <ptr target="#tr02"/>
+              <ptr target="#tr01"/>
+            </transpose>
+          </listTranspose>
+          <lb ed="#L"/>ab ipsa nihil abiicitur, sed magis perficitur. Ergo simili modo quando species intelligibiles depinguntur in intellectu
+          <lb ed="#L"/>nihil ab intellectu tunc abiicitur, sed ipse magis perficitur, ideo patitur non proprie. <name ref="#Aquinas">Expositor</name> autem primam
+          <lb ed="#L"/>litteram sic aliter legit aut dicit ipse: pati, supple dictum et acceptum secundum commune aliquid, id est communiter est
+          <app>
+            <lem>dictum</lem>
+            <rdg wit="#L">divi<lb ed="#L"/>sum</rdg>
+          </app>
+          prius, scilicet in se, huius [huiusmodi?] in pati proprie dictum vel in pati inproprie dictum, et supple intellectus non patitur proprie,
+          <lb ed="#L"/>et cetera. Ex littera huius partis deprehenditur Plato qui voluit ante coniunctionem intellectus cum corpore
+          <lb ed="#L"/>creatus sub duabus stellis comparibus sibi [syntactic problems], concreate species omnium intelligibilium, sed ex imperio sui crea-
+          <lb ed="#L"/>toris iungitur mole corporis quo obumbratur a sui ipsius conscientia proprii, quod dicit animam intelligere
+          <lb ed="#L"/>in corpore quasi reminisci, sed <name ref="#Aristotle">Philosophus</name> dicit quod ipse intellectus quasi rasa ex hoc enim deprehenditur error
+          <lb ed="#L"/>dicentium animam esse compositam ab omnibus ut omnia cognosceret.
+          <note>On the whole discussion of shadowing and weighing down the body, compare with Albert in DA, lib. 2, tr. 1, cap. 8, pp. 76-77.</note>
+        </p>
+        <p xml:id="da-31-l3l3-76z12i">
+          Deinde cum dicit <quote source="430a2">Et ipse autem
+          intelligibilis</quote>, solvit secundam dubitationem
+          que duas tenuit difficultates. Una fuit ad quam
+          deduxit, scilicet si intellectus est intelligibilis cum
+          intelligibilia unius speciei sint, sicut intellectus
+          intelligibilis intelligit sic alia quecumque
+          intelligibilia intelligunt. Alia difficultas est eodem
+          modo, cum intelligibilia sint eiusdem speciei sicut
+          alia intelligibilia non intelligunt, sic neque
+          intellectus. Ideo circa illud dua facit. Primo
+          ostendit quod intellectus sit quodammodo intelligibile
+          quod tamen intelligat, secundo ostendit quomodo alia
+          sunt intelligibilia quod tamen non intelligant ibi <quote
+          source="430a5">Non autem semper</quote>
+        </p>
+        <p xml:id="da-31-l3l3-gfqp2g">
+          Advertendum quod triplex est intellectus: divinus,
+          humanus, medio modo se habens sicut intellectus
+          intelligentiarum. Humanus quidem intellectus omnino
+          contrario modo se habet ad intellectum divinum et e
+          converso intelligentiarum vero. Intellectus medio modo
+          se habet. Divinus namque intellectus est purus actus
+          nihil habens de potentialitate admixtum secundum
+          Philosophum duodecimo <title
+          ref="#Arist.Metaph">Metaphysice</title>, simili modo
+          huiusmodi intellectus versatur circa universale totius
+          entis, sicut causa omnium que sunt in universo et inde,
+          primo et principaliter intelligit sui ipsius essentiam
+          et per illam in
+          <app>
+            <lem>qua</lem>
+            <rdg wit="#L">quam</rdg>
+          </app>
+          re lucent omnia tamquam in
+          speculo eternitatis intelligit omnia alia verbi
+          gratia. Si enim esset aliquod speculum in quo omnes
+          species apparerent et illud cum
+          <app>
+            <lem>hoc esset</lem>
+            <rdg wit="#L">esset hoc</rdg>
+          </app>
+          causa omnium per se ipsum intelligeret omnia. Unde
+          intellectus divinus quia et substantia est neccesaria
+          unica pura et
+          <app>
+            <lem>simplex</lem>
+            <rdg wit="#L">simpliciter</rdg>
+          </app>
+          et eterna, ideo eterna
+          cognoscit eterne materialia immaterialiter multa
+          une et contingentia neccesario totum simpliciter.
+        </p>
+        <p xml:id="da-31-l3l3-jju74b">
+          Contrarium autem est de intellectu nostro humano, qui
+          non habet aliquam [/aliam?] naturam nisi quia est possibilis
+          vocatus, et in hoc iam opponitur intellectu divino
+          qui est purus actus. Similiter cum ipse
+          <app>
+            <lem>intellectus</lem>
+            <rdg wit="#L">intelligit</rdg>
+          </app>
+          humanus sit cr<del
+          rend="punct">a</del>eatus et causatus, non versatur
+          circa universale totius entis, simili modo etiam ipse
+          primo et per se intelligit aliorum species quibus in
+          actu ductus potens est per huius [=huiusmodi] species se ipsum
+          intelligere, sic enim quod intellectus noster est
+          potentia pura in genere intelligibilium, sed talis non
+          <app>
+            <rdg wit="#L">itur</rdg>
+            <note>Either "graditur" or similar verb that can have monovalency in passive or "it", i.e. active.</note>
+          </app>
+          ad actum nisi ab aliquo actuetur, modo ad actum
+          reducitur per species aliorum, quasi per species aliorum
+          vadit ad actum se ipsum intelligendi. Et hoc etiam
+          vult Commentator duodecimo <title ref="#Arist.Metaph">Metaphysice</title>,
+          dicens intellectus est aliorum per se, sui autem
+          ipsius per accidens. Unde tali modo est ymaginandum
+          quod virtus intellectiva postquam recipit species
+          obiectorum est in actu, est amplius non in potentia
+          passiva, sed activa, et quia virtus est incorporea,
+          ideo potest reflectere super suum actum et ita potest
+          se intelligere quoniam intelligit. Sed intelligere
+          sive quod intellectus intelligat est propria operatio
+          intellectus. Propria autem operatio manuducit in
+          cognitionem essentialem, ideo ex speciebus aliorum a primo
+          ad ultimum potest intelligere se ipsum et hoc est quod
+          <name ref="#Aristotle">Philosophus</name> dicit et
+          ipse est <pb n="72v"/><cb n="a"/> est intelligibilis
+          sicut intelligibilia, id est per species aliorum
+          intelligibilium, et ita declaratum est de intellectu
+          humano, et ex incidenti de
+          intellectu divino. restat determinare de intellectu
+          medio modo se habente sicut est intellectus
+          intelligentiarum. Intelligentia quidem omnis
+          intelligit se ipsam per essentiam suam,
+          <app>
+            <lem>ut</lem>
+            <rdg wit="#L">et</rdg>
+          </app>
+          dicit <name ref="#Albert">Albertus</name> <title
+          ref="#Alb.DeCaus">Libro de causis</title>. Dicit enim
+          quod intelligentie redeunt super se ipsas reditione
+          completiva, sed intelligentia
+          <unclear>intelligit</unclear> alia a se per species
+          concreatas sibi. Dicit enim <name
+          ref="#Anonymous">auctor</name> <title
+          ref="#Anon.DeCaus">De causis</title> <quote>quod
+          intelligentia est plena formis</quote>, id est
+          speciebus concreatis.
+          <app>
+            <lem>Iam</lem>
+            <rdg wit="#L">im</rdg>
+          </app>
+          <name ref="#Aristotle">Philosophus</name> dicit in littera quod in
+          <supplied>im</supplied>materialibus idem sit intellectus et quod
+          intelligitur.
+        </p>
+        <p xml:id="da-31-l3l3-t0oaol">
+          Advertendum quod illa species quam virtus intellectiva
+          intelligit, est una duo et duo [strange] sunt que
+          intelligunt unum intelligibile. illorum est materiale
+          obiectum quod intelligit ut parum prius dictum est,
+          qui speciebus aliorum intelligitur a se ipso modo hoc
+          tamen est aliter <supplied>et aliter</supplied>, et
+          arguitur: materiale enim obiectum intelligitur modo
+          abstractionis, sed intellectus se intelligit per istam
+          speciem materialis obiecti modo informationis, et ita
+          illa una species qua
+          <app>
+            <lem>intellectus</lem>
+            <rdg wit="#L">intelligit</rdg>
+          </app>
+          intelligitur, et qua materiale obiectum
+          intelligitur, est quid abstractum ab obiecto
+          materiali. Sed illa species eadem materiali immo in
+          tantum quod
+          <app>
+            <lem />
+            <rdg wit="#L">e</rdg>
+          </app>
+          secundum Commentatorem, ex ipso magis fit unum quam ex
+          subiecto et accidente, et materia et
+          forma, immo ex hiis, scilicet specie intelligibili et
+          intellectu, sicut ex lumine et peruio, luce et
+          perspicuo. Unde dicit Commentator quod incorporalibus
+          nihil similius invenire possumus intelligibili
+          <app>
+            <lem>quam</lem>
+            <rdg wit="#L">quod</rdg>
+          </app>
+          unum <supplied>lumen</supplied>
+          multiplicans se in medio peruio.
+        </p>
+        <p xml:id="da-31-l3l3-d7t2ro">
+          Et nota quod hic <name ref="#Aquinas">Expositor</name>
+          variat suam sententiam aequivoco [strange? aequivocando?],
+          intellectum etenim sicut lumen est actus et perfectio?
+          diaphani, sic species intelligibilis est perfectio
+          intellectus. Modo ad propositum,
+          <app>
+            <lem>supposito</lem>
+            <rdg wit="#L">suppositam</rdg>
+          </app>
+          quod intellectus aliquando sumatur per specie intelligibili, sive pro
+          intellectu formali secundum Albert<supplied>um</supplied>. Unde secundum
+          hoc dicit quod in seperatis a materia est idem intellectus et
+          intelligibile. Ista littera non est retorquenda ad intelligentias, quia
+          de illis non loquitur <name ref="#Aristotle">Philosophus</name> in
+          proposito, sed sumamus quod intellectus, qui a nobis intelligitur, est
+          separatus a materia. Materia in talibus separatis idem est intellectus,
+          id est species intelligibilis, est, inquam, ille idem cum eo quod
+          intellectus in separatis a materia, id est in nostro intellectu qui est
+          materialis, sed in coniunctis materie sicut est obiectum materiale ab
+          h<del rend="punct">i</del>oc species separata non est idem tali obiecto.
+        </p>
+        <p xml:id="da-31-l3l3-fi6v3f">
+          Advertendum est modo propter solutionem prime distinctionis quomodo
+          dictum Philosophi applicetur ad propositum. Sicut enim nulli competit
+          actus calefaciendi, nisi habeat formaliter calorem in actu, et in istis
+          inferioribus <unclear reason="rasura">sed</unclear> sic etiam nihil
+          intelligitur, nisi habeat intellectum in actu, sed nunc intellectus
+          <unclear reason="rasura">intellectu</unclear> possibilis habens species
+          intelligibiles habet intellectum in actu, quare ille, cum intelligitur,
+          intelligit <note>Two meta marks that might indicate the insertion of
+          some material, but there is no material to insert (in margins or other
+          places).</note> quare si sic est quod talis intellectus in actu est
+          abstractus a talibus materialibus, ideo materialia
+          <app>
+            <lem>intellectu</lem>
+            <rdg wit="#L">intellectum</rdg>
+          </app>
+          carentia sic sunt intelligibilia ita quod <add place="above">non</add>
+          intelligant, et ponatur exemplum ut si aliquid infrigidetur
+          infrigiditate quae non est in seipso, sed in alio, planum est quod aliud
+          non infrigidat, sed oportet quod frigus formaliter habeat, sed nunc ita
+          est quod obiecta materialia intelliguntur per id quod est in alio, et
+          non in ipsis formaliter, quare ipsa, cum intelligantur, non intelligunt
+          et sic patet secunda difficultas determinata.
+        </p>
+        <p xml:id="da-31-l3l3-3fvd13">
+          Littera: Ita fuit secunda dubitatio quomodo intellectus esset
+          intelligibilis vel sicut substantiae separatae, id est per sui ipsius
+          substantiam, vel sicut materialia, id est per speciem. <name
+          ref="#Aristotle">Philosophus</name> respondet et, supple intellectus,
+          intelligibilis non per se et secundum suam essentiam, sed et [=est?]
+          intelligibilis <quote>sicut intelligibilia</quote>, id est per species
+          intelligibilium, et cum intellectus intelligit, licet, supple alia, non
+          intelligant, et bene est hoc quia intellectus, id est species
+          intelligibilis, et quia intelligitur, supple per talem speciem, in hiis
+          que sunt sine materia,
+          <app>
+            <lem>cuiusmodi</lem>
+            <rdg wit="#L">cuius materia</rdg>
+          </app>
+          est, noster intellectus est idem in coniunctis autem et cetera. Et
+          subdit quia ita est quod intellectus et quod intelligitur sunt idem,
+          ipse subdit quod scientia speculativa et suum scibile, id est
+          speculativum <del rend="punct">et</del> idem valet/sed[?] grammatica est
+          scientia, et est aliud quod scitur, et naturalis scientia est scientia,
+          et est aliud quod scitur et sicut
+          <app>
+            <lem>supple</lem>
+            <rdg wit="#L">semper</rdg>
+          </app>
+          scibile est suae scientiae, vel idem vel aliter est, scientia est unio
+          specierum scibilium in anima, quia secundum <name
+          ref="#Averroes">Commentatorem</name> duodecimo <title
+          ref="#Aver.Metaph">Metaphysice</title> nostra scientia causata est a
+          rebus eo quod nihil intelligitur nisi per abstractionem specierum a
+          rebus, ergo idem iudicium est de speciebus intelligibilibus et est etiam
+          de scientia. Sed auditum est quod sunt species in intellectu, ergo etiam
+          <app>
+            <lem>est/ delete!</lem>
+            <rdg wit="#L">etiam</rdg>
+          </app>
+          scientia.
+        </p>
+        <p xml:id="da-31-l3l3-lii8aq">
+          Littera: <quote source="430a4-5">scientia speculativa et
+          scibile</quote>, id est speculativum, sicut et noster intellectus, sunt
+          idem, sed ista causa est consideranda cum non semper intelligit, id est
+          quare obiecta materialia, cum sint intelligibilia, non etiam intelligunt
+          autem, pro quia, in habentibus materiam, id est in obiectis materialibus
+          unumquodque est de numero intelligibilium in potentia eo quod secundum
+          se non sunt abstracta a materia, ideo subdit <quote source="430a7">quare
+          quidem illis</quote>, id est obiectis materialibus, non erit potentia
+          intellectiva nec species intelligibilis que vero intelligit in actu,
+          quia intellectus potentia de numero, supple talium que sunt sine
+          materia, et ideo intellectus erit in actu quid immateriale, et quia
+          obiecta materialia non sunt separata a materia quare, supple et ex hoc
+          <add place="above">licet</add> non intelligat ipsum materiale autem, pro
+          tamen, ipsum est intelligibile.
+        </p>
+      </div>
     </body>
   </text>
 </TEI>

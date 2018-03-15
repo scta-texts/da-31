@@ -53,523 +53,521 @@
   </teiHeader>
   <text>
     <body>
-      <div type="book" n="I">
-        <div type="part">
-          <head><supplied ana="#meta-text">Prooemium</supplied></head>
-          <p xml:id="da-31-l1prol-1">
-            <pb n="44r"/><cb n="b" />
-            Ita
-            <app>
-              <lem>ex</lem>
-              <rdg wit="#L"><add place="above">ex</add></rdg>
-            </app>
-            superius positis palam est anime cognitionem et scientiam esse
-            appetendam a nobis, tum propter ipsius saltem humane anime
-            incorruptibilitatem et perpetuitatem sive propter eius
-            diligibilitatem, tum propter eius mirabilitatem, tum propter eius
-            proficuitatem et utilitatem, et sub illis dictis omnibus suppositum
-            est animam esse scibilem sive intelligibilem.
-          </p>
-          <p xml:id="da-31-l1prol-pq3w94">
-            Dubitaret aliquis forte praecipue de anima intellectiva, de
-            qua minus videtur, utrum sit scibilis et intelligibilis, et
-            videretur alicui quod non hac ratione, et suppono quod
-            omnis nostra cognitio sumat exordium a sensu, quia dicit
-            <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophus</name>
-                <title ref="#Arist.APo">Primo posteriorum</title>
-              </ref>
-              <quote>omnis doctrina et omnis disciplina et cetera</quote>
-              <bibl>Arist. <title ref="#Arist.APo">APo</title> I.1 71a1--2</bibl>
-            </cit>
-            <quote
-                source="APo I.1 71a1"></quote>. Videtur et idem per dictum Philosophi
-            in tertio huius ubi dicit quod intelligentem quemque
-            neccesse est fanthasmata speculari, ad quod idem <name
-            ref="#Aristotle">Philosophus</name> loquens in prohemio
-            huius quod intellectus, scilicet illa virtus qua scimus et
-            intelligimus et cognoscimus, vel est fantasia vel non est
-            sine fanthasia.  Et secundum Philosophum secundo huius
-            fanthasia est motus factus post sensum, <note>Is he
-            thinking of 429a1-2: fantasia utique erit motus a sensu
-            secundum actum facto?</note> propter quod bene supponere
-            possumus intelligere nostrum sumere exordium a sensu.
-          </p>
-          <p xml:id="da-31-l1prol-b5s0zd">
-            Ex illo arguitur sic: Illud non est intelligibile nec
-            scibile per
-            <app>
-              <lem>antecedens</lem>
-              <rdg type="correction-substitution" wit="#L">
-                <subst>
-                  <del>consequens</del>
-                  <add>antecedens</add>
-                </subst>
-                <note>
-                  We have <expan>con</expan><expan>seque</expan>ns with <c>a</c>
-                  written over the <mentioned>con</mentioned> abbreviation.
-                </note>
-              </rdg>
+      <div xml:id="da-31-l1prol">
+        <head><supplied ana="#meta-text">Prooemium</supplied></head>
+        <p xml:id="da-31-l1prol-1">
+          <pb n="44r"/><cb n="b" />
+          Ita
+          <app>
+            <lem>ex</lem>
+            <rdg wit="#L"><add place="above">ex</add></rdg>
+          </app>
+          superius positis palam est anime cognitionem et scientiam esse
+          appetendam a nobis, tum propter ipsius saltem humane anime
+          incorruptibilitatem et perpetuitatem sive propter eius
+          diligibilitatem, tum propter eius mirabilitatem, tum propter eius
+          proficuitatem et utilitatem, et sub illis dictis omnibus suppositum
+          est animam esse scibilem sive intelligibilem.
+        </p>
+        <p xml:id="da-31-l1prol-pq3w94">
+          Dubitaret aliquis forte praecipue de anima intellectiva, de
+          qua minus videtur, utrum sit scibilis et intelligibilis, et
+          videretur alicui quod non hac ratione, et suppono quod
+          omnis nostra cognitio sumat exordium a sensu, quia dicit
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+              <title ref="#Arist.APo">Primo posteriorum</title>
+            </ref>
+            <quote>omnis doctrina et omnis disciplina et cetera</quote>
+            <bibl>Arist. <title ref="#Arist.APo">APo</title> I.1 71a1--2</bibl>
+          </cit>
+          <quote
+              source="APo I.1 71a1"></quote>. Videtur et idem per dictum Philosophi
+          in tertio huius ubi dicit quod intelligentem quemque
+          neccesse est fanthasmata speculari, ad quod idem <name
+          ref="#Aristotle">Philosophus</name> loquens in prohemio
+          huius quod intellectus, scilicet illa virtus qua scimus et
+          intelligimus et cognoscimus, vel est fantasia vel non est
+          sine fanthasia.  Et secundum Philosophum secundo huius
+          fanthasia est motus factus post sensum, <note>Is he
+          thinking of 429a1-2: fantasia utique erit motus a sensu
+          secundum actum facto?</note> propter quod bene supponere
+          possumus intelligere nostrum sumere exordium a sensu.
+        </p>
+        <p xml:id="da-31-l1prol-b5s0zd">
+          Ex illo arguitur sic: Illud non est intelligibile nec
+          scibile per
+          <app>
+            <lem>antecedens</lem>
+            <rdg type="correction-substitution" wit="#L">
+              <subst>
+                <del>consequens</del>
+                <add>antecedens</add>
+              </subst>
               <note>
-                <person corresp="SE">SE</person> thinks that
-                <mentioned>consequens</mentioned> makes better sense, but if
-                we take the antecedent to be defined by the <q>quod non est
-                sensibile</q>, i.e. that it is not sensible, then that would
-                be a valid antecedent to the conclusion that it is not
-                intelligible (provided that only what is sensible is
-                intelligible).
+                We have <expan>con</expan><expan>seque</expan>ns with <c>a</c>
+                written over the <mentioned>con</mentioned> abbreviation.
               </note>
-              </app>, quod non est sensibile, nec per se nec adminus per accidens,
-              sed anima intellectiva non est sensibilis, nec per se nec per
-              accidens, ut declarabo, quare et cetera. Maior patet ex
-              suppositione. Minor declaratur in utroque membro. Planum autem est
-              quod anima intellectiva per se non est sensibilis eo quod est
-              incorporea, sed secundum Philosophum in libro <title
-              ref="#Arist.Sens">De sensu et sensato</title> solum corporeum et
-              sensibile erit, ergo anima intellectiva non est per se sensibilis,
-              nec est etiam per accidens sensibilis, scilicet ut per effectus eius
-              <app>
-                <lem>qui</lem>
-                <rdg wit="#L">que</rdg>
-              </app>
-              sunt operationes eius, sicut enim secundum Philosophum in
-              tertio huius essentia <secl>huius</secl> animae est
-              inmaterialis et sempiterna et abstracta, sic et eius
-              operatio, eo quod illa non transit in materiam exteriorem
-              sed manet intus secundum Philosophum secundo <pb n="44v"
-              /><cb n="a" /> <title ref="#Arist.Metaph">Metaphysice</title>. Manifestum enim
-              est ex istis quod intelligere et speculari et alia
-              <app>
-                <lem>huiusmodi</lem>
-                <rdg wit="#L">huius</rdg>
-              </app>
-              opera anime intellective non sunt sensibilia, quare nullo
-              est scibilis et intelligibilis erit anima
-              intellectiva. <note>reading is corrupt/difficult. Might
-              need solution</note>
-          </p>
-          <p xml:id="da-31-l1prol-4yjys9">
-            Secundo idem ostenditur sic, et presuppono quod inter
-            sciens et scitum et intelligens et intellectum debet esse
-            realis diversitas quia secundum Philosophum quinto
-            <title ref="#Arist.Metaph">Metaphysice</title> sciens et scitum ad se invicem
-            referuntur, sed nihil idem ad seipsum refertur, cum relatio
-            non ponat unum extremum sed duo, quare suppositio haec est
-            vera. Et ex hac arguitur sic: Si ipsa anima intellectiva
-            sive intellectus esset intelligibilis sive scibilis, iam
-            sequeretur quod inter intelligens et intellectum non sit
-            realis diversitas, sed consequens est falsum per
-            suppositionem, ergo et antecedens. 
-          </p>
-          <p xml:id="da-31-l1prol-tunyql">
-            Probatio consequentie:
+            </rdg>
+            <note>
+              <person corresp="SE">SE</person> thinks that
+              <mentioned>consequens</mentioned> makes better sense, but if
+              we take the antecedent to be defined by the <q>quod non est
+              sensibile</q>, i.e. that it is not sensible, then that would
+              be a valid antecedent to the conclusion that it is not
+              intelligible (provided that only what is sensible is
+              intelligible).
+            </note>
+            </app>, quod non est sensibile, nec per se nec adminus per accidens,
+            sed anima intellectiva non est sensibilis, nec per se nec per
+            accidens, ut declarabo, quare et cetera. Maior patet ex
+            suppositione. Minor declaratur in utroque membro. Planum autem est
+            quod anima intellectiva per se non est sensibilis eo quod est
+            incorporea, sed secundum Philosophum in libro <title
+            ref="#Arist.Sens">De sensu et sensato</title> solum corporeum et
+            sensibile erit, ergo anima intellectiva non est per se sensibilis,
+            nec est etiam per accidens sensibilis, scilicet ut per effectus eius
             <app>
-              <lem>quia</lem>
-              <rdg wit="#L">
-                <add place="above">quia</add> quando
-                <note><q>quia quando</q> scr. cum <q>quia</q> supra lineam</note>
-              </rdg>
-              <note>To let <q>quia</q> replace <q>quando</q> seems the most sensible interpretation of the suprascript quia.</note>
+              <lem>qui</lem>
+              <rdg wit="#L">que</rdg>
             </app>
-            non est dubium <supplied>quin</supplied> anima
-            intellectiva sit sciens et intelligens,
-            <app>
-              <lem>sic</lem>
-              <rdg wit="#L">si</rdg>
-            </app>
-            igitur, cum hoc etiam esset intelligibilis et scibilis, iam
-            sequeretur quod idem esset ibi sciens et scitum, ad quod
-            deducere intendebamus, quare cum illud falsum sit,
-            oppositum erit verum, scilicet quod intellectiva anima non
-            sit scibilis.
-          </p>
-          <p xml:id="da-31-l1prol-sryuit">
-            Oppositum autem huius declaratum fuit heri, et patet ex
-            <app>
-              <lem>auctoritate</lem>
-              <rdg wit="#L">virtute</rdg>
-              <note>I'm not sure about this correction</note>
-            </app>
-            Philosophi qui potissime et principaliter tradidit hanc
-            scientiam et cognitionem de anima intellectiva.
-          </p>
-          <p xml:id="da-31-l1prol-n71fei">
-            Ad cuius evidentiam duo sunt preintelligenda. Primo quod ipsa est
-            scibilis et intelligibilis, secundo intelligendum est per quem modum
-            ipsa sit scibilis et intelligibilis. Ad evidentiam autem primi est
-            notandum quod ipsa est scibilis triplici modo sciendi tradito in
-            loyca, scilicet diffinitione, divisione, demonstratione.
-          </p>
-          <p xml:id="da-31-l1prol-qxctbd">
-            Ratio autem primi est ista, scilicet quod sit scibilis
-            diffinitione. Illud enim per diffinitionem est scibile
-            quod habet quiditatem ab intellectu
-            <app>
-              <lem />
-              <rdg wit="#L"><del rend="punct">ab</del></rdg>
-            </app>
-            apprehensibilem, quia secundum
-            Philosophum quinto <title ref="#Arist.Metaph">Metaphysice</title> diffinitio
-            est sermo quiditatis et essentie, et in sexto
-            <unclear>Topicis</unclear> diffinitio est significans quid
-            est esse rei. Sed <supplied>anima</supplied> intellectiva
-            habet essentiam ab intellectu apprehensibilem ut
-            <app>
-              <lem>heri</lem>
-              <rdg wit="#L"><add place="margin">heri</add></rdg>
-            </app>
-            <app>
-              <rdg wit="#L"><del rend="punct">declara<add place="above">ba</add>tur</del></rdg>
-            </app>
-            declarabatur in tertio notabili, quare anima intellectiva
-            erit diffinitione scibilis.
-          </p>
-          <p xml:id="da-31-l1prol-fjjqsi">
-            Secunda ratio est: illud enim est scibile divisione quod
-            habet partes potentiales et subiectivas, in quas est
-            divisibile, sed anima intellectiva habet
+            sunt operationes eius, sicut enim secundum Philosophum in
+            tertio huius essentia <secl>huius</secl> animae est
+            inmaterialis et sempiterna et abstracta, sic et eius
+            operatio, eo quod illa non transit in materiam exteriorem
+            sed manet intus secundum Philosophum secundo <pb n="44v"
+            /><cb n="a" /> <title ref="#Arist.Metaph">Metaphysice</title>. Manifestum enim
+            est ex istis quod intelligere et speculari et alia
             <app>
               <lem>huiusmodi</lem>
               <rdg wit="#L">huius</rdg>
             </app>
-            partes. <supplied>Pro</supplied> partibus enim
-            potentialibus habet intellectum agentem et possibilem,
-            <supplied>pro</supplied> partibus vero subiectivis
-            intellectum Sortis, Platonis et aliorum, quare et cetera.
-          </p>
-          <p xml:id="da-31-l1prol-tp788e">
-            Tertii ratio est, illud est scibile demonstratione quod habet
-            proprietates et partiones de ipsa per diffinitionem mediam
-            <app>
-              <lem>demonstrabiles</lem>
-              <rdg wit="#L">demonstrabilem</rdg>
-              </app>,
-              quia secundum Philosophum secundo
-              <title ref="#Arist.APo">Posteriorum</title> diffinitio est medium in
-              demonstrando propriam passionem de suo proprio subiecto,
-              sed anima intellectiva habet huius
-              <app>
-                <lem>huiusmodi</lem>
-                <rdg wit="#L">huius</rdg>
-              </app>
-              proprietates, scilicet quod sit motrix corporis humani, et
-              quod ea vivamus et intelligimus<note>Note the
-              modus. Maybe vivamus is wrong.</note> quantum ad
-              intellectum possibilem et abstrahamus quoad intellectum
-              agentem, quare et cetera.
-          </p>
-          <p xml:id="da-31-l1prol-1478dm">
-            Et si anima intellectiva istis tribus modis sciendi est
-            <app>
-              <lem />
-              <rdg wit="#L"><del rend="strike punct">sciendi</del></rdg>
-            </app>
-            scibilis, multo forcius et anima vegetativa et
-            sensitiva. Habent enim etiam
+            opera anime intellective non sunt sensibilia, quare nullo
+            est scibilis et intelligibilis erit anima
+            intellectiva. <note>reading is corrupt/difficult. Might
+            need solution</note>
+        </p>
+        <p xml:id="da-31-l1prol-4yjys9">
+          Secundo idem ostenditur sic, et presuppono quod inter
+          sciens et scitum et intelligens et intellectum debet esse
+          realis diversitas quia secundum Philosophum quinto
+          <title ref="#Arist.Metaph">Metaphysice</title> sciens et scitum ad se invicem
+          referuntur, sed nihil idem ad seipsum refertur, cum relatio
+          non ponat unum extremum sed duo, quare suppositio haec est
+          vera. Et ex hac arguitur sic: Si ipsa anima intellectiva
+          sive intellectus esset intelligibilis sive scibilis, iam
+          sequeretur quod inter intelligens et intellectum non sit
+          realis diversitas, sed consequens est falsum per
+          suppositionem, ergo et antecedens.
+        </p>
+        <p xml:id="da-31-l1prol-tunyql">
+          Probatio consequentie:
+          <app>
+            <lem>quia</lem>
+            <rdg wit="#L">
+              <add place="above">quia</add> quando
+              <note><q>quia quando</q> scr. cum <q>quia</q> supra lineam</note>
+            </rdg>
+            <note>To let <q>quia</q> replace <q>quando</q> seems the most sensible interpretation of the suprascript quia.</note>
+          </app>
+          non est dubium <supplied>quin</supplied> anima
+          intellectiva sit sciens et intelligens,
+          <app>
+            <lem>sic</lem>
+            <rdg wit="#L">si</rdg>
+          </app>
+          igitur, cum hoc etiam esset intelligibilis et scibilis, iam
+          sequeretur quod idem esset ibi sciens et scitum, ad quod
+          deducere intendebamus, quare cum illud falsum sit,
+          oppositum erit verum, scilicet quod intellectiva anima non
+          sit scibilis.
+        </p>
+        <p xml:id="da-31-l1prol-sryuit">
+          Oppositum autem huius declaratum fuit heri, et patet ex
+          <app>
+            <lem>auctoritate</lem>
+            <rdg wit="#L">virtute</rdg>
+            <note>I'm not sure about this correction</note>
+          </app>
+          Philosophi qui potissime et principaliter tradidit hanc
+          scientiam et cognitionem de anima intellectiva.
+        </p>
+        <p xml:id="da-31-l1prol-n71fei">
+          Ad cuius evidentiam duo sunt preintelligenda. Primo quod ipsa est
+          scibilis et intelligibilis, secundo intelligendum est per quem modum
+          ipsa sit scibilis et intelligibilis. Ad evidentiam autem primi est
+          notandum quod ipsa est scibilis triplici modo sciendi tradito in
+          loyca, scilicet diffinitione, divisione, demonstratione.
+        </p>
+        <p xml:id="da-31-l1prol-qxctbd">
+          Ratio autem primi est ista, scilicet quod sit scibilis
+          diffinitione. Illud enim per diffinitionem est scibile
+          quod habet quiditatem ab intellectu
+          <app>
+            <lem />
+            <rdg wit="#L"><del rend="punct">ab</del></rdg>
+          </app>
+          apprehensibilem, quia secundum
+          Philosophum quinto <title ref="#Arist.Metaph">Metaphysice</title> diffinitio
+          est sermo quiditatis et essentie, et in sexto
+          <unclear>Topicis</unclear> diffinitio est significans quid
+          est esse rei. Sed <supplied>anima</supplied> intellectiva
+          habet essentiam ab intellectu apprehensibilem ut
+          <app>
+            <lem>heri</lem>
+            <rdg wit="#L"><add place="margin">heri</add></rdg>
+          </app>
+          <app>
+            <rdg wit="#L"><del rend="punct">declara<add place="above">ba</add>tur</del></rdg>
+          </app>
+          declarabatur in tertio notabili, quare anima intellectiva
+          erit diffinitione scibilis.
+        </p>
+        <p xml:id="da-31-l1prol-fjjqsi">
+          Secunda ratio est: illud enim est scibile divisione quod
+          habet partes potentiales et subiectivas, in quas est
+          divisibile, sed anima intellectiva habet
+          <app>
+            <lem>huiusmodi</lem>
+            <rdg wit="#L">huius</rdg>
+          </app>
+          partes. <supplied>Pro</supplied> partibus enim
+          potentialibus habet intellectum agentem et possibilem,
+          <supplied>pro</supplied> partibus vero subiectivis
+          intellectum Sortis, Platonis et aliorum, quare et cetera.
+        </p>
+        <p xml:id="da-31-l1prol-tp788e">
+          Tertii ratio est, illud est scibile demonstratione quod habet
+          proprietates et partiones de ipsa per diffinitionem mediam
+          <app>
+            <lem>demonstrabiles</lem>
+            <rdg wit="#L">demonstrabilem</rdg>
+            </app>,
+            quia secundum Philosophum secundo
+            <title ref="#Arist.APo">Posteriorum</title> diffinitio est medium in
+            demonstrando propriam passionem de suo proprio subiecto,
+            sed anima intellectiva habet huius
             <app>
               <lem>huiusmodi</lem>
               <rdg wit="#L">huius</rdg>
             </app>
-            partes potentiales. Et partes vegetativae sunt nutritivum et
-            generativum, augmentativum. Sensitivae vero auditiva,
-            olfactiva et
+            proprietates, scilicet quod sit motrix corporis humani, et
+            quod ea vivamus et intelligimus<note>Note the
+            modus. Maybe vivamus is wrong.</note> quantum ad
+            intellectum possibilem et abstrahamus quoad intellectum
+            agentem, quare et cetera.
+        </p>
+        <p xml:id="da-31-l1prol-1478dm">
+          Et si anima intellectiva istis tribus modis sciendi est
+          <app>
+            <lem />
+            <rdg wit="#L"><del rend="strike punct">sciendi</del></rdg>
+          </app>
+          scibilis, multo forcius et anima vegetativa et
+          sensitiva. Habent enim etiam
+          <app>
+            <lem>huiusmodi</lem>
+            <rdg wit="#L">huius</rdg>
+          </app>
+          partes potentiales. Et partes vegetativae sunt nutritivum et
+          generativum, augmentativum. Sensitivae vero auditiva,
+          olfactiva et
+          <app>
+            <lem>huiusmodi</lem>
+            <rdg wit="#L">huius</rdg>
+            </app>.
+            Anime proprietates autem vegetative sunt nutrire,
+            augere, generare. Sensitive vero audire, videre et
+            huiusmodi. Est igitur omnis
             <app>
-              <lem>huiusmodi</lem>
-              <rdg wit="#L">huius</rdg>
-              </app>.
-              Anime proprietates autem vegetative sunt nutrire,
-              augere, generare. Sensitive vero audire, videre et
-              huiusmodi. Est igitur omnis
-              <app>
-                <rdg wit="#L"><del rend="punct"><unclear>sû</unclear></del></rdg>
-              </app>
-              anima
-              <app>
-                <rdg wit="#L"><del rend="punct"><unclear>sû</unclear></del></rdg>
-              </app>
-              scibilis, illo triplici modo tradito in loyca quod
-              declarare et ostendere intendebamus. Et si modus
-              Philosophi
-              <app>
-                <lem>procedendi</lem>
-                <rdg wit="#L">consequenter</rdg>
-              </app>
-              intuetur ratione, ipse istis modis tradet scientiam de anima,
-              scilicet diffinitione, divisione et demonstratione.
-          </p>
-          <p xml:id="da-31-l1prol-6s2wam">
-            Deffinit igitur animam in secundo huius et dividit eam per
-            potentias suas et demonstrat eam sic: illo nos vivimus vel
-            sentimus et intelligimus quod est primus actus corporis
-            organici physici et cetera. Sed anima est
-            <app>
-              <lem>huiusmodi</lem>
-              <rdg wit="#L">huius</rdg>
+              <rdg wit="#L"><del rend="punct"><unclear>sû</unclear></del></rdg>
             </app>
-            , ergo et cetera. Ecce qualiter de anima
-            demonstrantur
+            anima
             <app>
-              <lem>huiusmodi</lem>
-              <rdg wit="#L">huius</rdg>
+              <rdg wit="#L"><del rend="punct"><unclear>sû</unclear></del></rdg>
             </app>
-            proprietates.
-          </p>
-          <p xml:id="da-31-l1prol-ya42l8">
-            Secundo notandum circa modum ipsam intelligendi, ad quod
-            intelligendum secundum Proclum qui probat quod omne incorporeum
-            cognoscitum est reflexivum sui ipsius super seipsum, quod declarat
-            ex hoc. Virtus enim incorporalis et indivisibilis non habens
-            distantiam partium <note>Something is missing here. Possibly a
-            longer piece.</note>. Similiter illud patet per oppositum. in
-            virtutibus cognoscitivis corporeis, sicut in oculo: Oculus enim
-            seipsum non videt, cuius non est alia causa nisi quia solum est
-            virtus
+            scibilis, illo triplici modo tradito in loyca quod
+            declarare et ostendere intendebamus. Et si modus
+            Philosophi
             <app>
-              <lem>corporea</lem>
-              <rdg wit="#L">
-                <subst hand="#h2">
-                  <del rend="strike">incorporea</del>
-                  <add>corporea</add>
-                </subst>
-              </rdg>
+              <lem>procedendi</lem>
+              <rdg wit="#L">consequenter</rdg>
             </app>
-            <app>
-              <lem>non</lem>
-              <rdg wit="#L">
-                <subst hand="#h2">
-                  <del rend="strike">est</del>
-                  <add place="above">non</add>
-                </subst>
-              </rdg>
-            </app>
-            reflexiva sui ipsius super se ipsam. Sed anima intellectiva
-            est virtus incorporea cognoscitiva, quia nec est magnitudo
-            nec habens magnitudinem ut declaratur, ergo et cetera. Maior
-            patet per Proclum. Minor declaratur quia si ipsa esset
-            magnitudo aliqua vel habens magnitudinem, tunc sicut mobile
-            quod movetur supra magnitudinem vel supra spacium aliquid,
-            primo movetur supra unam partem spacii illius, et deinde
-            supra aliam, ita quod ille motus fiat in tempore et
-            successive. Modo si ita esset de intellectu, ipsum
-            intelligibile intelligendum succesive et in tempore
-            attingeret ipsam animam sive intellectum primo secundum
-            unam partem magnitudinis animae.
-          </p>
-          <p xml:id="da-31-l1prol-q6ku03">
-            Demonstratio
-            <app>
-              <lem>secundum</lem>
-              <rdg wit="#L">
-                <subst hand="#h2">
-                  <del><unclear>habet</unclear></del>
-                  <add><unclear>secundum</unclear></add>
-                </subst>
-              </rdg>
-              <note>
-                This is a pretty uncertain reading. Some correction has been
-                made, but I cannot quite figure out what is going on.
-              </note>
-            </app>
-            aliam, et sic actus intelligendi non esset simpliciter in
-            instanti, quod
-            <app>
-              <rdg wit="#L">
-                <del hand="#h2"><unclear>cum</unclear></del>
-              </rdg>
-            </app>
-            probat
-            <name ref="#Aristotle">Philosophus</name> in tertio huius, sequeretur etiam
-            <app>
-              <lem>quod</lem>
-              <rdg wit="#L">
-                <add hand="#h2" place="above">quod</add>
-              </rdg>
-            </app>
-            ipsa anima esset sciens et ignorans, quia si ipsa haberet
-            magnitudinem secundum illam partem, esset sciens secundum
-            quam intelligibile attingeret ipsam,
-            <app>
-              <lem />
-              <rdg wit="#L">
-                <del rend="punct strike">animam sive intellectum primo secundum unam partem magnitudinis animae</del>
-              </rdg>
-            </app>
-            et secundum aliam ignorans secundum quam non
-            attingeret. Sequeretur etiam quod simul et semel contraria
-            intelligeret, quia secundum aliam partem magnitudinis
-            posset intelligere unum contrariorum. Secundum aliam autem
-            <app>
-              <lem>non</lem>
-              <rdg wit="#L">
-                <add place="above" hand="#h2">non</add>
-              </rdg>
-            </app>
-            <app>
-              <rdg wit="#L"><del hand="#h1" rend="punct strike"><del hand="#h2" rend="strike">ad</del></del></rdg>
-            </app>
-            , quod falsum est secundum Philosophum in tertio
-            <title ref="#Arist.Top">Topicorum</title>, qui dicit quod contingit unum
-            solum intelligere scire vero plura vel multa. Patet igitur
-            quod ipsa non sic habens magnitudinem aliquam omnino
-            <app>
-              <lem>sed</lem>
-              <rdg wit="#L">
-                <subst hand="#h2">
-                  <del>si</del>
-                  <add>sed</add>
-                </subst>
-              </rdg>
-            </app>
-            sit virtus cognoscitiva incorporea. Omnis autem talis est
-            reflexiva sui ipsius super se ipsam, quare anima
-            intellectiva se ipsam reflexive poterit intelligere et
-            scire.
-          </p>
-          <p xml:id="da-31-l1prol-mrp9df">
-            Secundo ad idem est notandum dictum Philosophi in tertio
-            huius, scilicet quod intellectus intelligit se sicut
-            <app>
-              <lem>alia</lem>
-              <rdg wit="#L">
-                <subst>
-                  <del>anima</del>
-                  <add rend="erasure of 'n'">alia</add>
-                </subst>                
-              </rdg>
-            </app>
-            quod non est ita intellectum, quod intellectus sit
-            intelligibilis hoc modo ut ipse a semet abstrahat unam
-            speciem sui sicut oportet alia intelligi.
-            <app>
-              <lem>hoc</lem>
-              <rdg wit="#L">
-                <subst hand="#h2">
-                  <del rend="strike">haec</del>
-                  <add>hoc</add>
-                </subst>
-              </rdg>
-            </app>
-            enim modo
-            <app>
-              <lem>in</lem>
-              <rdg wit="#L"><add place="above">in</add></rdg>
-            </app>
-            intellectibus abstrahentibus esset processus in infinitum
-            quod declaro sic: Ponas enim unum intellectum
-            intelligibilem modo dicto Philosophi sic intellecto sicut
-            iam recitavimus, oportet ponere alium intellectum
-            abstrahentem <unclear>sive/sumi</unclear> habet quo
-            abstrahit ab illo intellectu intelligibili unam
-            speciem. Si modo talem intellectum negaveris, iam habeo
-            propositum quod intellectus non est intelligibilis, ut ab
-            ipso species abstrahitur. Si autem aliquam virtutem haec
-            agentem posueris, ego qaero utrum ille intellectus quem tu
-            ponis sit intelligibilis vel non. Non autem poteris dicere
-            quod non sit intelligibilis quia omnis intellectus
-            intelligibilis est secundum Philosophum in tertio
-            huius. Si autem dicis quod sit intelligibilis aut <note>is
-            this an ut or what is going on here?</note> habet ipsum
-            <app>
-              <lem>esse</lem>
-              <rdg wit="#L">erit</rdg>
-            </app>
-            per speciem ab illo vel non, ergo eadem ratione qua ille
-            intellectus non est per speciem propriam intelligibilis,
-            nec primus. Si autem dicis quod sic, quaeram iterum et
-            eodem modo de illo intellectu abstrahente procedendo in
-            infinitum quod quidem procedere sic omnes artifices
-            abhorrent.
-          </p>
-          <p xml:id="da-31-l1prol-acwa46">
-            Intelligit igitur <name ref="#Aristotle">Philosophus</name> quod intellectus intelligit se
-            per species aliorum. Est enim intellectus, secundum
-            Philosophum tertio <title ref="#Arist.DA">De anima</title>, in pura potentia
-            ad omnia intelligibilia, et dicit ibidem quod hoc habet
-            intellectus de sua natura quod est potentialis vocatus. Ad
-            actum autem intelligendi de potentia intelligendi reducitur
-            per species intelligibiles quas in se gerit postquam
-            intellexit.
-          </p>
-          <p xml:id="da-31-l1prol-ctfr02">
-            Est igitur in actum reductus, tunc quando est informatus
-            speciebus et cum ita sit in actu existens, scilicet
-            intelligendo res et habendo rerum species, tunc revertendo
-            se ad se percipit et intelligit se intelligere, sed
-            intelligere est propria operatio ipsius intellectus, sed
-            non ita quod nobis congruit talis modus intelligendi
-            <app>
-              <lem>secundum</lem>
-              <rdg wit="#L">
-                <add hand="#h2" place="above">secundum</add>
-              </rdg>
-            </app>
-            quem quidem possumus, secundum Philosophum in prohemio
-            <title ref="#Arist.DA">De anima</title>, ex propria alicuius operatione
-            devenire in
-            <app>
-              <rdg wit="#L"><del hand="#h1" rend="punct"><del hand="#h2" rend="strike">substantiam ipsius</del></del></rdg>
-            </app>
-            cognitionem substantiae ipsius, et quod quid est quare
-            ipse intelligit ita ipsas res
-            <app>
-              <rdg wit="#L"><del hand="#h1" rend="punct"><del hand="#h2" rend="strike">intell</del></del></rdg>
-            </app>
-            aspiciens
-            <app>
-              <lem>et</lem>
-              <rdg wit="#L">et</rdg>
-            </app>
-            operationem suam.  Secundum intentionem Procli speciebus
-            rerum in actu factus manuducitur et vadit in cognitionem
-            ipsius, sed per quem modum ex accidentium cognitione
-            deveniamus in cognitionem substantiae. Post modum dicemus
-            super litteram loco suo.
-          </p>
-          <p xml:id="da-31-l1prol-ocs1yi">
-            Patet igitur quod anima intellectiva habet essentiam ad
-            intelligendum <note>H2 also modified this, but the change
-            is difficult to figure out.</note> apprehensibilem
-            cognoscibilem et quomodo sit scibilis et intelligibilis,
-            quod ostendere intendebamus. Ad quam intentionem
-            Commentator duodecimo <title ref="#Arist.Metaph">Metaphysice</title> loquitur
-            quod intellectus noster est aliorum per se sui ipsius
-            autem per accidens et accessorie, et ex <cb n="b"/> hoc
-            idem sumit differentiam inter intellectum divinum et
-            nostrum qui sunt oppositorum modorum intelligendi se et
-            alia, et patent isti modi ex iam dictis. Intellectus enim,
-            divinus intelligit
-            <app>
-              <rdg wit="#L">
-                <del hand="#h1" rend="punct"><del hand="#h2" rend="strike">post</del></del>
-              </rdg>
-            </app>
-            se primo modo et alia ex
-            consequenti, ut relucent in se ipso tamquam in speculo et
-            exemplari. Patet etiam ex dictis quod dupliciter est
-            aliquid scibile, vel actu intelligendi primario et
-            directe, vel actu intelligendi sive sciendi secundario et
-            per quandam reflexionem et conversionem.
-          </p>
-          <p xml:id="da-31-l1prol-uh818a">
-            Ad rationem primam dicendum quod verum est de actu
-            intelligendi primario <unclear>quin<graphic
-            url="img/ul0w5d.png"/></unclear> tamen
-            secundario non oportet. Ad minorem dicendum verum est et
-            ideo optime concludis quod intellectus nullo modo scibilis
-            est actu sciendi sive intelligendi primario. 
-          </p>
-          <p xml:id="da-31-l1prol-cc8uk6">
-            Similiter ad secundam est dicendum quod verum est de actu
-            sciendi primario inter sciens et scitum, tunc debet esse
-            realis diversitas. Si autem convenit intelligere per
-            reflexionem, non oportet illa esse diversa, ut patet per
-            diffinitionem reflexionis. Est enim reflexio nihil aliud
-            nisi conversio alicuius supra
-            se ipsum, et ita conversive intelligendo aliquid non oportet
-            ipsum intelligens et intellectum esse diversa realiter.
-          </p>
-        </div>
+            intuetur ratione, ipse istis modis tradet scientiam de anima,
+            scilicet diffinitione, divisione et demonstratione.
+        </p>
+        <p xml:id="da-31-l1prol-6s2wam">
+          Deffinit igitur animam in secundo huius et dividit eam per
+          potentias suas et demonstrat eam sic: illo nos vivimus vel
+          sentimus et intelligimus quod est primus actus corporis
+          organici physici et cetera. Sed anima est
+          <app>
+            <lem>huiusmodi</lem>
+            <rdg wit="#L">huius</rdg>
+          </app>
+          , ergo et cetera. Ecce qualiter de anima
+          demonstrantur
+          <app>
+            <lem>huiusmodi</lem>
+            <rdg wit="#L">huius</rdg>
+          </app>
+          proprietates.
+        </p>
+        <p xml:id="da-31-l1prol-ya42l8">
+          Secundo notandum circa modum ipsam intelligendi, ad quod
+          intelligendum secundum Proclum qui probat quod omne incorporeum
+          cognoscitum est reflexivum sui ipsius super seipsum, quod declarat
+          ex hoc. Virtus enim incorporalis et indivisibilis non habens
+          distantiam partium <note>Something is missing here. Possibly a
+          longer piece.</note>. Similiter illud patet per oppositum. in
+          virtutibus cognoscitivis corporeis, sicut in oculo: Oculus enim
+          seipsum non videt, cuius non est alia causa nisi quia solum est
+          virtus
+          <app>
+            <lem>corporea</lem>
+            <rdg wit="#L">
+              <subst hand="#h2">
+                <del rend="strike">incorporea</del>
+                <add>corporea</add>
+              </subst>
+            </rdg>
+          </app>
+          <app>
+            <lem>non</lem>
+            <rdg wit="#L">
+              <subst hand="#h2">
+                <del rend="strike">est</del>
+                <add place="above">non</add>
+              </subst>
+            </rdg>
+          </app>
+          reflexiva sui ipsius super se ipsam. Sed anima intellectiva
+          est virtus incorporea cognoscitiva, quia nec est magnitudo
+          nec habens magnitudinem ut declaratur, ergo et cetera. Maior
+          patet per Proclum. Minor declaratur quia si ipsa esset
+          magnitudo aliqua vel habens magnitudinem, tunc sicut mobile
+          quod movetur supra magnitudinem vel supra spacium aliquid,
+          primo movetur supra unam partem spacii illius, et deinde
+          supra aliam, ita quod ille motus fiat in tempore et
+          successive. Modo si ita esset de intellectu, ipsum
+          intelligibile intelligendum succesive et in tempore
+          attingeret ipsam animam sive intellectum primo secundum
+          unam partem magnitudinis animae.
+        </p>
+        <p xml:id="da-31-l1prol-q6ku03">
+          Demonstratio
+          <app>
+            <lem>secundum</lem>
+            <rdg wit="#L">
+              <subst hand="#h2">
+                <del><unclear>habet</unclear></del>
+                <add><unclear>secundum</unclear></add>
+              </subst>
+            </rdg>
+            <note>
+              This is a pretty uncertain reading. Some correction has been
+              made, but I cannot quite figure out what is going on.
+            </note>
+          </app>
+          aliam, et sic actus intelligendi non esset simpliciter in
+          instanti, quod
+          <app>
+            <rdg wit="#L">
+              <del hand="#h2"><unclear>cum</unclear></del>
+            </rdg>
+          </app>
+          probat
+          <name ref="#Aristotle">Philosophus</name> in tertio huius, sequeretur etiam
+          <app>
+            <lem>quod</lem>
+            <rdg wit="#L">
+              <add hand="#h2" place="above">quod</add>
+            </rdg>
+          </app>
+          ipsa anima esset sciens et ignorans, quia si ipsa haberet
+          magnitudinem secundum illam partem, esset sciens secundum
+          quam intelligibile attingeret ipsam,
+          <app>
+            <lem />
+            <rdg wit="#L">
+              <del rend="punct strike">animam sive intellectum primo secundum unam partem magnitudinis animae</del>
+            </rdg>
+          </app>
+          et secundum aliam ignorans secundum quam non
+          attingeret. Sequeretur etiam quod simul et semel contraria
+          intelligeret, quia secundum aliam partem magnitudinis
+          posset intelligere unum contrariorum. Secundum aliam autem
+          <app>
+            <lem>non</lem>
+            <rdg wit="#L">
+              <add place="above" hand="#h2">non</add>
+            </rdg>
+          </app>
+          <app>
+            <rdg wit="#L"><del hand="#h1" rend="punct strike"><del hand="#h2" rend="strike">ad</del></del></rdg>
+          </app>
+          , quod falsum est secundum Philosophum in tertio
+          <title ref="#Arist.Top">Topicorum</title>, qui dicit quod contingit unum
+          solum intelligere scire vero plura vel multa. Patet igitur
+          quod ipsa non sic habens magnitudinem aliquam omnino
+          <app>
+            <lem>sed</lem>
+            <rdg wit="#L">
+              <subst hand="#h2">
+                <del>si</del>
+                <add>sed</add>
+              </subst>
+            </rdg>
+          </app>
+          sit virtus cognoscitiva incorporea. Omnis autem talis est
+          reflexiva sui ipsius super se ipsam, quare anima
+          intellectiva se ipsam reflexive poterit intelligere et
+          scire.
+        </p>
+        <p xml:id="da-31-l1prol-mrp9df">
+          Secundo ad idem est notandum dictum Philosophi in tertio
+          huius, scilicet quod intellectus intelligit se sicut
+          <app>
+            <lem>alia</lem>
+            <rdg wit="#L">
+              <subst>
+                <del>anima</del>
+                <add rend="erasure of 'n'">alia</add>
+              </subst>
+            </rdg>
+          </app>
+          quod non est ita intellectum, quod intellectus sit
+          intelligibilis hoc modo ut ipse a semet abstrahat unam
+          speciem sui sicut oportet alia intelligi.
+          <app>
+            <lem>hoc</lem>
+            <rdg wit="#L">
+              <subst hand="#h2">
+                <del rend="strike">haec</del>
+                <add>hoc</add>
+              </subst>
+            </rdg>
+          </app>
+          enim modo
+          <app>
+            <lem>in</lem>
+            <rdg wit="#L"><add place="above">in</add></rdg>
+          </app>
+          intellectibus abstrahentibus esset processus in infinitum
+          quod declaro sic: Ponas enim unum intellectum
+          intelligibilem modo dicto Philosophi sic intellecto sicut
+          iam recitavimus, oportet ponere alium intellectum
+          abstrahentem <unclear>sive/sumi</unclear> habet quo
+          abstrahit ab illo intellectu intelligibili unam
+          speciem. Si modo talem intellectum negaveris, iam habeo
+          propositum quod intellectus non est intelligibilis, ut ab
+          ipso species abstrahitur. Si autem aliquam virtutem haec
+          agentem posueris, ego qaero utrum ille intellectus quem tu
+          ponis sit intelligibilis vel non. Non autem poteris dicere
+          quod non sit intelligibilis quia omnis intellectus
+          intelligibilis est secundum Philosophum in tertio
+          huius. Si autem dicis quod sit intelligibilis aut <note>is
+          this an ut or what is going on here?</note> habet ipsum
+          <app>
+            <lem>esse</lem>
+            <rdg wit="#L">erit</rdg>
+          </app>
+          per speciem ab illo vel non, ergo eadem ratione qua ille
+          intellectus non est per speciem propriam intelligibilis,
+          nec primus. Si autem dicis quod sic, quaeram iterum et
+          eodem modo de illo intellectu abstrahente procedendo in
+          infinitum quod quidem procedere sic omnes artifices
+          abhorrent.
+        </p>
+        <p xml:id="da-31-l1prol-acwa46">
+          Intelligit igitur <name ref="#Aristotle">Philosophus</name> quod intellectus intelligit se
+          per species aliorum. Est enim intellectus, secundum
+          Philosophum tertio <title ref="#Arist.DA">De anima</title>, in pura potentia
+          ad omnia intelligibilia, et dicit ibidem quod hoc habet
+          intellectus de sua natura quod est potentialis vocatus. Ad
+          actum autem intelligendi de potentia intelligendi reducitur
+          per species intelligibiles quas in se gerit postquam
+          intellexit.
+        </p>
+        <p xml:id="da-31-l1prol-ctfr02">
+          Est igitur in actum reductus, tunc quando est informatus
+          speciebus et cum ita sit in actu existens, scilicet
+          intelligendo res et habendo rerum species, tunc revertendo
+          se ad se percipit et intelligit se intelligere, sed
+          intelligere est propria operatio ipsius intellectus, sed
+          non ita quod nobis congruit talis modus intelligendi
+          <app>
+            <lem>secundum</lem>
+            <rdg wit="#L">
+              <add hand="#h2" place="above">secundum</add>
+            </rdg>
+          </app>
+          quem quidem possumus, secundum Philosophum in prohemio
+          <title ref="#Arist.DA">De anima</title>, ex propria alicuius operatione
+          devenire in
+          <app>
+            <rdg wit="#L"><del hand="#h1" rend="punct"><del hand="#h2" rend="strike">substantiam ipsius</del></del></rdg>
+          </app>
+          cognitionem substantiae ipsius, et quod quid est quare
+          ipse intelligit ita ipsas res
+          <app>
+            <rdg wit="#L"><del hand="#h1" rend="punct"><del hand="#h2" rend="strike">intell</del></del></rdg>
+          </app>
+          aspiciens
+          <app>
+            <lem>et</lem>
+            <rdg wit="#L">et</rdg>
+          </app>
+          operationem suam.  Secundum intentionem Procli speciebus
+          rerum in actu factus manuducitur et vadit in cognitionem
+          ipsius, sed per quem modum ex accidentium cognitione
+          deveniamus in cognitionem substantiae. Post modum dicemus
+          super litteram loco suo.
+        </p>
+        <p xml:id="da-31-l1prol-ocs1yi">
+          Patet igitur quod anima intellectiva habet essentiam ad
+          intelligendum <note>H2 also modified this, but the change
+          is difficult to figure out.</note> apprehensibilem
+          cognoscibilem et quomodo sit scibilis et intelligibilis,
+          quod ostendere intendebamus. Ad quam intentionem
+          Commentator duodecimo <title ref="#Arist.Metaph">Metaphysice</title> loquitur
+          quod intellectus noster est aliorum per se sui ipsius
+          autem per accidens et accessorie, et ex <cb n="b"/> hoc
+          idem sumit differentiam inter intellectum divinum et
+          nostrum qui sunt oppositorum modorum intelligendi se et
+          alia, et patent isti modi ex iam dictis. Intellectus enim,
+          divinus intelligit
+          <app>
+            <rdg wit="#L">
+              <del hand="#h1" rend="punct"><del hand="#h2" rend="strike">post</del></del>
+            </rdg>
+          </app>
+          se primo modo et alia ex
+          consequenti, ut relucent in se ipso tamquam in speculo et
+          exemplari. Patet etiam ex dictis quod dupliciter est
+          aliquid scibile, vel actu intelligendi primario et
+          directe, vel actu intelligendi sive sciendi secundario et
+          per quandam reflexionem et conversionem.
+        </p>
+        <p xml:id="da-31-l1prol-uh818a">
+          Ad rationem primam dicendum quod verum est de actu
+          intelligendi primario <unclear>quin<graphic
+          url="img/ul0w5d.png"/></unclear> tamen
+          secundario non oportet. Ad minorem dicendum verum est et
+          ideo optime concludis quod intellectus nullo modo scibilis
+          est actu sciendi sive intelligendi primario.
+        </p>
+        <p xml:id="da-31-l1prol-cc8uk6">
+          Similiter ad secundam est dicendum quod verum est de actu
+          sciendi primario inter sciens et scitum, tunc debet esse
+          realis diversitas. Si autem convenit intelligere per
+          reflexionem, non oportet illa esse diversa, ut patet per
+          diffinitionem reflexionis. Est enim reflexio nihil aliud
+          nisi conversio alicuius supra
+          se ipsum, et ita conversive intelligendo aliquid non oportet
+          ipsum intelligens et intellectum esse diversa realiter.
+        </p>
       </div>
     </body>
   </text>

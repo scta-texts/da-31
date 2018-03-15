@@ -51,39 +51,41 @@
       </div>
     </front>
     <body>
-      <head>
-        <supplied ana="#meta-text">
-          Dubitatio: quomodo intellectus possibilis possit intelligere se
-          secundum ipsius substantiam ex quo receptum oportet esse denudatum a
-          natura recepti.
-        </supplied>
-      </head>
-      <p xml:id="da-31-l3l1-rwz0li">
-        Et est advertendum quod Iohannes Grammaticus movet hoc
-        dubium, quomodo intellectus possibilis possit intelligere
-        <app>
-          <lem>se</lem>
-          <rdg wit="#L"><add place="above">se</add></rdg>
-        </app>
-        secundum ipsius substantiam ex quo receptivum oportet esse denudatum a
-        natura recepti. Ipse respondet et dicit quod si ita esset quod
-        intellectus esset in potentia ad rerum substantias quas deberet
-        intelligere ita quod rerum intelligibilium substantias reciperet, tunc
-        illa dubitatio locum haberet. Sed modo non est ita. Sed pro tanto
-        intellectus dicitur recipere res, quia recipit species rerum
-        noscibiliter et ex hoc trahitur distinctio quod intellectum recipere
-        intelligibilia dupliciter intelligitur. Uno modo quod sit in potentia
-        receptiva, <quote>ad intelligibilia</quote>, id est ad substantias
-        intelligibilium, et talis intellectus est falsus. Alio autem modo
-        intellectus potest intelligi <quote>in potentia ad
-        intelligibilia</quote>, id est ad species et rationes rerum
-        intelligibilium quas noscibiliter recipit et sic bene habet veritatum.
-        Unde <name ref="#Aristotle">Philosophus</name> huic concordat postea
-        dicens <quote source="III.8"> lapis non est in anima, sed species
-        eius,</quote> et hoc modo est intelligendum quod intellectus possibilis
-        est in potentia receptiva sui ipsius, scilicet specie et ratione, eo
-        modo quo patebit.
-      </p>
+      <div xml:id="da-31-l3l1">
+        <head>
+          <supplied ana="#meta-text">
+            Dubitatio: quomodo intellectus possibilis possit intelligere se
+            secundum ipsius substantiam ex quo receptum oportet esse denudatum a
+            natura recepti.
+          </supplied>
+        </head>
+        <p xml:id="da-31-l3l1-rwz0li">
+          Et est advertendum quod Iohannes Grammaticus movet hoc
+          dubium, quomodo intellectus possibilis possit intelligere
+          <app>
+            <lem>se</lem>
+            <rdg wit="#L"><add place="above">se</add></rdg>
+          </app>
+          secundum ipsius substantiam ex quo receptivum oportet esse denudatum a
+          natura recepti. Ipse respondet et dicit quod si ita esset quod
+          intellectus esset in potentia ad rerum substantias quas deberet
+          intelligere ita quod rerum intelligibilium substantias reciperet, tunc
+          illa dubitatio locum haberet. Sed modo non est ita. Sed pro tanto
+          intellectus dicitur recipere res, quia recipit species rerum
+          noscibiliter et ex hoc trahitur distinctio quod intellectum recipere
+          intelligibilia dupliciter intelligitur. Uno modo quod sit in potentia
+          receptiva, <quote>ad intelligibilia</quote>, id est ad substantias
+          intelligibilium, et talis intellectus est falsus. Alio autem modo
+          intellectus potest intelligi <quote>in potentia ad
+          intelligibilia</quote>, id est ad species et rationes rerum
+          intelligibilium quas noscibiliter recipit et sic bene habet veritatum.
+          Unde <name ref="#Aristotle">Philosophus</name> huic concordat postea
+          dicens <quote source="III.8"> lapis non est in anima, sed species
+          eius,</quote> et hoc modo est intelligendum quod intellectus possibilis
+          est in potentia receptiva sui ipsius, scilicet specie et ratione, eo
+          modo quo patebit.
+        </p>
+      </div>
     </body>
   </text>
 </TEI>
