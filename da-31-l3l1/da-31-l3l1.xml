@@ -1,36 +1,54 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+  <teiHeader>    
     <fileDesc>
       <titleStmt>
-        <title>Sententia super librum De anima</title>
-        <author>Simon of Faversham</author>
+        <title>Prooemium</title>
+        <author>Simon Magister</author>
         <respStmt>
           <persName xml:id="MSC">Michael Stenskjær Christensen</persName>
           <resp>Encoding and transcription</resp>
-          <persName xml:id="SE">Sten Ebbesen</persName>
-          <resp>Editorial suggestions</resp>
         </respStmt>
       </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1">
+          <date when="2018-03-15">March 15, 2018</date>
+        </edition>
+      </editionStmt>
       <publicationStmt>
         <publisher>Michael Stenskjær Christensen</publisher>
       </publicationStmt>
-      <editionStmt>
-        <edition n="0.1">
-          <date when="2016-01-13">January 13, 2016</date>
-        </edition>
-      </editionStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="L">Leipzig UB 1359, ff. 44r-77v</witness>
+          <witness xml:id="L">Leipzig UB 1359, ff. 44r-77v
+            <msDesc>
+              <physDesc>
+                <handDesc>
+                  <handNote sameAs="h1" xml:id="L1" scope="major" medium="brown">
+                    Main hand. Brown ink.
+                  </handNote>
+                  <handNote xml:id="h2" scope="minor" medium="black">
+                    Secondary hand. Black ink.
+                  </handNote>
+                  <handNote xml:id="h3" scope="minor" medium="light brown">
+                    Tertiary hand. Light brown ink.
+                  </handNote>
+                </handDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <variantEncoding method="parallel-segmentation" location="internal"/>
       <schemaRef n="lbp-critical-1.0.0"
-                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
       </schemaRef>
       <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
         <p>
           This particular scribe has a bad habit of using the same
           abbreviation for huius and huiusmodi (h9). When I read
@@ -38,14 +56,13 @@
         </p>
       </editorialDecl>
     </encodingDesc>
-    <revisionDesc status="draft" />
-    <profileDesc>
-      <handNotes>
-        <handNote xml:id="h1" scope="major" medium="brown"></handNote>
-        <handNote xml:id="h2" scope="minor" medium="black"></handNote>
-        <handNote xml:id="h3" scope="minor" medium="light brown"></handNote>
-      </handNotes>
-    </profileDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-03-15" status="draft" n="0.0.1-dev">
+          <p>Revision for first valid encoding.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -67,7 +84,9 @@
           dubium, quomodo intellectus possibilis possit intelligere
           <app>
             <lem>se</lem>
-            <rdg wit="#L"><add place="above">se</add></rdg>
+            <rdg wit="#L" type="correction-addition">
+              <add place="above">se</add>
+            </rdg>
           </app>
           secundum ipsius substantiam ex quo receptivum oportet esse denudatum a
           natura recepti. Ipse respondet et dicit quod si ita esset quod

@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>    
     <fileDesc>
@@ -7,22 +9,36 @@
 	      <respStmt>
 	        <persName xml:id="MSC">Michael Stenskjær Christensen</persName>
 	        <resp>Encoding and transcription</resp>
-          <persName xml:id="SE">Sten Ebbesen</persName>
-          <resp>Editorial suggestions</resp>
 	      </respStmt>
       </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1">
+          <date when="2018-03-15">March 15, 2018</date>
+        </edition>
+      </editionStmt>
       <publicationStmt>
         <publisher>Michael Stenskjær Christensen</publisher>
       </publicationStmt>
-      <editionStmt>
-        <edition n="0.1">
-          <date when="2016-01-13">January 13, 2016</date>
-        </edition>
-      </editionStmt>
       <sourceDesc>
-	      <listWit>
-	        <witness xml:id="L">Leipzig UB 1359, ff. 44r-</witness>
-	      </listWit>
+        <listWit>
+          <witness xml:id="L">Leipzig UB 1359, ff. 44r-77v
+            <msDesc>
+              <physDesc>
+                <handDesc>
+                  <handNote sameAs="h1" xml:id="L1" scope="major" medium="brown">
+                    Main hand. Brown ink.
+                  </handNote>
+                  <handNote xml:id="h2" scope="minor" medium="black">
+                    Secondary hand. Black ink.
+                  </handNote>
+                  <handNote xml:id="h3" scope="minor" medium="light brown">
+                    Tertiary hand. Light brown ink.
+                  </handNote>
+                </handDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -42,14 +58,13 @@
         </p>
       </editorialDecl>
     </encodingDesc>
-    <revisionDesc status="draft" />
-    <profileDesc>
-      <handNotes>
-        <handNote xml:id="h1" scope="major" medium="brown"></handNote>
-        <handNote xml:id="h2" scope="minor" medium="black"></handNote>
-        <handNote xml:id="h3" scope="minor" medium="light brown"></handNote>
-      </handNotes>
-    </profileDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-03-15" status="draft" n="0.0.1-dev">
+          <p>Revision for first valid encoding.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -64,7 +79,9 @@
           Ita
           <app>
             <lem>ex</lem>
-            <rdg wit="#L"><add place="above">ex</add></rdg>
+            <rdg wit="#L" type="correction-addition">
+              <add place="above">ex</add>
+            </rdg>
           </app>
           superius positis palam est anime cognitionem et scientiam esse
           appetendam a nobis, tum propter ipsius saltem humane anime
@@ -112,7 +129,7 @@
               </note>
             </rdg>
             <note>
-              <person corresp="SE">SE</person> thinks that
+              SE thinks that
               <mentioned>consequens</mentioned> makes better sense, but if
               we take the antecedent to be defined by the <q>quod non est
               sensibile</q>, i.e. that it is not sensible, then that would
