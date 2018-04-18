@@ -78,7 +78,408 @@
     <body>
       <div xml:id="da-31-l1prol">
         <head><supplied ana="#meta-text">Prooemium</supplied></head>
-        <p xml:id="da-31-l1prol-1">
+        <p xml:id="da-31-l1prol-b56722">
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name> scribit in primo
+              <title ref="#Arist.PA">De partibus animalium</title>
+            </ref>
+            <quote type="paraphrase">
+              quod plus delectamur et diligimus scientiae de rebus
+              incorruptibilibus et aeternis, quamvis solum probabiliter et
+              topice sciamus quam scientiae omnia reliqua quae apud nos sunt
+              necessarie et demonstrative.
+            </quote>
+          </cit>
+          Et ratio huius propositionis est quia secundum
+          <ref>
+            <name ref="#Aristotle">Philosophum</name> tertio
+            <title ref="#Arist.Top">Topicorum</title>
+          </ref>
+          et secundum
+          <ref>
+            <name ref="#Alanus">
+              <app>
+                <lem>Alanum</lem>
+                <rdg type="correction-substitution" wit="#L">
+                  <subst>
+                    <del>alarium</del>
+                    <add>alanum</add>
+                  </subst>
+                </rdg>
+              </app>
+            </name>
+            in libro suo <title ref="#Alanus.DePlanctu">De planctu naturae</title>
+          </ref>
+          illa quae cum maiore difficultate et labore acquiruntur cum maiori
+          delectatione et dilectione possidentur, eo quod delectatio nihil aliud
+          est quam quies iure amata. Unde et
+          <ref>
+            <name ref="#Alanus">Alanus</name>
+            in praedicto libro
+          </ref>
+          dicit
+          <quote>
+            praemia quidem laboribus comparata ceteris muneribus dulcius
+            elucescunt, munera enim empta laboribus, iucundius omnibus
+            clarescunt gratuitis, labor enim antecedens quamdam consequenti
+            <app>
+              <lem>praemio</lem>
+              <rdg wit="#L" type="correction-substitution">
+                <subst>
+                  <del>primo</del>
+                  <add>praemio</add>
+                </subst>
+              </rdg>
+            </app>
+            infundens dulcedinem, maiori favore praemiat laboranten.
+          </quote>
+          <bibl>
+            <name ref="#Alanus">Alanus</name>
+            <title ref="#Alanus.DePlanctu">De planctu naturae</title>, p.
+            443D--44A (ed. unknown).
+          </bibl>
+          Sed nunc ita quod aeternorum et incorruptibilium cognitio etiam
+          probatur cum labore et difficultate acquirimus, quia
+          <cit>
+            <ref>
+              secundum <name ref="#Aristotle">Philosophum</name> secundo <title
+              ref="#Arist.Metaph">Metaphysicorum</title>:
+            </ref>
+            <quote>
+              Ad talia se habet noster intellectus sicut oculus noctuae ad lumen
+              solis.
+            </quote>
+          </cit>
+          Eo sequitur quod plus deligimus et delectamur modicum scientiae de
+          rebus aeternis et incorruptibilibus, etsi probabiliter et topice
+          sciamus, quam alia apud nos necessarie et demonstrative, quod erat
+          propositio primo proposita. Cum igitur anima intellectiva sit
+          incorruptibilis et aeterna
+          <ref>
+            secundum <name ref="#Aristotle">Philosophum</name> in tertio
+            <title ref="#Arist.DA">De anima</title>
+          </ref>
+          et
+          <cit>
+            <ref>
+              ab eodem in secundo expressius, ubi dicit
+            </ref>
+            <quote type="paraphrase">
+              quod intellectus est quodam alterum genus animae
+            </quote>
+          </cit>
+          , separatur enim ab aliis sicut perpetuum a corruptibili, et hoc idem
+          vult
+          <ref>
+            <name ref="#Augustine">Augustinus</name>
+            duodecimo capitulo libri sui
+            <title ref="#Ps-Aug.DeSpiritu">De anima et spiritu</title>, ubi
+            dicit quod
+            <quote type="paraphrase">
+              immortalis est anima ne a creatoris sui similitudine discrepare
+              videratur.
+            </quote>
+          </ref>
+          Non posset enim et imago et similitudo Dei
+          <app>
+            <lem>esse</lem>
+            <rdg wit="#L" type="correction-addition">
+              <add hand="#h2" place="above-line">esse</add>
+            </rdg>
+          </app>
+          , si mortis
+          <unclear>timor</unclear> clauderetur. Sequetur autem quod plus
+          delectamur et diligimus aliud scientiae de anima intellectiva etiam
+          probabiliter quam omnia alia hoc inferius apud nos existentia,
+          cuiusmodi sunt plantae, elementa et cetera, si necesse sciantur.
+        </p>
+        <p xml:id="da-31-l1prol-raspxy">
+          Advidendum est autem quod licet omnia aeterna et incorruptibilia
+          habeant
+          <app>
+            <lem type="conjecture-corrected">huiusmodi</lem>
+            <rdg wit="#L">huius</rdg>
+          </app>
+          praestantiam seu praeeminentiam, in hoc oportet quod plus delectamur
+          et diligimus ipsa scientiae aliis, ut dictum est, tamen inter aeterna
+          et
+          <app>
+            <lem>incoruptibilia</lem>
+            <rdg wit="#L" type="correction-substitution">
+              <subst hand="#h3">
+                <del>corruptibilia</del>
+                <add>incorruptibilia</add>
+              </subst>
+            </rdg>
+          </app>
+          naturaliter plus diligimus
+          <app>
+            <lem>cognitionem</lem>
+            <rdg wit="#L" type="correction-substitution">
+              <subst hand="#h3">
+                <del>cognoscere</del>
+                <add>cognitionem</add>
+              </subst>
+            </rdg>
+          </app>
+          animae nostrae quam alicuius alterius. Cuius ratio est quia illud plus
+          delectamur et diligimus scire et cognoscere quod a nobis plus est
+          dilatum, quia secundum
+          <ref>
+            <name ref="#Aristotle">Philosophum</name>
+            ibidem, scilicet in primo <title ref="#Arist.PA">De partibus
+            animalium</title>
+          </ref>
+          magis diligimus et delectamur videre modicam partem alicuius dilati a
+          nobis ut manum aut faciem quam totam partem alterius, non sic dilati,
+          et hoc docet experientia, sed nunc est ita quod anima intellectiva a
+          nobis est maxime diligenda ut probabo, quare sequitur quod maxime
+          delectemur ipsam scientiae et cognoscere. Propositio assumpta
+          declaratur per
+          <ref>
+            <name ref="#Aristotle">Philosophum</name> in nono <title
+            ref="#Arist.EN">Ethicorum</title>
+          </ref>
+          . Ibi vult quod unusquisque maxime se ipsum diligit, praecipue quod
+          est honorabilissimum et praecipuum in ipso, nam ut ibidem vult,
+          amicitia et delectatio debet esse ordinata, et quod omne delectabile
+          seu amicale, quod est ad alterum, causatur
+          <app>
+            <lem n="causatur"/>
+            <rdg wit="#L" type="correction-deletion">
+              <del rend="errasure"><unclear>ex eo</unclear></del>
+            </rdg>
+          </app>
+          ex animacibili ad se ipsum, propter quod et
+          <ref>
+            <name ref="#Seneca">Seneca</name>:
+          </ref>
+          <quote>
+            Si prudens es incipiat a te consideratio tua, ut aliquos non
+            promoveas re neglecto.
+          </quote>
+          Unde et <unclear>po()a</unclear>:
+          <quote>
+            Qui sibi non parcit mihi
+            <app>
+              <lem n="mihi"/>
+              <rdg wit="#L" type="correction-deletion">
+                <del rend="punctuation">tibi</del>
+              </rdg>
+            </app>
+            <app>
+              <lem n="mihi"/>
+              <rdg wit="#L" type="correction-deletion">
+                <del hand="#h2" rend="overstrike">vel tibi</del>
+              </rdg>
+            </app>
+            quomodo parcit?
+          </quote>
+          quod dicit nullo modo. Unusquisque
+          <app>
+            <lem>ergo</lem>
+            <rdg wit="#L" type="correction-substitution">
+              <subst hand="#h2">
+                <del>igitur</del>
+                <add>ergo</add>
+              </subst>
+            </rdg>
+          </app>
+          maxime se ipsum
+          <app>
+            <lem>diligit</lem>
+            <rdg wit="#L" type="correction-substitution">
+              <subst hand="#h2">
+                <del>intelligit</del>
+                <add>diligit</add>
+              </subst>
+            </rdg>
+          </app>
+          et praecipue honorabilissimum et optimum in ipso, sed anima
+          intellectiva est
+          <app>
+            <lem type="conjecture-corrected">huiusmodi</lem>
+            <rdg wit="#L">huius</rdg>
+          </app>
+          , ut declarabo, quare unusquisque eam maxime diligit
+        </p>
+        <p xml:id="da-31-l1prol-4alitv">
+          Quarto hoc declaro
+          <cit>
+            <ref>
+              per <name ref="#Seneca">Senecam</name>
+              qui dicit:
+            </ref>
+            <quote>
+              Non deformitate corporis foedatur animus, sed pulchritudine animae
+              corpus ornatur.
+            </quote>
+            <bibl>
+              <name ref="#Seneca">Seneca</name>,
+              <title ref="#Seneca.EpAdLucillium">Ep.</title> 66.4.
+            </bibl>
+          </cit>
+        </p>
+        <p xml:id="da-31-l1prol-ba2ton">
+          Ex hiis quae dicta sunt possumus accipere quid sit subiectum libri de
+          anima quem habemus prae manibus, et quae causa efficiens et sic de
+          aliis, scilicet causis. Notandum tamen quod anima de qua
+          <app>
+            <lem>determinatur</lem>
+            <rdg wit="#L" type="correction-substitution">
+              <subst>
+                <del>terminatur</del>
+                <add>determinatur</add>
+              </subst>
+            </rdg>
+          </app>
+          in praesenti libro tripliciter considerari potest. Uno modo ut habet
+          rationem entis et substantiae, et sic de ea considerat metaphysicus.
+          Secundo modo potest considerari inquantum est actus er perfectio
+          naturalis corporis et quantum ad partes et operationes naturales quas
+          excercet in corpore physico, et sic de ea considerat naturalis
+          philosophus in praesenti libro. Tertio potest considerari inquantum
+          per diversas eius potentias est subiectum virtutuum moralium et
+          intellectualium et quantum ad eius operationes morales et voluntarias
+          quas excercet in corpore, et sic de ea considerat moralis
+          philosophus. Et sic est visum quomodo anima sit de consideratione
+          philosophi naturalis.
+        </p>
+        <p xml:id="da-31-l1prol-wx4h9e">
+          Secundo vero intelligendum quomodo ipsa anima sit cognoscibilis et est
+          notandum quod aliquid est cognoscibile dupliciter. Uno
+          <app>
+            <lem n="uno" />
+            <rdg wit="#L" type="correction-deletion">
+              <del rend="punctuation">p</del>
+            </rdg>
+          </app>
+          modo per privationem, alio modo per positionem.
+        </p>
+        <p xml:id="da-31-l1prol-x5y5b9">
+          Si per privationem, hoc est dupliciter, vel quia est pars vel aliquid
+          illius per cuius privationem cognoscitur, et hoc modo punctus
+          cognoscitur per privationem continui, cuius tamen continui, ut lineae,
+          ipse punctus est aliquid; unde dicit
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+              tertio huius
+            </ref>
+            <quote>
+              punctum et omne <surplus>in</surplus>divisibile monstratur
+              divisione continui
+            </quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.6, 430b20--21.
+            </bibl>
+            <note>
+              Punctum autem et omne diuisio et | sic indiuisibile monstratur
+              sicut priuatio.
+            </note>
+          </cit>
+          . Vel cognoscibile per privationem non est aliquid illius per cuius
+          privationem ipsum cognocitur, sed penitus diversum ab illis vel ab
+          illo, et sic Deus sive causa prima intelligitur. Dicimus enim quod
+          Deus sit impassibilis, immortalis, immaterialis, intransmutabilis,
+          nullam habens magnitudinem quantitativam, et dicimus Eum esse
+          simplicitatem privatione compositionis.
+        </p>
+        <p xml:id="da-31-l1prol-r67ve8">
+          Secundo autem
+          <app>
+            <lem wit="#L">modo</lem>
+            <rdg wit="#L" type="correction-addition">
+              <add place="above-line">modo</add>
+            </rdg>
+          </app>
+          aliquid est cognoscibile positione, quod est multis modis. Primo modo
+          contingit hoc per essentiam, et hoc est dupliciter; vel enim aliquid
+          positione cognoscitur per essentiam suam a se ipso vel ab alio. A se
+          ipso autem ut solus Deus cognoscit se ipsum per essentiam, et per
+          illam cognoscit omnia alia quasi relucentia in sua<supplied>m</supplied>
+          essentiam. Si autem aliquis cognoscitur per suam essentiam ab alio,
+          hoc est dupliciter; vel enim apprehenditur sensu per essentiam suam,
+          et sic a visu lux apprehenditur, vel cognoscitur ab intellectu, et sic
+          dolor, gaudium, spes, et
+          <app>
+            <lem type="conjecture-correction">huiusmodi</lem>
+            <rdg wit="#L">huius</rdg>
+          </app>
+          quae
+          <app>
+            <lem>non</lem>
+            <rdg wit="#L" type="correction-addition">
+              <add place="above-line">non</add>
+            </rdg>
+          </app>
+          solum per species suas cognoscuntur, immo per essentiam. Secundo vero
+          aliquid positione cognoscitur per speciem, et hoc est dupliciter; vel
+          enim per species concreatas, et sic substantiae separatae cognoscunt
+          et intelligunt.<note>Above <mentioned>cognoscunt</mentioned> and
+          <mentioned>intelligunt</mentioned> something is written that I can't
+          really decipher. The readings of the two words as active is also
+          dubious. They may actually read
+          <mentioned>cognoscun/cognoscuntur</mentioned> and
+          <mentioned>intelliguntur</mentioned>, and maybe the notes correct
+          that. The correct reading must be active.</note>
+          Unde
+          <cit>
+            <ref>
+              in <title ref="#De-causis">Libro de causis</title>
+              dicitur
+            </ref>
+            <quote>
+              omnis intelligentia plena est formis.
+            </quote>
+            <bibl>
+              <title ref="#Anon.De-causis">Liber de causis</title>
+              IX.92.
+            </bibl>
+            <note>omnis intelligentia plena est formis.</note>
+          </cit>
+          Vel illud contingit per species acquisitas, et sic nos homines
+          <app>
+            <lem type="conjecture-corrected">aliquae</lem>
+            <rdg wit="#L">aliqua</rdg>
+          </app>
+          cognoscimus, et utrumque illorum modorum potest distingui, quia aliqua
+          sunt cognoscibilia in propria species, ut lapis, vel in specie aliqua,
+          sicut pater cognoscitur specie filii, si ei filius similis sit, et
+          Hercules cognoscitur per statuam Herculis. Tertio modo cognoscitur
+          aliquid positione, scilicet per causam propriam et immediatam, et sic
+          cognoscuntur conclusiones demonstrationum, et talis cognitio
+          <mentioned>propter quid</mentioned> dicitur scientia secundum
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Philosophum</name>
+              primo <title ref="#Arist.APo">Posteriorum</title>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.APo">APo</title> I.13, 78a22-23.
+            </bibl>
+          </cit>
+          . Quarto modo aliquid cognoscitur per effectus et per operationes et
+          hoc cognitio dicitur a
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Philosopho</name>
+              primo <title ref="#Arist.APo">Posteriorum</title>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.APo">APo</title> I.13, 78a22-39.
+            </bibl>
+          </cit>
+          <mentioned>cognitio quia</mentioned>, et hoc modo cognoscimus
+          substantias separatas et animam. Unde ille erit modus <name
+          ref="#Aristotle">Philosophi</name>, quis prius cognoscet operationes
+          et potentias et per consequens animam.
+        </p>
+        <p xml:id="da-31-l1prol-3817h6">
           Ita
           <app>
             <lem>ex</lem>
@@ -86,8 +487,8 @@
               <add place="above">ex</add>
             </rdg>
           </app>
-          superius positis palam est anime cognitionem et scientiam esse
-          appetendam a nobis, tum propter ipsius saltem humane anime
+          superius positis palam est animae cognitionem et scientiam esse
+          appetendam a nobis, tum propter ipsius saltem humane animae
           incorruptibilitatem et perpetuitatem sive propter eius
           diligibilitatem, tum propter eius mirabilitatem, tum propter eius
           proficuitatem et utilitatem, et sub illis dictis omnibus suppositum
@@ -243,7 +644,7 @@
           </div>
           <div>
             <p xml:id="da-31-l1prol-4yjys9">
-              Secundo idem ostenditur sic, et presuppono quod inter sciens et
+              Secundo idem ostenditur sic, et praesuppono quod inter sciens et
               scitum et intelligens et intellectum debet esse realis diversitas
               quia secundum Philosophum quinto <title
               ref="#Arist.Metaph">Metaphysice</title> sciens et scitum ad
@@ -564,11 +965,11 @@
                   </subst>
                 </rdg>
               </app>
-              quod non est ita intellectum, quod intellectus sit
+              , quod non est ita intellectum quod intellectus sit
               intelligibilis hoc modo ut ipse a semet abstrahat unam
               speciem sui sicut oportet alia intelligi.
               <app>
-                <lem>hoc</lem>
+                <lem>Hoc</lem>
                 <rdg wit="#L" type="correction-substitution">
                   <subst hand="#h2">
                     <del rend="strike">haec</del>
@@ -586,7 +987,7 @@
               intellectibus abstrahentibus esset processus in infinitum quod
               declaro sic: Ponas enim unum intellectum intelligibilem modo dicto
               Philosophi sic intellecto sicut iam recitavimus, oportet ponere
-              alium intellectum abstrahentem <sic type="crux">sumi habet</sic>
+              alium intellectum abstrahentem <sic ana="#crux">sumi habet</sic>
               quo abstrahit ab illo intellectu intelligibili unam speciem. Si
               modo talem intellectum negaveris, iam habeo propositum quod
               intellectus non est intelligibilis, ut ab ipso species
@@ -615,15 +1016,14 @@
               ibidem quod hoc habet intellectus de sua natura quod est
               potentialis vocatus. Ad actum autem intelligendi de potentia
               intelligendi reducitur per species intelligibiles quas in se gerit
-              postquam intellexit.
+              postquam intellexit; est igitur in actum reductus. Tunc quando est
+              informatus speciebus, et cum ita sit in actu existens, scilicet
+              intelligendo res et habendo rerum species, tunc revertendo se ad
+              se percipit et intelligit se intelligere.
             </p>
-            <p xml:id="da-31-l1prol-ctfr02">
-              Est igitur in actum reductus, tunc quando est informatus
-              speciebus et cum ita sit in actu existens, scilicet
-              intelligendo res et habendo rerum species, tunc revertendo
-              se ad se percipit et intelligit se intelligere, sed
-              intelligere est propria operatio ipsius intellectus, sed
-              non ita quod nobis congruit talis modus intelligendi
+            <p xml:id="da-31-l1prol-ddw5ai">
+              Sed intelligere est propria operatio ipsius intellectus, sed non
+              ita quod nobis congruit talis modus intelligendi
               <app>
                 <lem>secundum</lem>
                 <rdg wit="#L" type="correction-addition">
@@ -641,7 +1041,7 @@
                   </del>
                 </rdg>
               </app>
-              cognitionem substantiae ipsius, et quod quid est quare
+              cognitionem substantiae ipsius et quod quid est, quare
               ipse intelligit ita ipsas res
               <app>
                 <lem n="res" />
@@ -658,11 +1058,10 @@
                   <add hand="#h2" place="above-line">et</add>
                 </rdg>
               </app>
-              operationem suam.  Secundum intentionem Procli speciebus
-              rerum in actu factus manuducitur et vadit in cognitionem
-              ipsius, sed per quem modum ex accidentium cognitione
-              deveniamus in cognitionem substantiae. Post modum dicemus
-              super litteram loco suo.
+              operationem suam. Secundum intentionem Procli speciebus rerum in
+              actu factus manuducitur et vadit in cognitionem ipsius, sed per
+              quem modum ex accidentium cognitione deveniamus in cognitionem
+              substantiae? Postmodum dicemus super litteram loco suo.
             </p>
             <p xml:id="da-31-l1prol-ocs1yi">
               Patet igitur quod anima intellectiva habet essentiam
@@ -679,11 +1078,11 @@
               intelligibilis, quod ostendere intendebamus. Ad quam intentionem
               Commentator duodecimo <title
               ref="#Arist.Metaph">Metaphysicae</title> loquitur quod intellectus
-              noster est aliorum per se sui ipsius autem per accidens et
+              noster est aliorum per se, sui ipsius autem per accidens et
               accessorie, et ex <cb ed="#L" n="b"/> hoc idem sumit differentiam
               inter intellectum divinum et nostrum qui sunt oppositorum modorum
               intelligendi se et alia, et patent isti modi ex iam dictis.
-              Intellectus enim, divinus intelligit
+              Intellectus enim divinus intelligit
               <app>
                 <lem n="intelligit"/>
                 <rdg wit="#L" type="correction-deletion">
