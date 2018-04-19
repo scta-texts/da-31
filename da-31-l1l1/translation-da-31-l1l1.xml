@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	      <title>Lectio 1</title>
+	      <author>Simon Magister</author>
+	      <respStmt>
+	        <persName xml:id="MSC">Michael Stenskjær Christensen</persName>
+	        <resp>Encoding and transcription</resp>
+	      </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1">
+          <date when="2018-04-18">April 18, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Michael Stenskjær Christensen</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L">Leipzig UB 1359, ff. 44r-77v
+          <msDesc>
+            <physDesc>
+              <handDesc>
+                <handNote sameAs="h1" xml:id="L1" scope="major" medium="brown">
+                  Main hand. Brown ink.
+                </handNote>
+                <handNote xml:id="h2" scope="minor" medium="black">
+                  Secondary hand. Black ink. This is possible the same hand as
+                  the marginal notes of a later cursive date. On one occassion I
+                  have seen this hand fill out a fenestra in the main text
+                  (44ra). He might have had access to another witness.
+                </handNote>
+                <handNote xml:id="h3" scope="minor" medium="light brown">
+                  Tertiary hand. Light brown ink.
+                </handNote>
+              </handDesc>
+            </physDesc>
+          </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+        <p>
+          This particular scribe has a bad habit of using the same
+          abbreviation for huius and huiusmodi (h9). When I read
+          huiusmodi for huius, it will be apparent in a critical note.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-04-18" status="draft" n="0.0.1-dev">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div xml:id="starts-on">
+        <pb n="44v" ed="#L"/><cb n="b" ed="#L" />
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-31-l1l1">
+        <p xml:id="da-31-l1l1-ch9hn8">
+          Somebody might ask why he says `presentation' and not `science'. It
+          must be said that this is probably because science is a knowledge of
+          something from causes, but in this book the soul is not known by
+          causes and principles, but rather by its effects and activities.
+          Hence, where the text of the Philosopher has `presentation' here, the
+          text of Themistius has `occupation', but the Commentator here has
+          `recounting'.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
