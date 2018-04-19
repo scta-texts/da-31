@@ -726,9 +726,18 @@
               </app>
               <app>
                 <lem n="heri" />
-                <rdg wit="#L">
+                <rdg wit="#L" type="correction-deletion">
                   <del rend="punct">declara<add place="above">ba</add>tur</del>
                 </rdg>
+                <note>
+                  The scribe corrects <mentioned>declaratur</mentioned> to
+                  <mentioned>declarabatur</mentioned> by adding
+                  <mentioned>ba</mentioned> above the line. He then realizes
+                  that this is unclear and deletes the whole word and then
+                  writes it out fully, so the chunk reads
+                  <quote><del>declara<add>ba</add>tur</del>
+                  declarabatur</quote>.
+                </note>
               </app>
               declarabatur in tertio notabili; quare anima intellectiva
               erit definitione scibilis.
