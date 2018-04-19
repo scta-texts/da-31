@@ -73,7 +73,16 @@
     <body>
       <div xml:id="da-31-l3l1">
         <p xml:id="da-31-l3l1-5h9rre">
-          <quote type="lemma">De parte autem animae.</quote> Secundum <name
+          <cit>
+            <ref>
+              <quote type="lemma">De parte autem animae.</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.4, 429a10.
+            </bibl>
+          </cit>
+          Secundum <name
           ref="#Philoponus">Iohannem Grammaticum</name> et secundum <name
           ref="#Averroes">Commentatorem</name> loquentes, hoc incipit tertius
           liber de anima. Continuat ipsum ad libros praecedentes sic: Supra
@@ -81,8 +90,16 @@
           irrationali, sicut de vegetativo et sensitivo, hoc intendit
           determinare de parte rationali, sicut de intellectu, et dividitur in
           duas. Primo enim de intellectu praemittit suam intentionem, secundo
-          intentum suum exsequitur ibi <quote type="lemma">Si igitur
-          intelligere.</quote>
+          intentum suum exsequitur ibi
+          <cit>
+            <ref>
+              <quote type="lemma">si igitur intelligere.</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.4, 429a13.
+            </bibl>
+          </cit>
         </p>
         <p xml:id="da-31-l3l1-6i0buj">
           Primo igitur intendit de parte animae rationali, sicut de intellectivo,
@@ -99,8 +116,17 @@
           <cb ed="#L" n="b"/>
         </p>
         <p xml:id="da-31-l3l1-y0dd0d">
-          Deinde cum dicit <quote type="lemma">si igitur intelligere</quote>,
-          exsequitur de suo intento, et dividitur in duas secundum quod duo
+          Deinde cum dicit
+          <cit>
+            <ref>
+              <quote type="lemma">si igitur intelligere</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.4, 429a13.
+            </bibl>
+          </cit>
+          , exsequitur de suo intento, et dividitur in duas secundum quod duo
           consideranda et determinanda. Praemissit primo determinare primum,
           scilicet quam differentiam
           <app>
@@ -113,30 +139,98 @@
             </rdg>
           </app>
           ad sensum et fantasiam. Secundo autem determinat quomodo fiat
-          intelligere, et quale quidem sit illud ibi <quote
-          type="lemma">indivisibilium quidem intellectu.</quote> Prima in
-          quatuor secundum quod de quadruplici intellectu declarat, ad cuius
-          evidentiam est sciendum quod quidam intellectus est vocatus possibilis
-          qui recipit omnes species intelligibiles. Alius autem dicitur
-          intellectus agens per cuius virtutem intellectus possibilis talis
-          species recipit. Tertius est quidem intellectus in actu vicatus.
-          Quarto est intelectus materialis et passivus, et secundum hoc
+          intelligere, et quale quidem sit illud ibi
+          <cit>
+            <ref>
+              <quote type="lemma">indivisibilium quidem intellectu.</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.6, 430a26.
+            </bibl>
+          </cit>
+          Prima in quatuor secundum quod de quadruplici intellectu declarat, ad
+          cuius evidentiam est sciendum quod quidam intellectus est vocatus
+          possibilis qui recipit omnes species intelligibiles. Alius autem
+          dicitur intellectus agens per cuius virtutem intellectus possibilis
+          talis species recipit. Tertius est quidem intellectus in actu vicatus.
+          Quarto est intellectus materialis et passivus, et secundum hoc
           dividitur pars in quatuor determinat enim primo de intellectu primo,
-          secundo de secundo ibi <quote type="lemma">quoniam sicut in omni
-          natura</quote>, tertio de tertio ibi <quote type="lemma">idem autem
-          secundum actum</quote>, quarto de quarto ibi <quote
-          type="lemma">passivus vero intellectus</quote>. Prima in tres. Primo
-          enim determinat de intellectu possibili per compositionem ad sensum,
-          secundo determinat de intellectu<supplied>s</supplied> possibilis
-          obiecto ibi <quote type="lemma">quoniam autem aliud est
-          magnitudo</quote>, tertio movet quasdam dubitationes circa ipsum ibi
-          <quote type="lemma">Dubitabit autem aliquis.</quote> Prima in duas.
-          Primo enim determinat de intellectu per compositionem ad sensum
-          secundum convenientiam, secundo determinat de intellectu possibili
-          secundum compositionem ad sensum secundum differentiam ibi <quote
-          type="lemma">unde et misceri</quote>. Prima in duas, secundum quod duo
-          sunt praesens, quae sensus et intellectus possibilis conveniunt,
-          secundum ibi <quote type="lemma">necesse itaque.</quote>
+          secundo de secundo ibi
+          <cit>
+            <ref>
+              <quote type="lemma">quoniam sicut in omni natura</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.5, 430a10.
+            </bibl>
+          </cit>
+          , tertio de tertio ibi
+          <cit>
+            <ref>
+              <quote type="lemma">idem autem secundum actum</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.5, 430a19.
+            </bibl>
+          </cit>
+          , quarto de quarto ibi
+          <cit>
+            <ref>
+              <quote type="lemma">passivus vero intellectus</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.6, 430a24.
+            </bibl>
+          </cit>
+          . Prima in tres. Primo enim determinat de intellectu possibili per
+          compositionem ad sensum, secundo determinat de
+          intellectu<supplied>s</supplied> possibilis obiecto ibi
+          <cit>
+            <ref>
+              <quote type="lemma">quoniam autem aliud est magnitudo</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.4, 429b10.
+            </bibl>
+          </cit>
+          , tertio movet quasdam dubitationes circa ipsum ibi
+          <cit>
+            <ref>
+              <quote type="lemma">Dubitabit autem aliquis.</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.6, 429b10.
+            </bibl>
+          </cit>
+          Prima in duas. Primo enim determinat de intellectu per compositionem
+          ad sensum secundum convenientiam, secundo determinat de intellectu
+          possibili secundum compositionem ad sensum secundum differentiam ibi
+          <cit>
+            <ref>
+              <quote type="lemma">unde et misceri</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.4, 429a24.
+            </bibl>
+          </cit>
+          . Prima in duas, secundum quod duo sunt praesens, quae sensus et
+          intellectus possibilis conveniunt, secundum ibi
+          <cit>
+            <ref>
+              <quote type="lemma">necesse itaque.</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.4, 429a18.
+            </bibl>
+          </cit>
         </p>
         <head>
           <supplied ana="#meta-text">
