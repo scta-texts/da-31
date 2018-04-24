@@ -657,12 +657,12 @@
               Probatio consequentiae:
               <app>
                 <lem>quia</lem>
-                <rdg wit="#L">
-                  <add place="above">quia</add> quando
+                <rdg wit="#L" type="correction-substitution" cert="medium">
+                  <subst>
+                    <del>quando</del>
+                    <add place="above-line">quia</add>
+                  </subst>
                 </rdg>
-                <witDetail wit="#L">
-                  <q>quia</q> supra lineam
-                </witDetail>
               </app>
               non est dubium <supplied>quin</supplied> anima intellectiva sit
               sciens et intelligens,
@@ -771,8 +771,11 @@
                 <rdg wit="#L">huius</rdg>
               </app>
               proprietates, scilicet quod sit motrix corporis humani, et quod ea
-              vivamus et intelligimus<note>Note the modus. Maybe vivamus is
-              wrong.</note> quantum ad intellectum possibilem et abstrahamus
+              <app>
+                <lem type="conjecture-correction">vivimus</lem>
+                <rdg wit="#L">vivamus</rdg>
+              </app>
+              et intelligimus quantum ad intellectum possibilem et abstrahamus
               quoad intellectum agentem; quare et cetera.
             </p>
             <p xml:id="da-31-l1prol-1478dm">
@@ -844,11 +847,10 @@
               intelligendum secundum Proclum qui probat quod omne incorporeum
               cognoscitum est reflexivum sui ipsius super seipsum, quod declarat
               ex hoc: Virtus enim incorporalis et indivisibilis non habens
-              distantiam partium
-              <gap type="lacuna"/>
-              Similiter illud patet per oppositum: In virtutibus cognoscitivis
-              corporeis, sicut in oculo: Oculus enim seipsum non videt, cuius
-              non est alia causa nisi quia solum est virtus
+              distantiam partium. Similiter illud patet per oppositum: In
+              virtutibus cognoscitivis corporeis, sicut in oculo: Oculus enim
+              seipsum non videt, cuius non est alia causa nisi quia solum est
+              virtus
               <app>
                 <lem>corporea</lem>
                 <rdg wit="#L" type="correction-substitution">
@@ -878,29 +880,25 @@
               successive. Modo si ita esset de intellectu, ipsum
               intelligibile intelligendum succesive et in tempore
               attingeret ipsam animam sive intellectum primo secundum
-              unam partem magnitudinis animae.
-            </p>
-            <p xml:id="da-31-l1prol-q6ku03">
-              Demonstratio
+              unam partem magnitudinis animae, deinde
               <app>
                 <lem>secundum</lem>
-                <rdg wit="#L" type="correction-substitution">
+                <rdg wit="#L" type="correction-substitution" cert="medium">
                   <subst hand="#h2">
-                    <del><unclear>habet</unclear></del>
-                    <add><unclear>secundum</unclear></add>
+                    <del>habet</del>
+                    <add>secundum</add>
                   </subst>
                 </rdg>
-                <note>
-                  This is a pretty uncertain reading. Some correction has been
-                  made, but I cannot quite figure out what is going on.
-                </note>
               </app>
               aliam, et sic actus intelligendi non esset simpliciter in
               instanti, quod
               <app>
-                <lem n="quod" />
-                <rdg wit="#L" type="correction-deletion">
-                  <del hand="#h2"><unclear>cum</unclear></del>
+                <lem>vere</lem>
+                <rdg wit="#L" type="correction-substitution" cert="low">
+                  <subst hand="#h2">
+                    <del>cum</del>
+                    <add>vere</add>
+                  </subst>
                 </rdg>
               </app>
               probat <name ref="#Aristotle">Philosophus</name> in tertio huius,
@@ -926,7 +924,7 @@
               et secundum aliam ignorans secundum quam non
               attingeret. Sequeretur etiam quod simul et semel contraria
               intelligeret, quia secundum aliam partem magnitudinis
-              posset intelligere unum contrariorum. Secundum aliam autem
+              posset intelligere unum contrariorum, secundum aliam autem
               <app>
                 <lem>non</lem>
                 <rdg wit="#L" type="correction-addition">
@@ -941,7 +939,7 @@
                   </del>
                 </rdg>
               </app>
-              , quod falsum est secundum Philosophum in tertio <title
+              ; quod falsum est secundum Philosophum in tertio <title
               ref="#Arist.Top">Topicorum</title>, qui dicit quod contingit unum
               solum intelligere <supplied>vel</supplied> scire vero plura vel
               multa. Patet igitur quod ipsa non sic habens magnitudinem aliquam
