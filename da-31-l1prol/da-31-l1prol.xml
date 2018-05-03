@@ -346,139 +346,141 @@
           philosophus. Et sic est visum quomodo anima sit de consideratione
           philosophi naturalis.
         </p>
-        <p xml:id="da-31-l1prol-wx4h9e">
-          Secundo vero intelligendum quomodo ipsa anima sit cognoscibilis et est
-          notandum quod aliquid est cognoscibile dupliciter. Uno
-          <app>
-            <lem n="uno" />
-            <rdg wit="#L" type="correction-deletion">
-              <del rend="punctuation">p</del>
-            </rdg>
-          </app>
-          modo per privationem, alio modo per positionem.
-        </p>
-        <p xml:id="da-31-l1prol-x5y5b9">
-          Si per privationem, hoc est dupliciter, vel quia est pars vel aliquid
-          illius per cuius privationem cognoscitur, et hoc modo punctus
-          cognoscitur per privationem continui, cuius tamen continui, ut lineae,
-          ipse punctus est aliquid; unde dicit
-          <cit>
-            <ref>
-              <name ref="#Aristotle">Philosophus</name>
-              tertio huius
-            </ref>
-            <quote>
-              punctum et omne <surplus>in</surplus>divisibile monstratur
-              divisione continui
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title> III.6, 430b20--21.
-            </bibl>
-            <note>
-              Punctum autem et omne diuisio et | sic indiuisibile monstratur
-              sicut priuatio.
-            </note>
-          </cit>
-          . Vel cognoscibile per privationem non est aliquid illius per cuius
-          privationem ipsum cognocitur, sed penitus diversum ab illis vel ab
-          illo, et sic Deus sive causa prima intelligitur. Dicimus enim quod
-          Deus sit impassibilis, immortalis, immaterialis, intransmutabilis,
-          nullam habens magnitudinem quantitativam, et dicimus Eum esse
-          simplicitatem privatione compositionis.
-        </p>
-        <p xml:id="da-31-l1prol-r67ve8">
-          Secundo autem
-          <app>
-            <lem wit="#L">modo</lem>
-            <rdg wit="#L" type="correction-addition">
-              <add place="above-line">modo</add>
-            </rdg>
-          </app>
-          aliquid est cognoscibile positione, quod est multis modis. Primo modo
-          contingit hoc per essentiam, et hoc est dupliciter; vel enim aliquid
-          positione cognoscitur per essentiam suam a se ipso vel ab alio. A se
-          ipso autem ut solus Deus cognoscit se ipsum per essentiam, et per
-          illam cognoscit omnia alia quasi relucentia in sua<supplied>m</supplied>
-          essentiam. Si autem aliquis cognoscitur per suam essentiam ab alio,
-          hoc est dupliciter; vel enim apprehenditur sensu per essentiam suam,
-          et sic a visu lux apprehenditur, vel cognoscitur ab intellectu, et sic
-          dolor, gaudium, spes, et
-          <app>
-            <lem type="conjecture-correction">huiusmodi</lem>
-            <rdg wit="#L">huius</rdg>
-          </app>
-          quae
-          <app>
-            <lem>non</lem>
-            <rdg wit="#L" type="correction-addition">
-              <add place="above-line">non</add>
-            </rdg>
-          </app>
-          solum per species suas cognoscuntur, immo per essentiam. Secundo vero
-          aliquid positione cognoscitur per speciem, et hoc est dupliciter; vel
-          enim per species concreatas, et sic substantiae separatae cognoscunt
-          et intelligunt.<note>Above <mentioned>cognoscunt</mentioned> and
-          <mentioned>intelligunt</mentioned> something is written that I can't
-          really decipher. The readings of the two words as active is also
-          dubious. They may actually read
-          <mentioned>cognoscun/cognoscuntur</mentioned> and
-          <mentioned>intelliguntur</mentioned>, and maybe the notes correct
-          that. The correct reading must be active.</note>
-          Unde
-          <cit>
-            <ref>
-              in <title ref="#De-causis">Libro de causis</title>
-              dicitur
-            </ref>
-            <quote>
-              omnis intelligentia plena est formis.
-            </quote>
-            <bibl>
-              <title ref="#Anon.De-causis">Liber de causis</title>
-              IX.92.
-            </bibl>
-            <note>omnis intelligentia plena est formis.</note>
-          </cit>
-          Vel illud contingit per species acquisitas, et sic nos homines
-          <app>
-            <lem type="conjecture-corrected">aliquae</lem>
-            <rdg wit="#L">aliqua</rdg>
-          </app>
-          cognoscimus, et utrumque illorum modorum potest distingui, quia aliqua
-          sunt cognoscibilia in propria species, ut lapis, vel in specie aliqua,
-          sicut pater cognoscitur specie filii, si ei filius similis sit, et
-          Hercules cognoscitur per statuam Herculis. Tertio modo cognoscitur
-          aliquid positione, scilicet per causam propriam et immediatam, et sic
-          cognoscuntur conclusiones demonstrationum, et talis cognitio
-          <mentioned>propter quid</mentioned> dicitur scientia secundum
-          <cit>
-            <ref>
-              <name ref="#Aristotle">Philosophum</name>
-              primo <title ref="#Arist.APo">Posteriorum</title>
-            </ref>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.APo">APo</title> I.13, 78a22-23.
-            </bibl>
-          </cit>
-          . Quarto modo aliquid cognoscitur per effectus et per operationes et
-          hoc cognitio dicitur a
-          <cit>
-            <ref>
-              <name ref="#Aristotle">Philosopho</name>
-              primo <title ref="#Arist.APo">Posteriorum</title>
-            </ref>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.APo">APo</title> I.13, 78a22-39.
-            </bibl>
-          </cit>
-          <mentioned>cognitio quia</mentioned>, et hoc modo cognoscimus
-          substantias separatas et animam. Unde ille erit modus <name
-          ref="#Aristotle">Philosophi</name>, quis prius cognoscet operationes
-          et potentias et per consequens animam.
-        </p>
+        <div xml:id="da-31-l1prol-zhpndz">
+          <p xml:id="da-31-l1prol-wx4h9e">
+            Secundo vero intelligendum quomodo ipsa anima sit cognoscibilis et est
+            notandum quod aliquid est cognoscibile dupliciter. Uno
+            <app>
+              <lem n="uno" />
+              <rdg wit="#L" type="correction-deletion">
+                <del rend="punctuation">p</del>
+              </rdg>
+            </app>
+            modo per privationem, alio modo per positionem.
+          </p>
+          <p xml:id="da-31-l1prol-x5y5b9">
+            Si per privationem, hoc est dupliciter, vel quia est pars vel aliquid
+            illius per cuius privationem cognoscitur, et hoc modo punctus
+            cognoscitur per privationem continui, cuius tamen continui, ut lineae,
+            ipse punctus est aliquid; unde dicit
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosophus</name>
+                tertio huius
+              </ref>
+              <quote>
+                punctum et omne <surplus>in</surplus>divisibile monstratur
+                divisione continui
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.6, 430b20--21.
+              </bibl>
+              <note>
+                Punctum autem et omne diuisio et | sic indiuisibile monstratur
+                sicut priuatio.
+              </note>
+            </cit>
+            . Vel cognoscibile per privationem non est aliquid illius per cuius
+            privationem ipsum cognocitur, sed penitus diversum ab illis vel ab
+            illo, et sic Deus sive causa prima intelligitur. Dicimus enim quod
+            Deus sit impassibilis, immortalis, immaterialis, intransmutabilis,
+            nullam habens magnitudinem quantitativam, et dicimus Eum esse
+            simplicitatem privatione compositionis.
+          </p>
+          <p xml:id="da-31-l1prol-r67ve8">
+            Secundo autem
+            <app>
+              <lem wit="#L">modo</lem>
+              <rdg wit="#L" type="correction-addition">
+                <add place="above-line">modo</add>
+              </rdg>
+            </app>
+            aliquid est cognoscibile positione, quod est multis modis. Primo modo
+            contingit hoc per essentiam, et hoc est dupliciter; vel enim aliquid
+            positione cognoscitur per essentiam suam a se ipso vel ab alio. A se
+            ipso autem ut solus Deus cognoscit se ipsum per essentiam, et per
+            illam cognoscit omnia alia quasi relucentia in sua<supplied>m</supplied>
+            essentiam. Si autem aliquis cognoscitur per suam essentiam ab alio,
+            hoc est dupliciter; vel enim apprehenditur sensu per essentiam suam,
+            et sic a visu lux apprehenditur, vel cognoscitur ab intellectu, et sic
+            dolor, gaudium, spes, et
+            <app>
+              <lem type="conjecture-correction">huiusmodi</lem>
+              <rdg wit="#L">huius</rdg>
+            </app>
+            quae
+            <app>
+              <lem>non</lem>
+              <rdg wit="#L" type="correction-addition">
+                <add place="above-line">non</add>
+              </rdg>
+            </app>
+            solum per species suas cognoscuntur, immo per essentiam. Secundo vero
+            aliquid positione cognoscitur per speciem, et hoc est dupliciter; vel
+            enim per species concreatas, et sic substantiae separatae cognoscunt
+            et intelligunt.<note>Above <mentioned>cognoscunt</mentioned> and
+            <mentioned>intelligunt</mentioned> something is written that I can't
+            really decipher. The readings of the two words as active is also
+            dubious. They may actually read
+            <mentioned>cognoscun/cognoscuntur</mentioned> and
+            <mentioned>intelliguntur</mentioned>, and maybe the notes correct
+            that. The correct reading must be active.</note>
+            Unde
+            <cit>
+              <ref>
+                in <title ref="#De-causis">Libro de causis</title>
+                dicitur
+              </ref>
+              <quote>
+                omnis intelligentia plena est formis.
+              </quote>
+              <bibl>
+                <title ref="#Anon.De-causis">Liber de causis</title>
+                IX.92.
+              </bibl>
+              <note>omnis intelligentia plena est formis.</note>
+            </cit>
+            Vel illud contingit per species acquisitas, et sic nos homines
+            <app>
+              <lem type="conjecture-corrected">aliquae</lem>
+              <rdg wit="#L">aliqua</rdg>
+            </app>
+            cognoscimus, et utrumque illorum modorum potest distingui, quia aliqua
+            sunt cognoscibilia in propria species, ut lapis, vel in specie aliqua,
+            sicut pater cognoscitur specie filii, si ei filius similis sit, et
+            Hercules cognoscitur per statuam Herculis. Tertio modo cognoscitur
+            aliquid positione, scilicet per causam propriam et immediatam, et sic
+            cognoscuntur conclusiones demonstrationum, et talis cognitio
+            <mentioned>propter quid</mentioned> dicitur scientia secundum
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosophum</name>
+                primo <title ref="#Arist.APo">Posteriorum</title>
+              </ref>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.APo">APo</title> I.13, 78a22-23.
+              </bibl>
+            </cit>
+            . Quarto modo aliquid cognoscitur per effectus et per operationes et
+            hoc cognitio dicitur a
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosopho</name>
+                primo <title ref="#Arist.APo">Posteriorum</title>
+              </ref>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.APo">APo</title> I.13, 78a22-39.
+              </bibl>
+            </cit>
+            <mentioned>cognitio quia</mentioned>, et hoc modo cognoscimus
+            substantias separatas et animam. Unde ille erit modus <name
+            ref="#Aristotle">Philosophi</name>, quis prius cognoscet operationes
+            et potentias et per consequens animam.
+          </p>
+        </div>
         <p xml:id="da-31-l1prol-3817h6">
           Ita
           <app>
