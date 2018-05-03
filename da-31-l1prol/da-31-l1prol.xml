@@ -114,31 +114,31 @@
           illa quae cum maiore difficultate et labore acquiruntur cum maiori
           delectatione et dilectione possidentur, eo quod delectatio nihil aliud
           est quam quies iure amata. Unde et
-          <ref>
-            <name ref="#Alanus">Alanus</name>
-            in praedicto libro
-          </ref>
-          dicit
-          <quote>
-            praemia quidem laboribus comparata ceteris muneribus dulcius
-            elucescunt, munera enim empta laboribus, iucundius omnibus
-            clarescunt gratuitis, labor enim antecedens quamdam consequenti
-            <app>
-              <lem>praemio</lem>
-              <rdg wit="#L" type="correction-substitution">
-                <subst>
-                  <del>primo</del>
-                  <add>praemio</add>
-                </subst>
-              </rdg>
-            </app>
-            infundens dulcedinem, maiori favore praemiat laboranten.
-          </quote>
-          <bibl>
-            <name ref="#Alanus">Alanus</name>
-            <title ref="#Alanus.DePlanctu">De planctu naturae</title>, p.
-            443D--44A (ed. unknown).
-          </bibl>
+          <cit>
+            <ref>
+              <name ref="#Alanus">Alanus</name> in praedicto libro dicit
+            </ref>
+            <quote>
+              praemia quidem laboribus comparata ceteris muneribus dulcius
+              elucescunt, munera enim empta laboribus, iucundius omnibus
+              clarescunt gratuitis, labor enim antecedens quamdam consequenti
+              <app>
+                <lem>praemio</lem>
+                <rdg wit="#L" type="correction-substitution">
+                  <subst>
+                    <del>primo</del>
+                    <add>praemio</add>
+                  </subst>
+                </rdg>
+              </app>
+              infundens dulcedinem, maiori favore praemiat laboranten.
+            </quote>
+            <bibl>
+              <name ref="#Alanus">Alanus</name>
+              <title ref="#Alanus.DePlanctu">De planctu naturae</title>, p.
+              443D--44A (ed. unknown).
+            </bibl>
+          </cit>
           Sed nunc ita quod aeternorum et incorruptibilium cognitio etiam
           probatur cum labore et difficultate acquirimus, quia
           <cit>
