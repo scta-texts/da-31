@@ -102,18 +102,114 @@
           </cit>
         </p>
         <p xml:id="da-31-l3l1-6i0buj">
-          Primo igitur intendit de parte animae rationali, sicut de intellectivo,
-          ad cuius evidentiam est notandum quod intellectus multis modis dicitur
-          secundum
+          Primo igitur intendit de parte animae rationali, sicut de
+          intellectivo, ad cuius evidentiam est notandum quod
+          <mentioned>intellectus</mentioned> multis modis dicitur secundum
           <ref>
             <name ref="#Alfarabi">Alfarabium</name> in libello suo <title
             ref="#farabi.DeIntellectu">De intellectu et intelligibili</title>.
           </ref>
-          <gap reason="editorial" extent="74" unit="lines">
-            Longer discussion of different meanings of intellect based primarily
-            on Philoponus.
-          </gap>
-          <cb ed="#L" n="b"/>
+        </p>
+        <p xml:id="da-31-l3l1-do2tnh">
+          Primo potest accipi pro quamcumque rei apprehensione secundum quod
+          dicimus aliquem boni intellectus, id est bonae comprehensionis. Alio
+          modo <mentioned>intellectus</mentioned> sumitur pro
+          <mentioned>sententia</mentioned>, ut hic dicam tibi intellectum <name
+          ref="#Aristotle">Aristotelis</name>, id est sententiam. Tertio modo
+          accipitur pro <mentioned>homine</mentioned> sive est idem quod
+          <mentioned>homo</mentioned>, et sic dicit <name
+          ref="#Aristotle">Philosophus</name>
+          <ref>
+            quarto <title ref="#Arist.EN">Ethicorum</title>
+          </ref>
+          quod totus homo dicitur intellectus, et dicit illi <name
+          ref="#Eustathius">Eustathius</name>: <quote>totus <name
+          ref="#Aristotle">Aristotelis</name> intellectus dicitur.</quote>
+          Quarto <mentioned>intellectus</mentioned> idem est quod
+          <mentioned>habitus principiorum</mentioned> et eorum quae per se nota
+          sunt, et sic <name ref="#Aristotle">Philosophus</name> innuit
+          <mentioned>intellectum</mentioned> <ref>primo <title
+          ref="#Arist.APo">Posteriorum</title></ref>, et hoc modo dicitur quod
+          intellectus semper est verorum, sive sint agibilia sive spectabilia.
+          Quinto modo dicitur <mentioned>intellectus</mentioned> pro
+          <mentioned>fantasia</mentioned>, quae dicitur intellectus materialis
+          et passivus, et de
+          <app>
+            <lem>tali</lem>
+            <rdg wit="#L" type="correction-substitution">
+              <subst hand="#h3">
+                <del>ali</del>
+                <add>tali</add>
+              </subst>
+            </rdg>
+          </app>
+          intellectu dicetur posterius, quod intellectus materialis et passivus
+          est corruptibilis et sine hoc nihil intelligit anima. Sexto
+          <mentioned>intellectus</mentioned> idem est quod res intellecta
+          secundum quod intellecta est, et sic sumitur in libro
+          <cit>
+            <ref>
+              <title
+                  ref="#Arist.Int">Peri hermeneias</title> ubi dicitur
+            </ref>
+            <quote>
+              est autem quod aliquid aliquotiens quidem intellectus sine vero
+              et sine falso, aliquotiens alterum inesse, sic est et in voce.
+            </quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.Int">Int.</title> 1, 16a9--11.
+            </bibl>
+          </cit>
+          Septimo modo accipitur pro <mentioned>conceptu</mentioned> et hoc modo
+          dicimus logice quod genus et species sunt intellectus, id est sunt
+          secundum rerum conceptus, et secundum hoc etiam
+          <ref>
+            <name ref="#Porphyry">Porphyrius</name> dicit quod
+            <quote type="paraphrase">
+              species est composita ex genere et differentia,
+            </quote>
+          </ref>
+          id est ex conceptu et intellectu utriusque. Octavo modo intellectus
+          sumitur pro ipsa substantia sive essentia animae intellectivae, et hoc
+          modo dicimus quod anima intellectiva est forma corporis humani. Nono
+          <mentioned>intellectus</mentioned> acciditur pro specie intelligibili
+          quae est recipiendo intellectu possibili, et est idem quod ratio
+          intelligendi, et secundum
+          <ref>
+            <name ref="#Albertus-Magnus">Albertum</name>
+          </ref>
+          talis intellectus dicitur ratio formalis, et est ille quo
+          intelligimus. Et de hoc intelligitur propositio <name
+          ref="#Averroes">Commentatoris</name>, <quote type="paraphrase">quod ex
+          specie intelligibili et intellectu magis fit unum quam ex materia et
+          forma, quam etiam ex subiecto et accidente</quote>, et hoc modo <name
+          ref="#Aristotle">Philosophus</name> saepe
+          <mentioned>intellectum</mentioned> sumit pro <mentioned>specie
+          intelligibili</mentioned>. Decimo <mentioned>intellectus</mentioned>
+          sumitur pro <mentioned>actu et operatione intellectiva</mentioned>,
+          sicut etiam sensus quandoque acciditur pro operatione sensitiva.
+          Ultimo modo <mentioned>intellectus</mentioned> accipitur pro quacumque
+          virtute et potentia animae intellectivae, et de hoc
+          <ref corresp="da-31-l3l1-ref-ehc0yc">
+            <name ref="#Aristotle">Philosophus</name> specialiter intendit
+            determinare in hoc capitulo
+          </ref>
+          , et de hoc praemittit dicens quod
+          <cit>
+            <quote xml:id="da-31-l3l1-ref-ehc0yc">
+              considerandum de parte potentiali animae qua ipsa, scilicet anima,
+              cognoscit et sapit
+            </quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.4, 429a10--11.
+            </bibl>
+          </cit>
+          , et talis virtus sive potentia animae intellectivae subdividitur,
+          quia quaedam potentia intellectiva est practica, et quaedam
+          speculativa, sicut etiam inferius distinguetur intellectus in
+          practicam et speculativam.
         </p>
         <p xml:id="da-31-l3l1-y0dd0d">
           Deinde cum dicit
