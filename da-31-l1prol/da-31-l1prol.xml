@@ -765,7 +765,14 @@
               </p>
               <p xml:id="da-31-l1prol-tp788e">
                 Tertii ratio est: illud est scibile demonstratione quod habet
-                proprietates et partiones de ipsa per definitionem mediam
+                proprietates et
+                <app>
+                  <lem wit="#L">partiones</lem>
+                  <note>
+                    Should this maybe be <menionted>partes</menionted>?
+                  </note>
+                </app>
+                de ipsa per definitionem mediam
                 <app>
                   <lem type="conjecture-corrected">demonstrabiles</lem>
                   <rdg wit="#L">demonstrabilem</rdg>
