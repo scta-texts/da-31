@@ -496,7 +496,7 @@
           proficuitatem et utilitatem, et sub illis dictis omnibus suppositum
           est animam esse scibilem sive intelligibilem.
         </p>
-        <div>
+        <div xml:id="da-31-l1prol-xk7rlj">
           <head>
             <supplied type="meta-text">
               Dubitatio: Utrum anima intellectiva sit scibilis et intelligibilis
@@ -506,8 +506,8 @@
             Dubitaret aliquis forte praecipue de anima intellectiva, de
             qua minus videtur, utrum sit scibilis et intelligibilis.
           </p>
-          <div ana="#rationes-principales">
-            <div>
+          <div xml:id="da-31-l1prol-ka2io1" ana="#rationes-principales">
+            <div xml:id="da-31-l1prol-6dydu9">
               <p xml:id="da-31-l1prol-sagcvy">
                 Et videretur alicui quod non hac ratione, et suppono quod omnis
                 nostra cognitio sumat exordium a sensu, quia dicit
@@ -650,7 +650,7 @@
                 scibilis et intelligibilis erit anima intellectiva.
               </p>
             </div>
-            <div>
+            <div xml:id="da-31-l1prol-g9y46g">
               <p xml:id="da-31-l1prol-4yjys9">
                 Secundo idem ostenditur sic, et praesuppono quod inter sciens et
                 scitum et intelligens et intellectum debet esse realis diversitas
@@ -686,7 +686,7 @@
               </p>
             </div>
           </div>
-          <div ana="#rationes-principales">
+          <div xml:id="da-31-l1prol-3cqzb5" ana="#rationes-principales">
             <p xml:id="da-31-l1prol-sryuit">
               Oppositum autem huius declaratum fuit heri, et patet ex
               <app>
@@ -698,16 +698,16 @@
               intellectiva.
             </p>
           </div>
-          <div ana="#determinatio">
+          <div xml:id="da-31-l1prol-57phs4" ana="#determinatio">
             <p xml:id="da-31-l1prol-n71fei" ana="#structure-head">
               Ad cuius evidentiam duo sunt praeintelligenda. Primo quod ipsa est
               scibilis et intelligibilis, secundo intelligendum est per quem modum
               ipsa sit scibilis et intelligibilis.
             </p>
-            <div>
+            <div xml:id="da-31-l1prol-cihtby">
               <p>
                 Ad evidentiam autem primi est notandum quod ipsa est scibilis
-                triplici modo sciendi tradito in loyca, scilicet definitione,
+                triplici modo sciendi tradito in logica, scilicet definitione,
                 divisione, demonstratione.
               </p>
               <p xml:id="da-31-l1prol-qxctbd">
@@ -848,8 +848,8 @@
                 proprietates.
               </p>
             </div>
-            <div>
-              <div>
+            <div xml:id="da-31-l1prol-plj4kr">
+              <div xml:id="da-31-l1prol-p1y8g3">
                 <p xml:id="da-31-l1prol-ya42l8">
                   Secundo notandum circa modum ipsam intelligendi, ad quod
                   intelligendum secundum
@@ -1130,7 +1130,7 @@
               </div>
             </div>
           </div>
-          <div ana="#ad-rationes">
+          <div xml:id="da-31-l1prol-btjv1c" ana="#ad-rationes">
             <p xml:id="da-31-l1prol-uh818a">
               Ad rationem primam dicendum quod verum est de actu intelligendi
               primario,
