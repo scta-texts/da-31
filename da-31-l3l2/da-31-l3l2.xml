@@ -72,9 +72,19 @@
     </front>
     <body>
       <div xml:id="da-31-l3l2">
-        <!-- GAP! -->
+        <head>
+          <cit>
+            <ref>
+              <quote type="lemma">Dubitabit autem aliquis</quote>
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> III.4, 429b22.
+            </bibl>
+          </cit>
+        </head>
         <p xml:id="da-31-l3l2-58xeo3">
-          <quote source="429b22">Dubitabit autem aliquis</quote>.
+          .
           Superius <name ref="#Aristotle">Philosophus</name> determinavit de obiecto intellectus
           posibilis. Hic circa dicta movet dubitationes, et
           dividitur in duas.
