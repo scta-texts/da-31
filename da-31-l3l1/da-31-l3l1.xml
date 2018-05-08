@@ -20,21 +20,21 @@
       <sourceDesc>
         <listWit>
           <witness xml:id="L">Leipzig UB 1359, ff. 44r-77v
-            <msDesc>
-              <physDesc>
-                <handDesc>
-                  <handNote sameAs="h1" xml:id="L1" scope="major" medium="brown">
-                    Main hand. Brown ink.
-                  </handNote>
-                  <handNote xml:id="h2" scope="minor" medium="black">
-                    Secondary hand. Black ink.
-                  </handNote>
-                  <handNote xml:id="h3" scope="minor" medium="light brown">
-                    Tertiary hand. Light brown ink.
-                  </handNote>
-                </handDesc>
-              </physDesc>
-            </msDesc>
+          <msDesc>
+            <physDesc>
+              <handDesc>
+                <handNote sameAs="h1" xml:id="L1" scope="major" medium="brown">
+                  Main hand. Brown ink.
+                </handNote>
+                <handNote xml:id="h2" scope="minor" medium="black">
+                  Secondary hand. Black ink.
+                </handNote>
+                <handNote xml:id="h3" scope="minor" medium="light brown">
+                  Tertiary hand. Light brown ink.
+                </handNote>
+              </handDesc>
+            </physDesc>
+          </msDesc>
           </witness>
         </listWit>
       </sourceDesc>
@@ -42,7 +42,7 @@
     <encodingDesc>
       <variantEncoding method="parallel-segmentation" location="internal"/>
       <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
       </schemaRef>
       <editorialDecl>
         <p>
@@ -364,171 +364,356 @@
           eius,</quote> et hoc modo est intelligendum quod intellectus possibilis
           est in potentia receptiva sui ipsius, scilicet specie et ratione, eo
           modo quo patebit.
-          <gap extent="2" unit="column" reason="editorial"/>
+          <gap extent="2" unit="columns" reason="editorial"/>
         </p>
-        <p xml:id="da-31-l3l2-vari6o">
-          <cit>
-            <quote type="lemma">
-              Quoniam autem sic singula
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title> III.4, 429b5.
-            </bibl>
-          </cit>
-          . Determinata triplici differentia inter sensum et intellectum,
-          consequenter intendit ponere quartam, que sumitur ex comparatione
-          sensus et intellectus ad species sensibiles et intelligibiles. Et est
-          talis quia ex speciebus intelligibilibus agregatur in nobis habitus eo
-          quod in nobis firmatur sicut aliquis dicitur prudens vel sciens, sed
-          ex speciebus sensibilibus
-          <app>
-            <rdg wit="#L"><del rend="rasura">non</del></rdg>
-          </app>
-          alicui sensui non
-          <app>
-            <lem>ageneratur</lem>
-            <rdg wit="#L">ageneretur</rdg>
-          </app>
-          sive acquiritur habitus ita quod dicatur sciens. Littera ita posita
-          est differentia triplex inter sensum et intellectum. Sed cum
-          intellectus actu fiat <quote>singula</quote>,
-          <app>
-            <lem>add</lem>
-            <rdg wit="#L"><add place="above">id est</add></rdg>
-          </app>
-          cum species singulorum actu receperit, tunc intellectus fit, scilicet
-          receptus speciebus et habitis, dicitur <quote>sciens</quote>, id est
-          habens scientiam secundum quod sic est inhabituatus vel informatus,
-          supple singulorum entium speciebus.
-        </p>
-        <p xml:id="da-31-l1prol-s1m7ne">
-          Et est advertendum secundum <name ref="#Aquinas">Expositorem</name>
-          quod sicut pupilla est quodam modo omnis color eo quod est receptiva
-          omnium colorum, sic dicit <name ref="#Aristotle">Philosophus</name>
-          quod anima est quodammodo omnia eo quod per intellectum est nata
-          recipere quodammodo omnia intelligibilia. Dicit <name
-          ref="#Aristotle">Philosophus</name> quod sicut manus est organum
-          organorum eo quod deservit singulis organis, sic intellectus dicitur
-          esse species specierum intelligibilium et sensus dicitur quodammodo
-          omnis species specierum intelligibilium eo quod aptus est recipere
-          omnes species. Sed anima per intellectum aut per receptionem specierum
-          dicitur in potentia omnia intelligibilia, sed postquam ipsa receperit,
-          dicitur quodammodo omnia intelligibilia, quia non oportet quod si
-          habuerit habitum intelligibilium, quod secundum actum conservaverit.
-          Ad cuius evidentiam est notandum secundo quod secundum Iohannem
-          Grammaticum et secundum Philosophum supra, intellectus dicitur
-          dupliciter. Quidam primus sicut scientia vel
-          <app>
-            <rdg wit="#L"><del rend="punct">et</del></rdg>
-          </app>
-          habitus alius, secundus sicut considerare. Modo dicit <name
-          ref="#Aristotle">Philosophus</name> quod cum intellectus acquisierit
-          species intelligibilium est <quote>in actu</quote>, id est in actu
-          primo, nihilominus est in potentia ad actum secundum, et subdit
-          intellectus sic habet secundum suum habitum, et accipit ipsum posse
-          per se ipsum operari <supplied>et</supplied> intelligere. Unde dicit
-          Commentator: <quote>Habitus est illud quod quis habens facile operari
-          potuit quando voluit.</quote> Intellectus igitur habituatus et
-          informatus intelligibilibus potest se ipsum considerare et intelligere
-          quando velit, et in littera supra <name
-          ref="#Aristotle">Philosophus</name> posuit sensum differe ab ipso, et
-          dicit per se ipsum, quia operari potest absque omni doctore extrinsico
-          <note>implicit reference til Augustins skelnen ml. ydre og indre
-          lærer.</note>. Et hoc est quod dicit <name
-          ref="#Aristotle">Philosophus</name>, quod, supple, intellectus dicitur
-          secundum actum, hoc accidit statim cum possit per se ipsum
-          considerare, et ex isto manifeste reprehenditur error Avicenne qui
-          voluit quod species intelligibiles non sunt in intellectu
-          <app>
-            <lem>nisi</lem>
-            <rdg wit="#L">non</rdg>
-          </app>
-          quando intellectus actu intelligat. Immo <name
-          ref="#Aristotle">Philosophus</name> hoc presupponit actualiter
-          considerari <note>Inversion marks indicates that something is wrong
-          with the order here. The correct order might be "presupponit
-          actualiter considerari ipsum" or "presupponit ipsum considerari
-          actualiter".</note> <unclear>ipsum <note>lectio
-          incerta</note></unclear> habitum unde et quo consideretur.
-        </p>
-        <p xml:id="da-31-l1prol-jstngj">
-          Deinde cum dicit <quote source="429b7">Et quidem igitur et
-          cetera</quote>, dicit quomodo intellectus secundum habitum sit in
-          potentia et in actu, et cum hoc ponens quandam differentiam inter
-          intellectum et sensum, et dicit quando intellectus est informatus
-          speciebus, tunc est in potentia, sed non est eodem modo, sicut erat
-          intelligere sive hoc fiat per inventionem sive per doctrinam. et
-          subdit quod quando intellectus sit sub habitu specierum, tunc se ipsum
-          potest intelligere. Advertendum est quod omnis scientia acquisita,
-          sive omne quod quis novit, vel habetur per doctrinam vel per
-          inventionem secundum Philosophum secundo <title
-          ref="#Arist.SE">Elenchorum</title>. Et pro tanto dicit <name
-          ref="#Aristotle">Philosophus</name> <quote source="429b8-9">non sicut
-          autem non addiscere</quote>, designans acquisitionem scientie per
-          doctrinam, <quote source="429b9">aut invenire</quote>, designans
-          scientiam per inventionem.
-        </p>
-        <p xml:id="da-31-l1prol-guov4n">
-          Advertendum est
-          <app>
-            <lem>ulterius secundum Philosophum</lem>
-            <rdg wit="#L">
-              <subst>
-                <del rend="transposition">secundum Philosophum ulterius</del>
-                <add>ulterius secundum Philosophum</add>
-              </subst>
-            </rdg>
-          </app>
-          supra: dupliciter aliquod est in potentia ad actum, scilicet in
-          propinquo et remoto. modo autem addiscere
-          <app>
-            <lem>et</lem>
-            <rdg wit="#L">est</rdg>
-          </app>
-          ante invenire aliquid est in potentia remota ad considerare, sive
-          quando habet habitum ante addiscere
-          <app>
-            <lem>et</lem>
-            <rdg wit="#L">est</rdg>
-          </app>
-          invenire, et quando habuerit habitum et subit quod intellectus
-          existens secundum habitum potest se ipsum intelligere et hoc patebit
-          per Philosophum inferius, cum dicit quod intellectus intelligit
-          seipsum <supplied>sicut</supplied> alia, id est per species aliorum
-          postquam est informatus et actu existens intelligibilia. Et per hoc
-          intellectus differt a sensu, quia sensus non sentit nisi mediante
-          organo et quia inter sensum [= subiectum?] <unclear>modo</unclear> et
-          suum
-          <app>
-            <lem>actum</lem>
-            <rdg wit="#L">
-              <subst>
-                <del rend="punct">actuum</del>
-                <add>actum</add>
-              </subst>
-            </rdg>
-          </app>
-          nullum est organum medium, sicut inter obiectum<note>*** short lacuna,
-          maybe just et sensum?</note>. Ideo bene potest sentire suum proprium
-          obiectum, nullo autem modo suum actum, nec per consequens se ipsum, et
-          hoc etiam vult Proclus, dicens omnis virtus corporea non potest esse
-          reflexiva sui ipsius super se ipsum propter transmutationem partium in
-          organo.
-        </p>
-        <p xml:id="da-31-l1prol-5pca3y">
-          Intellectus autem propter causam oppositam bene potest intelligere
-          suum actum et per consequens se ipsum. Littera: ita dictum fuit quod
-          quando intellectus recipit species singulas, tunc dicitur habituatus
-          et secundum actum, ergo, supple, tantum talem actum intellectus
-          habuerit, tunc est in potentia ad actum secundum, et non primum, et
-          propter hoc dixit quodammodo eo quod non in potentia simpliciter, nec
-          in actu simpliciter, et est quod subit dicens: Non tamen similiter in
-          potentia <quote>sicut ante addiscere</quote>, id est ante
-          acquisitionem habitus per doctrinam, <quote>aut ante invenire</quote>
-          et ipse, supple, intellectus postquam est ita habituatus, potest se
-          ipsum intelligere quod, supple, sensus nullo modo facere potest.
-        </p>
+        <div>
+          <head>
+            <cit>
+              <quote type="lemma">
+                Quoniam autem sic singula
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 429b5.
+              </bibl>
+            </cit>
+          </head>
+          <p xml:id="da-31-l3l2-vari6o">
+            Determinata triplici differentia inter sensum et intellectum,
+            consequenter intendit ponere quartam, quae sumitur ex comparatione
+            sensus et intellectus ad species sensibiles et intelligibiles, et
+            est talis: Quia ex speciebus intelligibilibus agregatur in nobis
+            habitus eo quod in nobis firmatur sicut aliquis dicitur prudens vel
+            sciens, sed ex speciebus sensibilibus
+            <app>
+              <lem n="sensibilibus"/>
+              <rdg wit="#L" type="correction-deletion">
+                <del rend="rasura">non</del>
+              </rdg>
+            </app>
+            alicui sensui non
+            <app>
+              <lem type="conjecture-correction">aggeneratur</lem>
+              <rdg wit="#L">aggeneretur</rdg>
+            </app>
+            sive acquiritur habitus ita quod dicatur sciens. Littera ita posita
+            est differentia triplex inter sensum et intellectum. Sed cum
+            intellectus actu fiat <quote>singula</quote>,
+            <app>
+              <lem wit="#L" type="correction-addition">
+                <add place="above">id est</add>
+              </lem>
+            </app>
+            cum species singulorum actu receperit, tunc intellectus fit, scilicet
+            receptus speciebus et habitis, dicitur <quote>sciens</quote>, id est
+            habens scientiam secundum quod sic est inhabituatus vel informatus,
+            supple singulorum entium speciebus.
+          </p>
+          <p xml:id="da-31-l1prol-s1m7ne">
+            Et est advertendum secundum
+            <cit>
+              <ref>
+                <name ref="#Aquinas">Expositorem</name>
+              </ref>
+              <quote type="paraphrase">
+                quod sicut pupilla est quodam modo omnis color eo quod est receptiva
+                omnium colorum
+              </quote>
+              <bibl>
+                <name ref="#Aquinas">Aquinas</name>
+                <title ref="#Aquinas.Quaest-disp-de-anima">
+                  Quaest. disp. de anima
+                </title>
+                art. 2, resp.
+              </bibl>
+              <note>
+                Aquinas writes: <quote>Hunc igitur intellectum possibilem necesse
+                est esse in potentia ad omnia quae sunt intelligibilia per
+                hominem, et receptivum eorum, et per consequens denudatum ab his:
+                quia omne quod est receptivum aliquorum, et in potentia ad ea,
+                quantum de se est, est denudatum ab eis; sicut pupilla, quae est
+                receptiva omnium colorum, caret omni colore.</quote>
+              </note>
+            </cit>
+            , sic dicit
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosophus</name>
+              </ref>
+              <quote type="paraphrase">
+                quod anima est quodammodo omnia eo quod per intellectum est nata
+                recipere quodammodo omnia intelligibilia.
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.7, 431b20--21.
+              </bibl>
+            </cit>
+            Dicit
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosophus</name>
+              </ref>
+              <quote type="paraphrase">
+                quod sicut manus est organum organorum eo quod deservit singulis
+                organis, sic intellectus dicitur esse species specierum
+                intelligibilium, et sensus dicitur quodammodo omnis species
+                specierum
+                <app>
+                  <lem type="conjecture-corrected">sensibilium</lem>
+                  <rdg wit="#L">intelligibilium</rdg>
+                </app>
+                eo quod aptus est recipere omnes species.
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.7, 432a1--3.
+              </bibl>
+            </cit>
+            Sed anima per intellectum aut per receptionem specierum dicitur in
+            potentia omnia intelligibilia. Sed postquam ipsa receperit, dicitur
+            quodammodo omnia intelligibilia, quia non oportet quod si habuerit
+            habitum intelligibilium, quod secundum actum conservaverit.
+          </p>
+          <p xml:id="da-31-l3l1-e00jfm">
+            Ad cuius evidentiam est notandum secundo quod secundum
+            <cit>
+              <ref>
+                <name ref="#Philoponus">
+                  Iohannem Grammaticum
+                </name>
+              </ref>
+              <bibl>
+                <name ref="#Philoponus">Philoponus</name>
+                <title ref="#Phil.De-intellectu">De intellectu</title> ???
+              </bibl>
+            </cit>
+            et secundum
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosophum</name> supra
+              </ref>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 429b5--9.
+              </bibl>
+            </cit>
+            , intellectus dicitur dupliciter. Quidam primus sicut scientia vel
+            <app>
+              <lem n="vel"/>
+              <rdg wit="#L" type="correction-deletion">
+                <del rend="punct">a</del>
+              </rdg>
+            </app>
+            habitus alius, secundus sicut considerare. Modo dicit <name
+            ref="#Aristotle">Philosophus</name> quod cum intellectus acquisierit
+            species intelligibilium est <quote>in actu</quote>, id est in actu
+            primo, nihilominus est in potentia ad actum secundum, et subdit
+            intellectus sic habet secundum suum habitum, et accipit ipsum posse
+            per se ipsum operari <supplied>et</supplied> intelligere. Unde dicit
+            <cit>
+              <ref>
+                <name ref="#Averroes">Commentator</name>
+                :
+              </ref>
+              <quote>
+                Habitus est illud quod quis habens facile operari
+                potuit quando voluit.
+              </quote>
+              <bibl>
+                <name ref="#Averroes">Averroes</name> ???
+              </bibl>
+            </cit>
+            Intellectus igitur habituatus et informatus intelligibilibus potest se
+            ipsum considerare et intelligere quando velit, et in littera supra
+            <name ref="#Aristotle">Philosophus</name> posuit sensum differe ab
+            ipso, et dicit per se ipsum, quia operari potest absque omni doctore
+            extrinsico. Et hoc est quod dicit <name
+            ref="#Aristotle">Philosophus</name>, quod, supple intellectus, dicitur
+            secundum actum. Hoc accidit statim cum possit per se ipsum
+            considerare, et ex isto manifeste reprehenditur error Avicennae qui
+            <!-- CF Aquinas on this passage! -->
+            voluit quod species intelligibiles non sunt in intellectu
+            <app>
+              <lem>nisi</lem>
+              <rdg wit="#L">non</rdg>
+            </app>
+            quando intellectus actu intelligat. Immo <name
+            ref="#Aristotle">Philosophus</name> hoc praesupponit
+            <app>
+              <lem>considerari actualiter</lem>
+              <rdg wit="#L" type="correction-transposition" cert="medium">
+                <subst>
+                  <del>actualiter considerari</del>
+                  <add>considerari actualiter</add>
+                </subst>
+                <note>
+                  Each of the two words is followed by an inversion meta-mark. It
+                  is unclear how this is best interpreted.
+                </note>
+              </rdg>
+            </app>
+            ipsum habitum unde et quo consideretur.
+          </p>
+          <p xml:id="da-31-l1prol-jstngj">
+            Deinde cum dicit
+            <cit>
+              <quote type="lemma">
+                Et quidem igitur
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 429b7.
+              </bibl>
+            </cit>
+            , dicit quomodo intellectus secundum habitum sit in potentia et in
+            actu, et cum hoc ponens quandam differentiam inter intellectum et
+            sensum, et dicit quando intellectus est informatus speciebus, tunc est
+            in potentia, sed non est eodem modo, sicut erat intelligere sive hoc
+            fiat per inventionem sive per doctrinam. Et subdit quod quando
+            intellectus sit sub habitu specierum, tunc se ipsum potest
+            intelligere. Advertendum est quod
+            <cit>
+              <quote type="paraphrase">
+                omnis scientia acquisita, sive omne
+                quod quis novit, vel habetur per doctrinam vel per inventionem
+              </quote>
+              <ref>
+                secundum <name ref="#Aristotle">Philosophum</name> secundo <title
+                ref="#Arist.SE">Elenchorum</title>
+              </ref>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.SE">SE</title> ???
+              </bibl>
+            </cit>
+            . Et pro tanto dicit
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Philosophus</name>
+              </ref>
+              <quote>
+                non sicut
+                <app>
+                  <lem type="conjecture-corrected">ante</lem>
+                  <rdg wit="#L">autem</rdg>
+                </app>
+                <surplus>non</surplus> addiscere
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 429b8--9.
+              </bibl>
+            </cit>
+            , designans acquisitionem scientiae per doctrinam,
+            <cit>
+              <quote source="429b8-9">
+                aut invenire
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 429b9.
+              </bibl>
+            </cit>
+            , designans scientiam per inventionem.
+          </p>
+          <p xml:id="da-31-l1prol-guov4n">
+            Advertendum est
+            <app>
+              <lem>ulterius secundum Philosophum</lem>
+              <rdg wit="#L" type="correction-transposition">
+                <subst>
+                  <del>
+                    <seg n="2">secundum Philosophum</seg>
+                    <seg n="1">ulterius</seg>
+                  </del>
+                  <add>ulterius secundum Philosophum</add>
+                </subst>
+              </rdg>
+            </app>
+            supra: dupliciter aliquod est in potentia ad actum, scilicet in
+            propinquo et remoto. modo
+            <app>
+              <lem type="conjecture-corrected">ante</lem>
+              <rdg wit="#L">autem</rdg>
+            </app>
+            addiscere
+            <app>
+              <lem>et</lem>
+              <rdg wit="#L">est</rdg>
+            </app>
+            ante invenire aliquid est in potentia remota ad considerare, sive
+            quando habet habitum ante addiscere
+            <app>
+              <lem>et</lem>
+              <rdg wit="#L">est</rdg>
+            </app>
+            invenire, et quando habuerit habitum. Et subdit quod intellectus
+            existens secundum habitum potest se ipsum intelligere, et hoc patebit
+            per Philosophum inferius, cum dicit quod
+            <cit>
+              <quote type="paraphrase">
+                intellectus intelligit seipsum <supplied>sicut</supplied> alia
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 430a2.
+              </bibl>
+            </cit>
+            , id est per species aliorum, postquam est informatus et actu existens
+            <app>
+              <lem>intelligibili</lem>
+              <rdg wit="#L" type="correction-substitution">
+                <subst>
+                  <del>intelligibilia</del>
+                  <add>intelligibili</add>
+                </subst>
+              </rdg>
+            </app>
+            . Et per hoc intellectus differt a sensu, quia sensus
+            non sentit nisi mediante organo, et quia inter sensum
+            <unclear>modo</unclear> et suum
+            <app>
+              <lem>actum</lem>
+              <rdg wit="#L" type="correction-substitution">
+                <subst>
+                  <del>actuum</del>
+                  <add>actum</add>
+                </subst>
+              </rdg>
+            </app>
+            nullum est organum medium, sicut inter obiectum <unclear><supplied>et
+            sensum</supplied></unclear>; ideo bene potest sentire suum proprium
+            obiectum, nullo autem modo suum actum, nec per consequens se ipsum, et
+            hoc etiam vult
+            <cit>
+              <ref>
+                <name ref="#Proclus">Proclus</name>, dicens
+              </ref>
+              <quote type="paraphrase">
+                omnis virtus corporea non potest esse reflexiva sui ipsius super
+                se ipsum propter transmutationem partium in organo.
+              </quote>
+              <bibl>
+                <name ref="#Proclus">Proclus</name> ???
+              </bibl>
+            </cit>
+            Intellectus autem, propter causam oppositam, bene potest intelligere
+            suum actum et per consequens se ipsum.
+          </p>
+          <p xml:id="da-31-l3l1-xe4eru">
+            Littera: Ita dictum fuit quod quando intellectus recipit species
+            singulas, tunc dicitur habituatus et secundum actum, ergo, supple
+            tantum talem actum intellectus habuerit, tunc est in potentia ad actum
+            secundum, et non primum, et propter hoc dixit quodammodo eo quod non
+            in potentia simpliciter, nec in actu simpliciter, et est quod subdit
+            dicens: <quote>Non tamen similiter</quote> in potentia sicut
+            <quote>ante addiscere</quote>, id est ante acquisitionem habitus per
+            doctrinam, <quote>aut ante invenire</quote> et ipse, supple
+            intellectus postquam est ita habituatus, potest se ipsum intelligere
+            quod, supple, sensus nullo modo facere potest.
+          </p>
+        </div>
       </div>
     </body>
   </text>
