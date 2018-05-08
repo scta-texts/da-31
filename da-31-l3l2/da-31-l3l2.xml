@@ -2,7 +2,7 @@
   <teiHeader>    
     <fileDesc>
       <titleStmt>
-        <title>Prooemium</title>
+        <title>Liber tertius, lectio secunda</title>
         <author>Simon Magister</author>
         <respStmt>
           <persName xml:id="MSC">Michael Stenskjær Christensen</persName>
@@ -71,19 +71,19 @@
       </div>
     </front>
     <body>
-      <div xml:id="da-31-l3l3">
+      <div xml:id="da-31-l3l2">
         <!-- GAP! -->
-        <p xml:id="da-31-l3l3-58xeo3">
+        <p xml:id="da-31-l3l2-58xeo3">
           <quote source="429b22">Dubitabit autem aliquis</quote>.
           Superius <name ref="#Aristotle">Philosophus</name> determinavit de obiecto intellectus
           posibilis. Hic circa dicta movet dubitationes, et
           dividitur in duas.
         </p>
-        <p xml:id="da-31-l3l3-vsbz93">
+        <p xml:id="da-31-l3l2-vsbz93">
           Primo enim ipsas movet, secundo dissolvit ibi <quote
           source="429b29">aut pati</quote>.
         </p>
-        <p xml:id="da-31-l3l3-mphpuv">
+        <p xml:id="da-31-l3l2-mphpuv">
           Prima ad huc in duas secundum quod due sunt dubitationes
           quas movet, secunda ibi <quote source="429b26">Amplius
           si intelligibilis</quote>, ex quo <name ref="#Aristotle">Philosophus</name> ostendit
@@ -99,7 +99,7 @@
           possibile sit intellectum intelligere, et supponatur
           quod intelligere sit quodam pati.
         </p>
-        <p xml:id="da-31-l3l3-jqdqg9">
+        <p xml:id="da-31-l3l2-jqdqg9">
           Ex hoc sic activa et passiva communicant in materia. Et
           sunt unum in genere naturali. Sed nunc ita est quod
           intellectus, cum sit inmixtus et inmaterialis ad hoc
@@ -107,7 +107,7 @@
           habet commune, quare non potest pati, et si non potest
           pati, quare necque intelligere.
         </p>
-        <p xml:id="da-31-l3l3-gusqn3">
+        <p xml:id="da-31-l3l2-gusqn3">
           Littera ita determinatum est de obiecto intellectus. Sed
           utique aliquis dubitabit si intellectus videtur esse
           simplex et inpassibilis et nihil enim nullam habet
@@ -120,12 +120,12 @@
           `quidem' here.</note>, id est agens videtur agere et
           paciens videtur pati.
         </p>
-        <p xml:id="da-31-l3l3-vlaord">
+        <p xml:id="da-31-l3l2-vlaord">
           Deinde cum dicit <quote source="429b26">Amplius
           autem</quote>, movet secundam dubitationem, quesito
           quomodo sit possibile quod intellectus intelligat.
         </p>
-        <p xml:id="da-31-l3l3-q9jfh9">
+        <p xml:id="da-31-l3l2-q9jfh9">
           Consequenter quero querit<note>Either one of these
           should be deleted or replaced completely with
           queritur. Depending on whether it's a paraphrase or
@@ -141,7 +141,7 @@
           </app>
           sit intelligibilis.
         </p>
-        <p xml:id="da-31-l3l3-vft4ah">
+        <p xml:id="da-31-l3l2-vft4ah">
           Et probatur primo quod non, quia si esset
           intelligibilis aut per se
           <app>
@@ -212,7 +212,7 @@
           </app>
           possibile.
         </p>
-        <p xml:id="da-31-l3l3-pfen5t">
+        <p xml:id="da-31-l3l2-pfen5t">
           <quote>Autem</quote> pro quia intelligibile est unius
           speciei, vel uniforme vel secundum unum modum, quia
           inquam hoc [= habet? maybe better] ita
@@ -223,7 +223,7 @@
           contingit si intellectus <supplied>non</supplied> sit
           intelligibilis per aliud sibi additum, sed per se.
         </p>
-        <p xml:id="da-31-l3l3-ct2emc">
+        <p xml:id="da-31-l3l2-ct2emc">
           Et est advertendum quod esse illud quod per se
           intellectum est abstractum est a materia, sed in
           abstractis a materia est idem intelligens et
@@ -253,7 +253,7 @@
           intelligibilis, sit eiusdem speciei cum aliis
           intelligibilibus.
         </p>
-        <p xml:id="da-31-l3l3-2gnmo1">
+        <p xml:id="da-31-l3l2-2gnmo1">
           Advertendum quod substantie separate, cum sint entia inmaterialia et pure forme, alio modo sunt
           <lb ed="#L"/>intelligibiles quam materialia. Materialia enim non sunt intelligibilia nisi per speciem abstractam ab ipsiis virtu
           <lb ed="#L"/>te intellectus agentis abstrahentis. Intellectum possibilem repositam lapidis essentia species
@@ -286,7 +286,7 @@
           <lb ed="#L"/>sunt eiusdem speciei, alia materialia intelligerent. Si secundo modo cum intelligibilia sint eiusdem speciei, sequitur
           <lb ed="#L"/>sicut materialia non intelligunt quod intellectus non intelligat.
         </p>
-        <p xml:id="da-31-l3l3-zf0fmi">
+        <p xml:id="da-31-l3l2-zf0fmi">
           Deinde cum dicit <quote source="429b29">Aut pati quidem
           <lb ed="#L"/>quid</quote> ad dubitationes motas solvit, et primo ad primam, secundo ad secundam ibi <quote source="430a2">et ipse autem</quote>. Prima dubitatio
           <lb ed="#L"/>fuit ista quomodo sit possibile quod intellectus intelligat, cum tamen sit
@@ -341,7 +341,7 @@
           <lb ed="#L"/>dicentium animam esse compositam ab omnibus ut omnia cognosceret.
           <note>On the whole discussion of shadowing and weighing down the body, compare with Albert in DA, lib. 2, tr. 1, cap. 8, pp. 76-77.</note>
         </p>
-        <p xml:id="da-31-l3l3-76z12i">
+        <p xml:id="da-31-l3l2-76z12i">
           Deinde cum dicit <quote source="430a2">Et ipse autem
           intelligibilis</quote>, solvit secundam dubitationem
           que duas tenuit difficultates. Una fuit ad quam
@@ -357,7 +357,7 @@
           sunt intelligibilia quod tamen non intelligant ibi <quote
           source="430a5">Non autem semper</quote>
         </p>
-        <p xml:id="da-31-l3l3-gfqp2g">
+        <p xml:id="da-31-l3l2-gfqp2g">
           Advertendum quod triplex est intellectus: divinus,
           humanus, medio modo se habens sicut intellectus
           intelligentiarum. Humanus quidem intellectus omnino
@@ -394,7 +394,7 @@
           cognoscit eterne materialia immaterialiter multa
           une et contingentia neccesario totum simpliciter.
         </p>
-        <p xml:id="da-31-l3l3-jju74b">
+        <p xml:id="da-31-l3l2-jju74b">
           Contrarium autem est de intellectu nostro humano, qui
           non habet aliquam [/aliam?] naturam nisi quia est possibilis
           vocatus, et in hoc iam opponitur intellectu divino
@@ -460,7 +460,7 @@
           <supplied>im</supplied>materialibus idem sit intellectus et quod
           intelligitur.
         </p>
-        <p xml:id="da-31-l3l3-t0oaol">
+        <p xml:id="da-31-l3l2-t0oaol">
           Advertendum quod illa species quam virtus intellectiva
           intelligit, est una duo et duo [strange] sunt que
           intelligunt unum intelligibile. illorum est materiale
@@ -496,7 +496,7 @@
           unum <supplied>lumen</supplied>
           multiplicans se in medio peruio.
         </p>
-        <p xml:id="da-31-l3l3-d7t2ro">
+        <p xml:id="da-31-l3l2-d7t2ro">
           Et nota quod hic <name ref="#Aquinas">Expositor</name>
           variat suam sententiam aequivoco [strange? aequivocando?],
           intellectum etenim sicut lumen est actus et perfectio?
@@ -518,7 +518,7 @@
           materialis, sed in coniunctis materie sicut est obiectum materiale ab
           h<del rend="punct">i</del>oc species separata non est idem tali obiecto.
         </p>
-        <p xml:id="da-31-l3l3-fi6v3f">
+        <p xml:id="da-31-l3l2-fi6v3f">
           Advertendum est modo propter solutionem prime distinctionis quomodo
           dictum Philosophi applicetur ad propositum. Sicut enim nulli competit
           actus calefaciendi, nisi habeat formaliter calorem in actu, et in istis
@@ -542,7 +542,7 @@
           non in ipsis formaliter, quare ipsa, cum intelligantur, non intelligunt
           et sic patet secunda difficultas determinata.
         </p>
-        <p xml:id="da-31-l3l3-3fvd13">
+        <p xml:id="da-31-l3l2-3fvd13">
           Littera: Ita fuit secunda dubitatio quomodo intellectus esset
           intelligibilis vel sicut substantiae separatae, id est per sui ipsius
           substantiam, vel sicut materialia, id est per speciem. <name
@@ -580,7 +580,7 @@
           </app>
           scientia.
         </p>
-        <p xml:id="da-31-l3l3-lii8aq">
+        <p xml:id="da-31-l3l2-lii8aq">
           Littera: <quote source="430a4-5">scientia speculativa et
           scibile</quote>, id est speculativum, sicut et noster intellectus, sunt
           idem, sed ista causa est consideranda cum non semper intelligit, id est
