@@ -320,7 +320,9 @@
               <title ref="#Seneca.EpAdLucillium">Ep.</title> 66.4.
             </bibl>
           </cit>
+          <gap extent="60" unit="lines"/><cb ed="#L" n="b"/>
         </p>
+        <!-- Long gap until the middle of next column -->
         <p xml:id="da-31-l1prol-ba2ton">
           Ex hiis quae dicta sunt possumus accipere quid sit subiectum libri de
           anima quem habemus prae manibus, et quae causa efficiens et sic de
