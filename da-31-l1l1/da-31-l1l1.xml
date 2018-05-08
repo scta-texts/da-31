@@ -138,6 +138,9 @@
           <mentioned>negotium</mentioned>, <name
           ref="#Averroes">Commentator</name> autem ibi habet
           <mentioned>narrationem</mentioned>.
+          <gap extent="12" unit="columns" reason="editorial">
+            Almost the whole lectio is not transcribed.
+          </gap>
         </p>
       </div>
     </body>
