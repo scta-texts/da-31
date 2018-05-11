@@ -176,9 +176,17 @@
           <mentioned>intellectus</mentioned> acciditur pro specie intelligibili
           quae est recipiendo intellectu possibili, et est idem quod ratio
           intelligendi, et secundum
+          <cit>
           <ref>
             <name ref="#Albertus-Magnus">Albertum</name>
           </ref>
+          <bibl>
+            <name ref="#Albert">Albertus Magnus</name>
+            <title ref="#Albert.De-intellectu">
+              De intellectu et intelligibili
+            </title>
+            Lib. I, tr. 3, cap. 5, p. 510b (ed. Borgnet).
+          </bibl>
           talis intellectus dicitur ratio formalis, et est ille quo
           intelligimus. Et de hoc intelligitur propositio <name
           ref="#Averroes">Commentatoris</name>, <quote type="paraphrase">quod ex

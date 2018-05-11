@@ -725,8 +725,8 @@
             </quote>
             <bibl>
               <name ref="#Albertus">Albertus Magnus</name>
-              <title ref="#Albert.Liber-de-causis">In Liber de causis</title>
-              ???
+              <title ref="#Albert.Liber-de-causis">De causis</title>
+              Lib. II, tr. 2, cap. 43, p. 542b (ed. Borgnet).
             </bibl>
           </cit>
           , sed intelligentia intelligit alia a se per species concreatas sibi.
@@ -853,11 +853,26 @@
             </ref>
             <bibl>
               <name ref="#Albert">Albertus Magnus</name>
-              <title ref="#Albert.De-intellectu">De intellectu et
-              intelligibili</title>
-              Lib. I, tr. 3, cap. 3, p. 501a (ed. Borgnet).
+              <title ref="#Albert.De-intellectu">
+                De intellectu et intelligibili
+              </title>
+              Lib. I, tr. 3, cap. 5, p. 510b (ed. Borgnet).
             </bibl>
             <note>
+              He writes:
+              <quote>
+                <supplied>Intellectus formalis</supplied> est forma omnis
+                intellectus secundum esse quod habet intelligibile. Hic autem
+                formalis intellectus, non est ille quem quidam formam rei
+                intellectivam arbitrantur : quia, sicut jam ostensum est, ille
+                non est formalis ad intellectum possibilem : eo quod species est
+                possibilis intellectus talium specierum et locus, et omne
+                formale esse potius accipit id quod intelligitur ab intellectu
+                in quo est, quam quod det sibi esse formale, sicut species et
+                locus formalia sunt ad ea ad quae comparantur [etc.]
+              </quote>
+              First introduced in the context of the intellect in Lib. I, tr. 3,
+              cap. 3, p. 501a:
               <quote>
                 Est autem intellectus diversitas quam multi Philosophorum
                 posuerunt quantum ad ipsas partes animae, quod est intellectus
@@ -870,6 +885,15 @@
               theologiae</title> Pars II, tr. 15, q. 93, m. 2, p. 201b (ed.
               Borgnet): <quote>Est etiam in anima intellectus formalis sive
               speculativus, qui est adeptio specierum intelligibilium.</quote>
+              It does not occur as a term in <title ref="#Albert.De-homine">De
+              homine</title> or <title ref="#Albert.De-anima">De anima</title>,
+              but it may be connected with <mentioned>intellectus
+              speculativus</mentioned>, cf. <title ref="#Albert.Summa-theologiae">Summa
+              theologiae</title> Pars II, tr. 4, q. 14, m. 3, p. 169b (ed.
+              Borgnet): <quote>Cum multae sunt differentiae intellectus,
+              scilicet agens, possibilis, speculativus sive formalis,
+              speculativus practicus, adeptus sive possessus, et non adeptus
+              <gap reason="editorial">...</gap></quote>
             </note>
           </cit>
           ), unde secundum hoc dicit quod in seperatis a materia est idem
