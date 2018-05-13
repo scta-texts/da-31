@@ -125,7 +125,7 @@
           </ref>
           quod totus homo dicitur intellectus, et dicit illi <name
           ref="#Eustathius">Eustathius</name>: <quote>totus <name
-          ref="#Aristotle">Aristotelis</name> intellectus dicitur.</quote>
+          ref="#Aristotle">Aristoteles</name> intellectus dicitur.</quote>
           Quarto <mentioned>intellectus</mentioned> idem est quod
           <mentioned>habitus principiorum</mentioned> et eorum quae per se nota
           sunt, et sic <name ref="#Aristotle">Philosophus</name> innuit
@@ -426,7 +426,7 @@
               <lem type="conjecture-correction">aggeneratur</lem>
               <rdg wit="#L">aggeneretur</rdg>
             </app>
-            sive acquiritur habitus ita quod dicatur sciens. Littera ita posita
+            sive acquiritur habitus ita quod dicatur sciens. Littera ita posita,
             est differentia triplex inter sensum et intellectum. Sed cum
             intellectus actu fiat <quote type="lemma">singula</quote>,
             <app>
@@ -539,7 +539,7 @@
             </app>
             habitus alius, secundus sicut considerare. Modo dicit <name
             ref="#Aristotle">Philosophus</name> quod cum intellectus acquisierit
-            species intelligibilium est in actu, id est in actu primo,
+            species intelligibilium, est in actu, id est in actu primo,
             nihilominus est in potentia ad actum secundum, et subdit intellectus
             sic habet secundum suum habitum, et accipit ipsum posse per se ipsum
             operari <supplied>et</supplied> intelligere. Unde dicit
@@ -563,14 +563,21 @@
             operari potest absque omni doctore extrinsico. Et hoc est quod dicit
             <name ref="#Aristotle">Philosophus</name>, quod, supple intellectus,
             dicitur secundum actum. Hoc accidit statim cum possit per se ipsum
-            considerare, et ex isto manifeste reprehenditur error Avicennae qui
-            <!-- CF Aquinas on this passage! -->
-            voluit quod species intelligibiles non sunt in intellectu
-            <app>
-              <lem>nisi</lem>
-              <rdg wit="#L">non</rdg>
-            </app>
-            quando intellectus actu intelligat. Immo <name
+            considerare, et ex isto manifeste reprehenditur error
+            <cit>
+              <ref>
+                <name ref="#Avicenna">Avicennae</name> qui voluit quod
+              </ref>
+              <quote type="paraphrase">
+                species intelligibiles non sunt in intellectu
+                <app>
+                  <lem>nisi</lem>
+                  <rdg wit="#L">non</rdg>
+                </app>
+                quando intellectus actu intelligat.
+              </quote>
+            </cit>
+            Immo <name
             ref="#Aristotle">Philosophus</name> hoc praesupponit
             <app>
               <lem>considerari actualiter</lem>
@@ -680,9 +687,10 @@
               <lem>et</lem>
               <rdg wit="#L">est</rdg>
             </app>
-            invenire, et quando habuerit habitum. Et subdit quod intellectus
-            existens secundum habitum potest se ipsum intelligere, et hoc patebit
-            per Philosophum inferius, cum dicit quod
+            invenire, et quando habuerit habitum, <supplied>est in potentia
+            propinqua</supplied>. Et subdit quod intellectus existens secundum
+            habitum potest se ipsum intelligere, et hoc patebit per Philosophum
+            inferius, cum dicit quod
             <cit>
               <quote type="paraphrase">
                 intellectus intelligit seipsum <supplied>sicut</supplied> alia
@@ -692,7 +700,8 @@
                 <title ref="#Arist.DA">DA</title> III.4, 430a2.
               </bibl>
             </cit>
-            , id est per species aliorum, postquam est informatus et actu existens
+            , id est per species aliorum, postquam est informatus et actu
+            existens
             <app>
               <lem>intelligibili</lem>
               <rdg wit="#L" type="correction-substitution">
@@ -714,10 +723,10 @@
                 </subst>
               </rdg>
             </app>
-            nullum est organum medium, sicut inter obiectum <unclear><supplied>et
-            sensum</supplied></unclear>; ideo bene potest sentire suum proprium
-            obiectum, nullo autem modo suum actum, nec per consequens se ipsum, et
-            hoc etiam vult
+            nullum est organum medium, sicut inter obiectum
+            <unclear><supplied>et sensum</supplied></unclear>; ideo bene potest
+            sentire suum proprium obiectum, nullo autem modo suum actum, nec per
+            consequens se ipsum, et hoc etiam vult
             <cit>
               <ref>
                 <name ref="#Proclus">Proclus</name>, dicens
@@ -742,7 +751,7 @@
             quod subdit dicens: <quote type="lemma">Non tamen similiter</quote>
             in potentia sicut <quote type="lemma">ante addiscere</quote>, id est
             ante acquisitionem habitus per doctrinam, <quote type="lemma">aut
-            ante invenire</quote> <quote type="lemma">et ipse</quote>, supple
+            ante invenire, et ipse</quote>, supple
             intellectus postquam est ita habituatus, <quote type="lemma">potest
             se ipsum intelligere</quote> quod, supple, sensus nullo modo facere
             potest.
