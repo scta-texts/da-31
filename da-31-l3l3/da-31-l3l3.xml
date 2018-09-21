@@ -64,7 +64,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="la" type="critical">
     <front>
       <div xml:id="starts-on">
         <pb n="72r" ed="#L"/><cb n="a" ed="#L"/>
@@ -84,10 +84,7 @@
         <p xml:id="da-31-l3l3-58xeo3">
           Superius <name ref="#Aristotle">Philosophus</name> determinavit de
           obiecto intellectus posibilis. Hic circa dicta movet dubitationes, et
-          dividitur in duas.
-        </p>
-        <p xml:id="da-31-l3l3-vsbz93">
-          Primo enim ipsas movet, secundo dissolvit ibi
+          dividitur in duas. Primo enim ipsas movet, secundo dissolvit ibi
           <cit>
             <quote type="lemma">aut pati</quote>
             <bibl>
@@ -265,21 +262,23 @@
           ulterius.
         </p>
         <p xml:id="da-31-l3l3-oxqime">
-          Littera: Ita aliquis dubitabit quomodo intellectus
+          Littera: Ita aliquis dubitabit quomodo
           <app>
-            <lem n="intellectus" />
-            <rdg wit="#L">
-              <gap reason="erasure" extent="10" unit="chars" />
-            </rdg>
+            <lem>intellectus</lem>
+            <rdg wit="#L"/>
+            <witDetail wit="#L">
+              post <mentioned>intellectus</mentioned> rasura 10 litterarum
+            </witDetail>
           </app>
           , cum sit immaterialis, possit intelligere, sed amplius, supple
           dubitabit aliquis, si (pro <mentioned>utrum</mentioned>) et ipse
-          intellectus noster est intelligibilis. Hoc enim non videtur
+          intellectus noster est intelligibilis. Hoc enim non
           <app>
-            <lem n="videtur" />
-            <rdg wit="#L">
-              <gap reason="rasura" extent="2" unit="characters" />
-            </rdg>
+            <lem>videtur</lem>
+            <rdg wit="#L"/>
+            <witDetail wit="#L">
+              post <mentioned>videtur</mentioned> rasura 2 litterarum
+            </witDetail>
           </app>
           possibile. Autem (pro <mentioned>quia</mentioned>) intelligibile est
           unius speciei, vel uniforme vel secundum unum modum, quia inquam hoc
@@ -364,15 +363,19 @@
             <lem type="conjecture-corrected">intelligunt</lem>
             <rdg wit="#L">intelligant</rdg>
           </app>
-          , sed ipse intellectus <sic ana="#crux">nititur</sic>
+          , sed ipse intellectus
+          <app>
+            <lem type="conjecture-corrected">inter</lem>
+            <rdg wit="#L">nititur</rdg>
+          </app>
           <app>
             <lem type="conjecture-corrected">huiusmodi</lem>
             <rdg wit="#L">huius</rdg>
           </app>
-          entia
+          entia,
           <app>
             <lem type="conjecture-corrected">
-              <unclear>scilicet</unclear>
+              scilicet
             </lem>
             <rdg wit="#L">
               <unclear>secundum</unclear>
@@ -381,11 +384,11 @@
           substantias
           <app>
             <lem n="substantias"/>
-            <rdg wit="#L" type="correction-deletion">
-              <unclear><del rend="erasure">non</del></unclear>
+            <rdg wit="#L" type="correction-deletion" cert="low">
+              <del rend="erasure">non</del>
             </rdg>
           </app>
-          separatas et materialia,
+          separatas, et materialia,
           <app>
             <lem type="conjecture-corrected">tenens</lem>
             <rdg wit="#L" type="correction-substitution">
@@ -413,11 +416,6 @@
               <title ref="#Anon.DeCaus">Liber de causis</title>
               II.22
             </bibl>
-            <note>
-              Check the editions. It may be that the text of Simon (as that of
-              Thomas, it seems from his De causis commentary, lect 9) has the
-              <mentioned>et temporis</mentioned>.
-            </note>
           </cit>
           , ita quod teneat infimum gradum intelligentiarum aeternarum et
           supremum gradum inter materialia. Rationabiliter igitur dubitatur
@@ -760,7 +758,7 @@
                 intelligentia est plena formis
               </quote>
               <bibl>
-                <title ref="#Anon.De-causis">Liber de causis</title> ???
+                <title ref="#Anon.De-causis">Liber de causis</title> IX.92.
               </bibl>
             </cit>
             , id est speciebus concreatis. I<supplied>a</supplied>m
@@ -1028,14 +1026,11 @@
               nostra scientia causata est a rebus eo quod nihil intelligitur
               nisi per abstractionem specierum a rebus
             </quote>
-            <bibl>
-              <name ref="#Averroes">Averr.</name>
-              <title ref="#Averroes.InMetaph">Comm. in Metaph</title>
-              ???
-            </bibl>
-            <note>I haven't found this yet, but compare with <title
-            ref="#Averroes.InMetaph">Comm. in Metaph</title> XII, com. 39, p.
-            322E--F and com. 50, p. 336B--C (ed. Juncta).</note>
+            <note>
+              Non inventus, sed cf. <title ref="#Averroes.InMetaph">Comm. in
+              Metaph</title> XII, com. 39, p. 322E--F and com. 50, p. 336B--C
+              (ed. Juncta).
+            </note>
           </cit>
           , ergo idem iudicium est de speciebus intelligibilibus et est etiam de
           scientia. Sed auditum est quod sunt species in intellectu, ergo etiam
