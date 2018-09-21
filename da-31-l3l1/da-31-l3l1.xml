@@ -64,7 +64,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="la" type="critical">
     <front>
       <div xml:id="starts-on">
         <pb n="70-v" ed="#L"/><cb ed="#L" n="a"/>
@@ -85,13 +85,13 @@
         </head>
         <p xml:id="da-31-l3l1-5h9rre">
           Secundum <name ref="#Philoponus">Iohannem Grammaticum</name> et
-          secundum <name ref="#Averroes">Commentatorem</name> loquentes, hoc
-          incipit tertius liber de anima. Continuat ipsum ad libros praecedentes
-          sic: Supra determinat <name ref="#Aristotle">Philosophus</name> de
-          parte animae irrationali, sicut de vegetativo et sensitivo, hoc
-          intendit determinare de parte rationali, sicut de intellectu, et
-          dividitur in duas. Primo enim de intellectu praemittit suam
-          intentionem, secundo intentum suum exsequitur ibi
+          secundum communiter loquentes, hoc incipit tertius liber de anima.
+          Continuat ipsum ad libros praecedentes sic: Supra determinat <name
+          ref="#Aristotle">Philosophus</name> de parte animae irrationali, sicut
+          de vegetativo et sensitivo, hoc intendit determinare de parte
+          rationali, sicut de intellectu, et dividitur in duas. Primo enim de
+          intellectu praemittit suam intentionem, secundo intentum suum
+          exsequitur ibi
           <cit>
             <ref>
               <quote type="lemma">si igitur intelligere.</quote>
@@ -220,7 +220,10 @@
           quia quaedam potentia intellectiva est practica, et quaedam
           speculativa, sicut etiam inferius distinguetur intellectus in
           practicam et speculativam.
-          <gap extent="53" unit="lines" reason="editorial"/>
+        </p>
+        <p xml:id="da-31-l3l1-yymsx6">
+          <gap extent="50" unit="lines" reason="editorial"/><cb ed="#L" n="b"/>
+          <gap extent="3" unit="lines" reason="editorial"/>
         </p>
         <p xml:id="da-31-l3l1-y0dd0d">
           Deinde cum dicit
@@ -260,7 +263,7 @@
           cuius evidentiam est sciendum quod quidam intellectus est vocatus
           possibilis qui recipit omnes species intelligibiles. Alius autem
           dicitur intellectus agens per cuius virtutem intellectus possibilis
-          talis species recipit. Tertius est quidem intellectus in actu vicatus.
+          talis species recipit. Tertius est quidem intellectus in actu vocatus.
           Quarto est intellectus materialis et passivus, et secundum hoc
           dividitur pars in quatuor determinat enim primo de intellectu primo,
           secundo de secundo ibi
@@ -393,6 +396,8 @@
           et hoc modo est intelligendum quod
           intellectus possibilis est in potentia receptiva sui ipsius, scilicet
           specie et ratione, eo modo quo patebit.
+        </p>
+        <p xml:id="da-31-l3l2-dsp10p">
           <gap extent="2" unit="columns" reason="editorial"/>
           <pb ed="#L" n="71-r"/><cb ed="#L" n="b"/>
         </p>
@@ -426,7 +431,7 @@
               <lem type="conjecture-correction">aggeneratur</lem>
               <rdg wit="#L">aggeneretur</rdg>
             </app>
-            sive acquiritur habitus ita quod dicatur sciens. Littera ita posita,
+            sive acquiritur habitus ita quod dicatur sciens. Littera ita posita
             est differentia triplex inter sensum et intellectum. Sed cum
             intellectus actu fiat <quote type="lemma">singula</quote>,
             <app>
@@ -447,7 +452,7 @@
                 <name ref="#Aquinas">Expositorem</name>
               </ref>
               <quote type="paraphrase">
-                quod sicut pupilla est quodam modo omnis color eo quod est receptiva
+                quod sicut pupilla est quodammodo omnis color eo quod est receptiva
                 omnium colorum
               </quote>
               <bibl>
@@ -553,14 +558,16 @@
                 potuit quando voluit.
               </quote>
               <bibl>
-                <name ref="#Averroes">Averroes</name> ???
+                <name ref="#Averroes">Averroes</name>
+                <title ref="#Averroes.DA">In DA</title>
+                III.18, in 430a14--17, p. 438.25--29 (ed. Crawford).
               </bibl>
             </cit>
             Intellectus igitur habituatus et informatus intelligibilibus potest
             se ipsum considerare et intelligere quando velit, et in littera
             supra <name ref="#Aristotle">Philosophus</name> posuit sensum
             differe ab ipso, et dicit <mentioned>per se ipsum</mentioned>, quia
-            operari potest absque omni doctore extrinsico. Et hoc est quod dicit
+            operari potest absque omni doctore extrinseco. Et hoc est quod dicit
             <name ref="#Aristotle">Philosophus</name>, quod, supple intellectus,
             dicitur secundum actum. Hoc accidit statim cum possit per se ipsum
             considerare, et ex isto manifeste reprehenditur error
@@ -711,9 +718,8 @@
                 </subst>
               </rdg>
             </app>
-            . Et per hoc intellectus differt a sensu, quia sensus
-            non sentit nisi mediante organo, et quia inter sensum
-            <unclear>modo</unclear> et suum
+            . Et per hoc intellectus differt a sensu, quia sensus non sentit
+            nisi mediante organo, et quia inter sensum modo et suum
             <app>
               <lem>actum</lem>
               <rdg wit="#L" type="correction-substitution">
