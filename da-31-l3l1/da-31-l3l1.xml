@@ -737,18 +737,13 @@
             <unclear><supplied>et sensum</supplied></unclear>; ideo bene potest
             sentire suum proprium obiectum, nullo autem modo suum actum, nec per
             consequens se ipsum, et hoc etiam vult
-            <cit>
-              <ref>
-                <name ref="#Proclus">Proclus</name>, dicens
-              </ref>
-              <quote type="paraphrase">
-                omnis virtus corporea non potest esse reflexiva sui ipsius super
-                se ipsum propter transmutationem partium in organo.
-              </quote>
-              <bibl>
-                <name ref="#Proclus">Proclus</name> ???
-              </bibl>
-            </cit>
+            <ref>
+              <name ref="#Proclus">Proclus</name>, dicens
+            </ref>
+            <quote type="paraphrase">
+              omnis virtus corporea non potest esse reflexiva sui ipsius super
+              se ipsum propter transmutationem partium in organo.
+            </quote>
             Intellectus autem, propter causam oppositam, bene potest intelligere
             suum actum et per consequens se ipsum.
           </p>
