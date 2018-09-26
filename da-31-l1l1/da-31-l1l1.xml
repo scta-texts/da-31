@@ -69,7 +69,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <text xml:lang="la" type="critical">
     <front>
       <div xml:id="starts-on">
         <pb n="44v" ed="#L"/><cb n="b" ed="#L" />
